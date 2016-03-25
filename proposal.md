@@ -1,4 +1,4 @@
-Catching Serendipity: Making it Easy to Contribute to the Docs
+Catching Serendipity: Making it Easy to Write the Docs
 =======
 Last year was my first year at Write the Docs, and I knew nothing about Git or Markdown. Back in those days, we wrote developer docs in structured XML pages that were locked away in a private enlistment of proprietary tools and complex schemas. Publishing happened on a schedule, usually weekly, sometimes longer.  New writers had to spend a few days getting permissions and learning the authoring environment.  Outside contributions happened via attachments in email.
 
