@@ -8,6 +8,7 @@ In this talk, I'll provide eight essential tips that I wish someone had given me
 * The mole principle
 * Why you need a samurai sword
 * The secret key to tech review
+* The best questions you can ask
 * ...and more hacks for your general day-to-day workflow
 
 With these principles, you'll take back control of your schedule, make your customers happier, find the info you need faster,
