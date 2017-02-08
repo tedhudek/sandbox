@@ -2,7 +2,7 @@
 
 Want to be a more effective writer?  Want to future proof yourself as we move into the new world of collaborative authoring?
 
-In this talk, I'll provide eight essential tips that I wish someone had given me when I started as a tech writer 18 years ago.  You'll learn:
+In this talk, I'll provide eight essential tips that I wish someone had given me when I started as a tech writer 18 years ago.  I'll discuss:
 
 * Driving your agenda
 * The mole principle
