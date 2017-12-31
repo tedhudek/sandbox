@@ -1,4 +1,6 @@
-def loop_it(i) :
+import random
+
+def weekday(i) :
         if i==1 :
             print('Monday!')
         elif i==2 :
@@ -21,4 +23,10 @@ def weekend() :
     print('Visit Costco.')
     print('Call Grandma B.')
 
-loop_it(33)
+for i in range(0,10) :
+    r=random.randint(1,7)
+    print('The random number is'),r
+    if (r>=1) and (r<=5) :
+        weekday(r)
+    else :
+        weekend()

@@ -1,12 +1,22 @@
-def test-pow(testnum) : # return true if yes, false if no
-    while s integer:
-#       is it one? if yes, return true
-#       if it's not one, divide result by 2
-#
+def test_pow(testnum) : # return true if yes, false if no
+    while testnum==int(testnum) :
+        print testnum,('is an integer value so we are starting the while loop.')
+        print('Type of testnum is'),type(testnum)
+        if testnum==1 :
+            print testnum,('is one, so returning true from function.')
+            return TRUE
+        else :
+            print testnum,('is not one, so dividing it by 2.')
+            testnum=testnum/2
+            print ('Value is now'),testnum           
+    print testnum,('is not an integer value so returning failure.')
+    return FALSE
 
 # input a number
 
-num=258
+num=1000000000
+print('Starting with'),num
+test_pow(float(num))
 
 # startingnum, testnum
 # while testnum is greater than zero:
