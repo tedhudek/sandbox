@@ -1,32 +1,33 @@
+# 12/31/17
+# Base Conversion Program
+
 def test_pow(testnum) : # return true if yes, false if no
     while testnum==int(testnum) :
-        print testnum,('is an integer value so we are starting the while loop.')
-        print('Type of testnum is'),type(testnum)
+        #print testnum,('is an integer value so we are starting the while loop.')
+        #print('Type of testnum is'),type(testnum)
         if testnum==1 :
-            print testnum,('is one, so returning true from function.')
-            return TRUE
+            #print testnum,('is one, so returning true from function.')
+            return True
         else :
-            print testnum,('is not one, so dividing it by 2.')
+            #print testnum,('is not one, so dividing it by 2.')
             testnum=testnum/2
-            print ('Value is now'),testnum           
-    print testnum,('is not an integer value so returning failure.')
-    return FALSE
+            #print ('Value is now'),testnum           
+    #print testnum,('is not an integer value so returning failure.')
+    return False
 
 # input a number
 
-num=1000000000
-print('Starting with'),num
-test_pow(float(num))
+starting_num=1000000
 
-# startingnum, testnum
-# while testnum is greater than zero:
-#   is number power of 2? if yes, display the number and then subtract it from the previous total
-#   if no, subtract one
-
-
-
+while starting_num>0 :
+    num=starting_num
+    while test_pow(float(num))==False :
+        #print('We tested '),num,(' and it failed.')
+        num=num-1
+    print('Found a power! It is '),num
+    starting_num=starting_num-num
 
 
-# test cases:
-# 138: 128, 8, 2
-
+# next steps: output binary values instead of power factors
+# take keyboard input
+# change base
