@@ -31,10 +31,24 @@ while starting_num>0 :
     starting_num=starting_num-num
 
 print(power_factors)
+number_of_factors=len(power_factors)
+
+current_place_value=1
+current_test_index=number_of_factors-1
+
+while current_test_index>=0 :
+    # is power_factors[current_test_index]==current_place_value?
+    # if yes, output current_place_value is 
+
+
+    current_test_index--
+
 
 # next steps: output binary values instead of power factors
 # take keyboard input
 # change base
 
-# current output: 64,4,2. set pointer to right-most value.
-# test 1,2,4,8,16,32,64,128...
+# power factors: 128, 16, 4, 2. set pointer to right-most value.
+# test 1, 2, 4, 8, 16...
+# 530: 256, 256, 16, 1, 1
+# 0x212 (2 in 256's column, 1 in 16's column, 2 in 1's column)
