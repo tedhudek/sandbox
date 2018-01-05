@@ -52,3 +52,7 @@ while current_test_index>=0 :
 # test 1, 2, 4, 8, 16...
 # 530: 256, 256, 16, 1, 1
 # 0x212 (2 in 256's column, 1 in 16's column, 2 in 1's column)
+
+# 10 should map to 65
+# if count>9, ascii(val)=+55
+# so if count is 12, return ascii(67)
