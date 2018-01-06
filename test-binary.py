@@ -1,47 +1,43 @@
-# 1/1/18
+# 1/6/18
 # Base Conversion Program
 
-power_factors=[]
+#power_factors=[]
+BASE=16
+factor_counts=[]
 
 def test_pow(testnum) : # return true if yes, false if no
+    num_total_divides=0
     while testnum==int(testnum) :
         #print testnum,('is an integer value so we are starting the while loop.')
         #print('Type of testnum is'),type(testnum)
         if testnum==1 :
             #print testnum,('is one, so returning true from function.')
-            return True
+            return num_total_divides
         else :
             #print testnum,('is not one, so dividing it by 2.')
-            testnum=testnum/2
+            testnum=testnum/BASE
+            num_total_divides=num_total_divides+1
             #print ('Value is now'),testnum           
     #print testnum,('is not an integer value so returning failure.')
-    return False
+    return -1
 
 # input a number
 
-starting_num=150
+starting_num=60
 
 while starting_num>0 :
     num=starting_num
-    while test_pow(float(num))==False :
+    while test_pow(float(num))==-1 :
         #print('We tested '),num,(' and it failed.')
         num=num-1
-    #print('Found a power! It is '),num
-    power_factors.append(num)
+    print('Found a power! It is '),num
+    print('And the exponent is
+    #if len(factor_counts)==0 :
+    #power_factors.append(num)
     starting_num=starting_num-num
 
 print(power_factors)
-number_of_factors=len(power_factors)
-
-current_place_value=1
-current_test_index=number_of_factors-1
-
-while current_test_index>=0 :
-    # is power_factors[current_test_index]==current_place_value?
-    # if yes, output current_place_value is 
-
-
-    current_test_index--
+#number_of_factors=len(power_factors)
 
 
 # next steps: output binary values instead of power factors
