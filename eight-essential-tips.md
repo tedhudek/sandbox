@@ -23,5 +23,4 @@ This talk is for all documentarians, with a slight skew to those newer to the di
 
 ## Bio
 
-My name is Ted Hudek, and I've been a tech writer at Microsoft for almost 20 years. I first came to WTD in 2015, when I was blown away to find all the people like me. Then I came back in 2016 and was part of the first WTD panel, where I discussed open publishing work at Microsoft. Later in 2016, I was a guest on the Not-Boring Tech Writer podcast hosted by Jacob Moses.
-
+My name is Ted Hudek, and I've been a tech writer at Microsoft for over 18 years. I was one of the pioneers at the company in implementing open publishing, and was amazed when I first came to WTD in 2015 to discover all the people like me. I was so excited that pitched a talk in 2016 and wound up on the first WTD panel, where I discussed open publishing work at Microsoft. Later in 2016, I was a guest on the Not-Boring Tech Writer podcast hosted by Jacob Moses.
