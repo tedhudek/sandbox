@@ -1,4 +1,4 @@
-# 1/6/18
+# 1/16/18
 # Base Conversion Program
 
 #power_factors=[]
@@ -23,20 +23,28 @@ def test_pow(testnum) : # return true if yes, false if no
 
 # input a number
 
-starting_num=60
+starting_num=34
 
 while starting_num>0 :
     num=starting_num
-    while test_pow(float(num))==-1 :
-        #print('We tested '),num,(' and it failed.')
+    while True :
+        x=test_pow(num)
+        if x != -1 : # break out because num is a power
+            break
+        # otherwise say we failed and test the next number
+        # print('We tested '),
+        # print(num)
+        # print(' and it failed.')
         num=num-1
-    print('Found a power! It is '),num
-    print('And the exponent is
+    print('Found a power! It is '),
+    print(num)
+    print('And the exponent is '),
+    print(x)
     #if len(factor_counts)==0 :
     #power_factors.append(num)
     starting_num=starting_num-num
 
-print(power_factors)
+#print(power_factors)
 #number_of_factors=len(power_factors)
 
 
