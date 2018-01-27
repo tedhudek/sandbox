@@ -1,8 +1,12 @@
 # 1/16/18
 # Base Conversion Program
 
-BASE=2
+# input a number or add a GUI
+
+BASE=20
+starting_num=22
 factor_counts=[]
+final_result=''
 
 def test_pow(testnum) : # return true if yes, false if no
     num_total_divides=0
@@ -14,9 +18,10 @@ def test_pow(testnum) : # return true if yes, false if no
             num_total_divides=num_total_divides+1
     return -1
 
-# input a number
-
-starting_num=20
+def convert_to_value(digit):
+    global final_result
+    digit=digit+55
+    final_result=final_result+chr(digit)
 
 while starting_num>0 :
     num=starting_num
@@ -25,7 +30,7 @@ while starting_num>0 :
         if x != -1 : # break out because num is a power
             break
         num=num-1
-    print('Found a power! It is %i and the exponent is %i'%(num,x))
+    #print('Found a power! It is %i and the exponent is %i'%(num,x))
     if not factor_counts:
         # list is empty so let's initialize it
         factor_counts=[0] * x
@@ -35,8 +40,16 @@ while starting_num>0 :
         factor_counts[x]=factor_counts[x]+1
     starting_num=starting_num-num
 
+# print(factor_counts)
+factor_counts.reverse()
 
-print(factor_counts)
+for digit in factor_counts:
+    if digit>9:
+        convert_to_value(digit)
+    else:
+        final_result=final_result+str(digit)
+
+print(final_result)
 
 # next steps: output binary values instead of power factors
 # take keyboard input
@@ -48,3 +61,5 @@ print(factor_counts)
 # 10 should map to 65
 # if count>9, ascii(val)=+55
 # so if count is 12, return ascii(67)
+
+# then display each digit in concatenated form
