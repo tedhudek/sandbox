@@ -63,3 +63,4 @@ print(final_result)
 # so if count is 12, return ascii(67)
 
 # then display each digit in concatenated form
+# add code comments, test big numbers, add GUI
