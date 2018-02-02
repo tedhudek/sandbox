@@ -1,6 +1,6 @@
 # Eight Essential Tips: Abstract
 
-In this talk, I'll provide eight essential tips that will help you become a more effective tech writer. These are core principles that have guided me during almost two decades in the business.  I'll illustrate each one with real-life stories to show you the kind of results you can get.
+In this talk, I'll provide eight essential tips that will help you become a more effective tech writer. These are core principles that have guided me during almost two decades in the business.  I'll illustrate each one with real-life stories to show you what kind of results you can expect.
 
 The tips are:
 
@@ -13,4 +13,4 @@ The tips are:
 7. Always keep learning.
 8. Say yes.
 
-I'll include a bonus tip.  This talk is for all documentarians, with a slight skew to those newer to the discipline. Basic writing workflow is the only assumed background knowledge. The takeaway is that the writer is more empowered, effective, and has a more enriching career.
+I'll include a bonus tip.  This talk is for all documentarians, with a slight skew to those newer to the discipline. Basic writing workflow is the only assumed background knowledge. With these tips, you'll be more empowered, more effective, and have a more enriching career.
