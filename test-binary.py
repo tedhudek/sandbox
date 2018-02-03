@@ -1,24 +1,29 @@
-# 1/27/18
+# 2/3/18
 # Base Conversion Program
 
-# input a number or add a GUI
+import time
+from tkinter import *
+start_time = time.time()
 
-BASE=20
-starting_num=22
+BASE=10
+starting_num=80
 factor_counts=[]
 final_result=''
+root=Tk()
 
 def test_pow(testnum) : # return true if yes, false if no
+    # keep dividing by BASE and return true if we get to one
     num_total_divides=0
     while testnum==int(testnum) :
         if testnum==1 :
-            return num_total_divides
+            return num_total_divides # exponent of power
         else :
             testnum=testnum/BASE
             num_total_divides=num_total_divides+1
     return -1
 
 def convert_to_value(digit):
+    # digit is greater than 9, so convert it to a character, starting with A for 10
     global final_result
     digit=digit+55
     final_result=final_result+chr(digit)
@@ -26,21 +31,21 @@ def convert_to_value(digit):
 while starting_num>0 :
     num=starting_num
     while True :
+        # print('Testing %i'%num)
         x=test_pow(num)
         if x != -1 : # break out because num is a power
             break
         num=num-1
-    #print('Found a power! It is %i and the exponent is %i'%(num,x))
     if not factor_counts:
         # list is empty so let's initialize it
         factor_counts=[0] * x
         factor_counts.append(1)
     else:
-        # list is not empty, so add one to the proper column
+        # list is already populated, so add one to the proper column
         factor_counts[x]=factor_counts[x]+1
     starting_num=starting_num-num
 
-# print(factor_counts)
+# by default, lists display the zero element on the left, so flip it around before we output digits
 factor_counts.reverse()
 
 for digit in factor_counts:
@@ -50,17 +55,11 @@ for digit in factor_counts:
         final_result=final_result+str(digit)
 
 print(final_result)
+print("--- %s seconds ---" % (time.time() - start_time))
 
-# next steps: output binary values instead of power factors
+Label(root, text='Hello World').pack()
+root.mainloop()
+
 # take keyboard input
-# change base
-
-# 530: 256, 256, 16, 1, 1
-# 0x212 (2 in 256's column, 1 in 16's column, 2 in 1's column)
-
-# 10 should map to 65
-# if count>9, ascii(val)=+55
-# so if count is 12, return ascii(67)
-
 # then display each digit in concatenated form
 # add code comments, test big numbers, add GUI
