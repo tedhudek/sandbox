@@ -3,10 +3,11 @@
 
 import time
 from tkinter import *
-start_time = time.time()
+#start_time = time.time()
 
-BASE=10
-starting_num=80
+BASE=16
+starting_num=46
+s=starting_num # make a copy for final display purposes
 factor_counts=[]
 final_result=''
 root=Tk()
@@ -54,10 +55,12 @@ for digit in factor_counts:
     else:
         final_result=final_result+str(digit)
 
-print(final_result)
-print("--- %s seconds ---" % (time.time() - start_time))
+Label(root, text='Converted %i to base %i'%(s,BASE)).pack()
+Label(root, text='Result is %s'%final_result).pack()
+#print(final_result)
+#time_string="--- %s seconds ---" % (time.time() - start_time)
+#Label(root, text=time_string).pack()
 
-Label(root, text='Hello World').pack()
 root.mainloop()
 
 # take keyboard input
