@@ -66,3 +66,4 @@ root.mainloop()
 # take keyboard input
 # then display each digit in concatenated form
 # add code comments, test big numbers, add GUI
+# http://epydoc.sourceforge.net/docstrings.html
