@@ -1,3 +1,4 @@
+
 # 2/3/18
 # Base Conversion Program
 
@@ -66,4 +67,5 @@ root.mainloop()
 # take keyboard input
 # then display each digit in concatenated form
 # add code comments, test big numbers, add GUI
+# share code with others?
 # http://epydoc.sourceforge.net/docstrings.html
