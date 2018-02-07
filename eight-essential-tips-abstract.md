@@ -17,5 +17,5 @@ There might even be a surprise bonus tip. This talk is for all documentarians, w
 
 ## Tweet
 
-Today at #writethedocs, I'll talk tips for #techcomm, core principles that have guided me during two decades in the biz, illustrated with real-world stories to show results you can expect.
+Today at #writethedocs, I'll talk tips for #techcomm, core principles that have guided me during two decades in the biz, illustrated with real-world stories to show results you can expect. Hope you can make it!
 
