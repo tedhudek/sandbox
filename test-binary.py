@@ -6,9 +6,8 @@ import time
 from tkinter import *
 #start_time = time.time()
 
-BASE=16
-starting_num=46
-s=starting_num # make a copy for final display purposes
+# BASE=16
+# starting_num=46
 factor_counts=[]
 final_result=''
 #root=Tk()
@@ -34,6 +33,11 @@ def convert_to_value(digit):
     digit=digit+55
     final_result=final_result+chr(digit)
 
+# TODO: (if we want to) test for valid integers, as described in:
+# https://stackoverflow.com/questions/26692611/how-do-you-input-integers-using-input-in-python
+starting_num=int(input("What number would you like to convert? "))
+BASE=int(input("Into what base would you like to convert your number? "))
+s=starting_num # make a copy for final display purposes
 
 while starting_num>0 :
     num=starting_num
