@@ -5,7 +5,7 @@ In this talk, I'll provide six essential tips that will help you become a more e
 1. Just ask. Be curious and network.
 
 * The idea for this talk started during the WTD hike in 2016, when Jacob Moses started asking about my work. Later he asked me to be a guest on his podcast to discuss how to future proof yourself as a tech writer. Be bold and just ask, as Jacob did, and you'll discover a wealth of new opportunities.
-* A few days ago, a PM pinged me about a bug and ask how it fit in my priority list.  Because he reminded me mid-morning, I wound up doing the task the same day.  Time your question.
+* Recently, a PM pinged me about a bug and asked how it fit in my priority list.  Because he reminded me mid-morning, I wound up doing the task the same day.  Time your question.
 * New person in related role emailed and said would love to hear feedback if you want to have coffee sometime.  Result was a highly productive meeting.
 * A few months ago, I asked if I could join a key strategic meeting.  It's a phone meeting with a tight agenda, so afterward I reach out to people individually to ask specific questions.
 * You can even ask with no words, just by being there: I used to camp out in the lounge of the feature team, and got plenty of serendipitous encounters.  People would come up and frequently say something like "That reminds me, I'd been meaning to tell you about xyz."
