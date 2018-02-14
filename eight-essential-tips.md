@@ -1,6 +1,6 @@
-# Eight Essential Tips for the Enlightened Tech Writer
+# Essential Tips for the Enlightened Tech Writer
 
-In this talk, I'll provide eight essential tips that will help you become a more effective tech writer. These are core principles that have guided me during almost two decades in the business:
+In this talk, I'll provide six essential tips that will help you become a more effective tech writer. These are core principles that have guided me during almost two decades in the business:
 
 1. Just ask. Be curious and network.
 
