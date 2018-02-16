@@ -2,29 +2,26 @@
 
 In this talk, I'll provide six essential tips that will help you become a more effective tech writer. These are core principles that have guided me during almost two decades in the business:
 
-1. Just ask. Be curious and network.
+1. Just ask. Be curious and network.  There are so many great ways to ask!
 
-* The idea for this talk started during the WTD hike in 2016, when Jacob Moses started asking about my work. Later he asked me to be a guest on his podcast to discuss how to future proof yourself as a tech writer. Be bold and just ask, as Jacob did, and you'll discover a wealth of new opportunities.
-* Recently, a PM pinged me about a bug and asked how it fit in my priority list.  Because he reminded me mid-morning, I wound up doing the task the same day.  Time your question.
-* New person in related role emailed and said would love to hear feedback if you want to have coffee sometime.  Result was a highly productive meeting.
-* A few months ago, I asked if I could join a key strategic meeting.  It's a phone meeting with a tight agenda, so afterward I reach out to people individually to ask specific questions.
-* You can even ask with no words, just by being there: I used to camp out in the lounge of the feature team, and got plenty of serendipitous encounters.  People would come up and frequently say something like "That reminds me, I'd been meaning to tell you about xyz."
+* The idea for this talk started during the WTD hike in 2016, when Jacob Moses started asking about my work. Later he asked me to be a guest on his podcast to discuss how to future proof yourself as a tech writer.  He started with curiosity and eventually got to asking as invitation. Ask how did you get started with that?
+* The opposite of asking as invitation is asking to join.  Proposing a talk falls in this category.
+* Ask as a request. Here we have the value of the lightweight ping.
+* Ask for feedback -- on the job I did, or I'd like to get your thoughts on some issue.
+* Question your prioritization: "should I even be working on this thing at all? Is it really a priority?" 
+* By asking, you're putting yourself in the field of play -- which you can even do by showing up and saying nothing: I used to camp out in the lounge of the feature team, and got plenty of serendipitous encounters.  People would come up and frequently say something like "That reminds me, I'd been meaning to tell you about xyz."
 
-2. Listen to customers wherever they are in their journey. At MS, we have a collaborative docs platform that empowers customers to give us feedback and propose changes, with a vastly shorter loop. Use data to inform content decisions. Quality is defined by customers not us, and we provide content to them where they are, whether that be on desktop or mobile.
+2. Listen.  As writers, we need to understand where customers are in their journey and where they need help. At MS, we have a collaborative docs platform that empowers customers to give us feedback and propose changes, with a vastly shorter loop. We use data to inform content decisions, what customers need, and what they don't. Quality is defined by customers not us, and we provide content to them where they are, for example on GitHub, or in relevant social media, or optimizing delivery for mobile.
 
-3. Tell stories.  This applies to everything you do.  Even your automatic email reply.  Pay attention to how you start. Newspaper articles frequently start with an anecdote. When you tell a story, adjust how you begin for the audience, providing a high level clue-in as needed.  Storytelling is one of the most important skills you can learn. It binds us together as humans. Focus on authenticity, build brand trust and create a more human experience. Choose the most important content sets to curate e2e experience.
+3. Tell stories.  This applies to everything you do.  Even your automatic email reply.  When you tell a story, adjust how you begin for the audience, providing a high level clue-in as needed.  Storytelling is one of the most important skills you can learn. It binds us together as humans. Focus on authenticity, build brand trust and create a more human experience. Choose the most important content sets to curate e2e experience.
 
-4. Own your stuff. As tech writers, sometimes we feel like we are at the end of the chain. Own your docs like a developer owns their code. You make the final decisions.  A writer asking "should the docs say x or y" is like a reporter asking "should the story say x or y." Ask for input, own the output.
-Also take ownership for the product experience as a whole. It is our responsibility to provide feedback to others teams when we see something that's not right. Think of yourself as an investigative reporter. We have a unique opportunity as writers to bind the product together.
+4. Own your stuff. As tech writers, sometimes we feel like we are at the end of the chain. Own your docs like a developer owns their code. You make the final decisions.  A writer asking "should the docs say x or y" is like a reporter asking "should the story say x or y." Ask for input, own the output. Also take ownership for the product experience as a whole. It is our responsibility to provide feedback to others teams when we see something that's not right. Think of yourself as an investigative reporter. We have a unique opportunity as writers to bind the product together.
 
-5. Minimum content. Our customers are overwhelmed. We've spent the last six months tearing down 100k topics and putting them in legacy. Our problem as content providers is how to keep customers informed of the latest without overwhelming them. The solution is to provide the least amount of content that ensures that your customers succeed. Get the content out fast and get customers going. "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." -- Antoine de Saint-Exupery
+5. Minimum content. We modern humans are overwhelmed. Day in and day out we face a constant stream of news, social media updates, alerts, pings, pokes, and more. We're fighting for attention, and customers have precious little to give. As writers, we need to create the least amount of content that gets the job done. Any more is too much.  Take Microsoft for example.  We've spent decades building up lots of dev docs and technical content. It's accumulated over the years and now, we've spent the last six months tearing down 100k topics and putting them in legacy. Our most important job is to give customers what they need without overwhelming them. The solution is to provide the least amount of content that ensures success for your customers. Get the content out fast and get customers going. "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." -- Antoine de Saint-Exupery
 
-6. Always keep learning. Have a preferred super tool for automating stuff.  (PowerShell, Python) Learn the tools your customers use. Learn by incremental doing.
-Stay relevant in market. <!--lifelong learner--> Seize opportunities, don't wait to work to be assigned to you, stand up and grab opportunities. Cultivate an all-in mindset.  Help and learn from others.
+6. Be a lifelong learner. I said this before, but be curious. Challenge yourself to wade into new waters and don't let complacency take hold. Not only help yourself, but help others along their journey. Consider mentoring as a powerful conduit for two-way knowledge exchange. Have a preferred super tool for automating stuff.  (PowerShell, Python) Learn the tools your customers use. Learn by incremental doing. Seize opportunities, don't wait to work to be assigned to you, stand up and grab opportunities. Cultivate an all-in mindset.
 
 A tiny but mighty bonus tip: Give praise.  Highest benefit to cost ratio you'll ever see. For example, we thank people for every pull request we receive.
-
-<!--focus on where we're going as a discipline-->
 
 ## Resources
 
