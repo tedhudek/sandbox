@@ -17,10 +17,10 @@ In this talk, I'll provide six essential tips that will help you become a more e
 4. Own your stuff. As tech writers, sometimes we feel like we are at the end of the chain. Own your docs like a developer owns their code. You make the final decisions.  A writer asking "should the docs say x or y" is like a reporter asking "should the story say x or y." Ask for input, own the output.
 Also take ownership for the product experience as a whole. It is our responsibility to provide feedback to others teams when we see something that's not right. Think of yourself as an investigative reporter. We have a unique opportunity as writers to bind the product together.
 
-5. Minimum content. Our customers are overwhelmed. We've spent the last six months tearing down 100k topics and putting them in legacy. Our problem as content providers is how to keep customers informed of the latest without overwhelming them. The solution is to provide the least amount of content that ensures that your customers succeed. Get the content out fast and get customers going. Perfection is not when you're can't add anything, but when you can't remove anything.
+5. Minimum content. Our customers are overwhelmed. We've spent the last six months tearing down 100k topics and putting them in legacy. Our problem as content providers is how to keep customers informed of the latest without overwhelming them. The solution is to provide the least amount of content that ensures that your customers succeed. Get the content out fast and get customers going. "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." -- Antoine de Saint-Exupery
 
 6. Always keep learning. Have a preferred super tool for automating stuff.  (PowerShell, Python) Learn the tools your customers use. Learn by incremental doing.
-Stay relevant in market. <!--need Dan's term for this--> Seize opportunities, don't wait to work to be assigned to you, stand up and grab opportunities. Cultivate an all-in mindset.  Help and learn from others.
+Stay relevant in market. <!--lifelong learner--> Seize opportunities, don't wait to work to be assigned to you, stand up and grab opportunities. Cultivate an all-in mindset.  Help and learn from others.
 
 A tiny but mighty bonus tip: Give praise.  Highest benefit to cost ratio you'll ever see. For example, we thank people for every pull request we receive.
 
