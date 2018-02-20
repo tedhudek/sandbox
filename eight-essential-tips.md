@@ -1,22 +1,30 @@
-# Eight Essential Tips for the Enlightened Tech Writer
+# Essential Tips for the Enlightened Tech Writer
 
-In this talk, I'll provide eight essential tips that will help you become a more effective tech writer. These are core principles that have guided me during almost two decades in the business. Here they are, distilled down into a half hour of concentrated fun:
+In this talk, I'll provide some essential tips that will help you become a more effective tech writer. These are core principles that have guided me during almost two decades in the business:
 
-1. Just ask. The idea for this talk started during the WTD hike in 2016, when Jacob Moses started asking about my work. Later he asked me to be a guest on his podcast to discuss how to future proof yourself as a tech writer.  The idea of being bold and just asking people, as Jacob did, is one of the most important things you can do.  I'll share a few of my favorite questions.
-2. Then, listen with an open heart and mind. Give your full attention. It's hard but it gets easier the more you practice.
-3. Tell stories.  This applies to everything you do.  Even your automatic email reply.  Pay attention to how you start. Newspaper articles frequently start with an anecdote. When you tell a story, adjust how you begin for the audience, providing a high level clue-in as needed.  Storytelling is one of the most important skills you can learn. I'll include resources at the end.
-4. Own your stuff. One of my former colleagues always had an excuse why he couldn't do something because someone else hadn't come through. As tech writers, sometimes we feel like we are at the end of the chain. A key realization is that you own your docs like a developer owns their code. You make the final decisions.  A writer asking "should the docs say x or y" is like a reporter asking "should the story say x or y" Instead, ask for input, own the output.
-5. Find go-to people. There is a doc-friendly person in every group. If they're willing, have them review your doc first.
-6. Minimum viable is your friend.  Use the "just send me something" gambit, with the caveat that it doesn't have to be perfect. When emailing on a tech review, instead of asking questions about the doc, put the actual text in the mail and iterate on that.   Include your default course of action in the event of no reply. 
-7. Always keep learning. Have a preferred super tool for automating stuff.  Learn by incremental doing.
-8. Say yes. Seize the moment when your manager says who wants to do the new task.  Cultivate an up for anything mindset.  Help others learn and succeed.
+1. Just ask. Be curious and network.  There are so many great ways to ask!
 
-A tiny but mighty bonus tip: Give praise.  Highest benefit to cost ratio you'll ever see.
+* The idea for this talk started during the WTD hike in 2016, when Jacob Moses started asking about my work. Later he asked me to be a guest on his podcast to discuss how to future proof yourself as a tech writer.  He started with curiosity and eventually got to asking as invitation. Ask how did you get started with that?
+* The opposite of asking as invitation is asking to join.  Proposing a talk falls in this category. <<I don't understand this... -L>>
+* Ask as a request. Here we have the value of the lightweight ping. <<Again, I'm not sure I really understand what you mean here.>>
+* Ask for feedback -- on the job I did, or I'd like to get your thoughts on some issue.
+* Question your prioritization: "should I even be working on this thing at all? Is it really a priority?" 
+* Ask by showing up and saying nothing: I used to camp out in the lounge of the feature team, and got plenty of serendipitous encounters.  People would come up and frequently say something like "That reminds me, I'd been meaning to tell you about xyz."
 
-## Who and Why
+2. Listen.  As writers, we need to understand where customers are in their journey and where they need help. At MS, we have a collaborative docs platform that empowers customers to give us feedback and propose changes, with a vastly shorter loop. We use data to inform content decisions, what customers need, and what they don't. Quality is defined by customers not us, and we provide content to them where they are, for example on GitHub, or in relevant social media, or optimizing delivery for mobile.
 
-This talk is for all documentarians, with a slight skew to those newer to the discipline. Basic writing workflow is the only assumed background knowledge. The takeaway is that the writer is more empowered, effective, and has a more enriching career.
+3. Tell stories.  This applies to everything you do.  Even your automatic email reply.  When you tell a story, adjust how you begin for the audience, providing a high level clue-in as needed.  Storytelling is one of the most important skills you can learn. It binds us together as humans. Focus on authenticity, build brand trust and create a more human experience. Choose the most important content sets to curate e2e experience.
 
-## Bio
+4. Own your stuff. As tech writers, sometimes we feel like we are at the end of the chain. Own your docs like a developer owns their code. You make the final decisions.  A writer asking "should the docs say x or y" is like a reporter asking "should the story say x or y." Ask for input, own the output.<<Love that sentence "Ask for input, own the output." you might be able to end this idea here and just tell a story about it. Maybe -L>> Also take ownership for the product experience as a whole. It is our responsibility to provide feedback to others teams when we see something that's not right. Think of yourself as an investigative reporter. We have a unique opportunity as writers to bind the product together.
 
-My name is Ted Hudek, and I've been a tech writer at Microsoft for 19 years. I came to WTD for the first time in 2015, where I was amazed to see a roomful of documentarians and even more amazed to hear about open publishing technologies. The year after, partially due to the exposure at WTD, I became one of the pioneers at Microsoft in implementing open publishing. I then came back to WTD in 2016 and told the story on the first WTD panel discussion. Later in 2016, I was a guest on the Not-Boring Tech Writer podcast hosted by Jacob Moses.
+5. Minimum content. Day in and day out we face a constant stream of news, social media updates, alerts, pings, pokes, and more. We're fighting for attention, and customers have precious little to give. As writers, we need to create the least amount of content that gets the job done. Any more is too much.  Take Microsoft for example.  We've spent decades building up lots of dev docs and technical content. It's accumulated over the years and now, we've spent the last six months tearing down 100k topics and putting them in legacy. Our most important job is to give customers what they need without overwhelming them. The solution is to provide the least amount of content that ensures success for your customers. Get the content out fast and get customers going. "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." -- Antoine de Saint-Exupery <<Add example that this talk started as "eight essential tips" but you took your own advice and simplified? -L>>
+
+6. Be a lifelong learner. I said this before, but be curious. Challenge yourself to wade into new waters and don't let complacency take hold. Not only help yourself, but help others along their journey. Mentoring is a powerful conduit for two-way knowledge exchange. Have a preferred super tool for automating stuff.  (PowerShell, Python) Learn the tools your customers use. Learn by incremental doing. Seize opportunities, don't wait to work to be assigned to you, stand up and grab opportunities. Cultivate an all-in mindset. Say yes.
+
+A tiny but mighty bonus tip: Give praise.  Highest benefit to cost ratio you'll ever see. For example, we thank people for every pull request we receive.
+
+## Resources
+
+* Gettings Things Done (notion of next action)
+* Brian McDonald on storytelling (podcasts and books)  Start with the 7 elements of a story, which are: xxx
+* Notes link
