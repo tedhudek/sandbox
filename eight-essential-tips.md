@@ -15,7 +15,7 @@ In this talk, I'll provide some essential tips that will help you become a more 
 2. Listen. In 2016, when I was last on stage here, I told you about MS's initial foray into open source publishing. If you had suggested to me five years ago that we chuck all of our structured XML out the window, convert all of our docs to souped up text files and share them on a third party website, I would have said you're nuts. But that's exactly what we did, and we did it in order to be able to listen to customers.  Microsoft's whole doc strategy the last couple years has been built around listening. We dumped MSDN with all its wheezing infrastructure, and we replaced it with a collaborative doc platform that empowers customers to give us feedback and propose changes, and we empowered writers to publish instantly. Anyone with a GitHub account can open an issue on our repo, right from the doc page. We back this up with data to inform content decisions, helping us figure out what customers need and what they don't. Quality is defined by customers, not us, and we provide content to them where they are, on GitHub, in social media, on mobile. Think of each thing as a conversation with one person, even if it's an issue on GitHub, think of it as a phone call or an email where you are trying to help one person.
 <!--drawing?-->
 
-3. Practice storytelling.  This applies to everything you do.  The best automatic email reply I ever saw was a tiny story. Whatever culture you're in, people crave stories. This means that storytelling is one of the most valuable skills you can learn.
+3. Practice storytelling.  This applies to everything you do.  The best automatic email reply I ever saw was this tiny story: "Out of town and patience until May 8" Whatever culture you're in, people crave stories. This means that storytelling is one of the most valuable skills you can learn.
 When you tell a story, start with appropriate context.
 How many times has someone started telling you something and not provided the context? Or come into your office and started in the middle of the problem?
 <!--Think of Apple commercials that showed you how to use the iPhone. Ad as tutorial! Then they put up a web page with links to the apps shown. Think of Claude Hopkins, who created the demand for toothpaste-->
@@ -53,6 +53,7 @@ A tiny but mighty bonus tip: Give praise. This only takes a couple minutes, but 
 * https://news.microsoft.com/stories/
 * Claude Hopkins (advertising executive who created the campaign for Pepsodent toothpaste)
 * Charles Duhigg: The Power of Habit: Why We Do What We Do in Life and Business
+    * http://charlesduhigg.com/how-the-history-of-toothpaste-explains-why-you-cant-lose-weight/
 
 <!--
 
