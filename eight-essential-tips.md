@@ -1,3 +1,4 @@
+
 # Seven Essential Tips for the Enlightened Tech Writer
 
 In this talk, I'll give you seven essential tips that will help you become a more effective tech writer. These are core principles that have guided me during almost two decades in the business.
@@ -19,8 +20,7 @@ Anyone with a GitHub account can open an issue on our repo, right from the doc p
 Think of each thing as a conversation with one person, even if it's an issue on GitHub, think of it as a phone call or an email where you are trying to help one person.
 <!--drawing?-->
 
-3. Practice storytelling.  This applies to everything you do. Whatever culture you're in, people crave stories. This means that storytelling is one of the most valuable skills you can learn.
-* Start with the 7 elements of a story, which are:
+3. Practice storytelling.  This applies to everything you do. Whatever culture you're in, people crave stories. This means that storytelling is one of the most valuable skills you can learn. Start with the 7 elements of a story, which are:
     1. Once upon a time...
     2. And every day...
     3. Until one day...
