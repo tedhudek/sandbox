@@ -60,7 +60,7 @@ Let's review what she did. At the very beginning, she said yes to a challenging 
 * Claude Hopkins (advertising executive who created the campaign for Pepsodent toothpaste)
 * Charles Duhigg: The Power of Habit: Why We Do What We Do in Life and Business
     * http://charlesduhigg.com/how-the-history-of-toothpaste-explains-why-you-cant-lose-weight/
-
+* Acknowledgements
 
 <!-- listen for intent
 add more "we at MS do x"
