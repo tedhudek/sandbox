@@ -20,7 +20,7 @@ Anyone with a GitHub account can open an issue on our repo, right from the doc p
 Think of each thing as a conversation with one person, even if it's an issue on GitHub, think of it as a phone call or an email where you are trying to help one person.
 <!--drawing?-->
 
-3. Practice storytelling.  This applies to everything you do. Whatever culture you're in, people crave stories. This means that storytelling is one of the most valuable skills you can learn. Start with the 7 elements of a story, which are:
+3. Practice storytelling. This tip is a global one. It applies to all professions. See Lincoln, Abraham. Whatever culture you're in, people crave stories. This means that storytelling is one of the most valuable skills you can learn. Start with the 7 elements of a story, which are:
     1. Once upon a time...
     2. And every day...
     3. Until one day...
@@ -29,7 +29,6 @@ Think of each thing as a conversation with one person, even if it's an issue on 
     6. Until finally...
     7. And ever since that day...
 
-This one is a global one. It applies to all professions. See Lincoln, Abraham.
 <!--Lincoln-->
 
 4. Own your stuff. As tech writers, sometimes we feel like we are at the end of the chain. But here's the real truth: you own a chunk of docs just like a developer owns a chunk of code. When it comes to your docs, you make the final decisions.  Sure, you're going to ask a bunch of people for feedback and buyoff on your docs. But a writer asking "should the docs say x or y" is like a reporter asking "should the story say x or y." Be accountable. Ask for input, own the output.
