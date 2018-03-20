@@ -42,6 +42,9 @@ Tell your story on social media.
 
 A tiny but mighty bonus tip: Give praise. This only takes a couple minutes, but it's incredible how many people don't do it. Try it and you will discover the highest benefit to cost ratio you'll ever see. For example, we thank people for every pull request we receive.
 
+To close, I have a story for you. Once upon a time, there was a technical writer. Every day, she would bang her head on specs and headers and try to figure out how to document a feature. Every day, the doc wouldn't get done and she would go home frustrated. Until one day, she had an idea. She asked her feature team how the feature worked. Because of this, she was able to post some minimal content internally and start collaborating. And because of this, the feature team added some key points. Until finally, she published the doc to the live website. Ever since that day, customers rate the content highly and our writer heroine feels satisfied and confident, ready to say yes to the next writing opportunity.
+<!--make it seven, and end it with a seven-point story using the tips from within. have T do art for each page, and consider paying for the art-->
+
 ## Resources
 
 * Gettings Things Done (notion of next action)
