@@ -1,7 +1,7 @@
 # Seven Essential Tips for the Enlightened Tech Writer
 
 In this talk, I'll give you seven essential tips that will help you become a more effective tech writer. These are core principles that have guided me during almost two decades in the business.
-At the end, I'll toss in a tiny but mighty bonus tip, and then I'll tell you a story.
+At the end, I'll toss in a tiny but mighty bonus tip, and then I'll tell you a story. Ready? Here we go.
 
 1. Just ask.
 
@@ -28,6 +28,7 @@ Think of each thing as a conversation with one person, even if it's an issue on 
     5. And because of this...
     6. Until finally...
     7. And ever since that day...
+
 This one is a global one. It applies to all professions. See Lincoln, Abraham.
 <!--Lincoln-->
 
@@ -52,7 +53,7 @@ To close, I have a fictional story for you, but if you pay close attention, you 
 
 * Brian McDonald on storytelling and specifically the 7 elements (find him in podcasts and books)
 * Gettings Things Done (notion of next action)
-* Notes link
+* Link to my slides
 * https://news.microsoft.com/stories/
 * Claude Hopkins (advertising executive who created the campaign for Pepsodent toothpaste)
 * Charles Duhigg: The Power of Habit: Why We Do What We Do in Life and Business
