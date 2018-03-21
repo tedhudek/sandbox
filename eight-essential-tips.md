@@ -12,17 +12,26 @@ Two years ago, I went on the WTD hike. During the hike, I met a young writer by 
 * Ask how did you get started with that?
 <!--drawing-->
 
-2. Listen. In 2016, when I was last on stage here, I told you about MS's initial foray into open source publishing. If you had suggested to me five years ago that we chuck all of our structured XML out the window, convert all of our docs to souped up text files and share them on a third party website, I would have said you're nuts.
-But that's exactly what we did, and we did it in order to be able to listen to customers.  Microsoft's whole doc strategy the last couple years has been built around listening. We're phasing out MSDN with its crusty old infrastructure, and we're replacing it with a collaborative doc platform.
-Anyone can open a GitHub issue, right from the doc page. We back all this up with data to inform content decisions, helping us figure out what customers need and what they don't. Quality is defined by customers, not us, and we provide content to them where they are, on GitHub, in social media, on mobile.
-When I'm interacting with a customer on GitHub, I think it as a conversation with one person, like a phone call or an email where you are trying to help one person.
+2. Listen.
+
+* In 2016, when I was last on stage here, I told you about MS's initial foray into open source publishing. If you had suggested to me five years ago that we chuck all of our structured XML out the window, convert all of our docs to souped up text files and share them on a third party website, I would have said you're nuts. But that's exactly what we did, and we did it in order to be able to listen to customers.
+* Microsoft's whole doc strategy the last couple years has been built around listening. We're phasing out MSDN with its crusty old infrastructure, and we're replacing it with a collaborative doc platform.
+* So now every day we get a bunch of issues and PRs, and we get actionable intelligence that helps us figure out what customers use and what they don't. We can respond and make immediate changes to the published site. Quality is defined by customers, not us, and we provide content to them where they are, on GitHub, in social media, on mobile.
+* But when it's all said and done, When I'm interacting with a customer, I just try to help that one person, like a phone call or an email.
 <!--drawing?-->
 
-3. Create minimum content. As writers, we're fighting for limited attention cycles. To be successful, we need to create the least amount of content that gets the job done. Any more is too much. At Microsoft, we spent decades building up tons of dev docs and technical content. In the last six months, we've torn down over a million pages of old content, with more on the way. The new way we work is enabled by the new collaborative toolchain. Once you have a minimal lump of clay, start collaborating on it. Once it's viable, publish it. Improve it in the public view, with the input of your customers. They'll tell you loud and clear if something doesn't work. Get the content out fast and get customers going.
-"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." -- Antoine de Saint-Exupery
+3. Create minimum content.
+
+* As writers, we're fighting for limited attention cycles. To be successful, we need to create the least amount of content that gets the job done. Any more is too much. At Microsoft, we spent decades building up tons of dev docs and technical content. In the last six months, we've torn down over a million pages of old content, with more on the way. The new way we work is enabled by the new collaborative platform.
+* Once you have a minimal lump of clay, start collaborating on it. Once it's viable, publish it. Improve it in the public view, with the input of your customers. They'll tell you loud and clear if something doesn't work. Get the content out fast and get customers going.
+* "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." -- Antoine de Saint-Exupery
 <!--sculpture?-->
 
-4. Own your stuff. As tech writers, sometimes we feel like we are at the end of the chain. But here's the real truth: you own a chunk of docs just like a developer owns a chunk of code. When it comes to your docs, you make the final decisions.  Sure, you're going to ask a bunch of people for feedback and buyoff on your docs. But a writer asking "should the docs say x or y" is like a reporter asking "should the story say x or y." Be accountable. Ask for input, own the output.
+4. Practice ownership.
+
+* As tech writers, sometimes we feel like we are at the end of the chain. But here's the real truth: you own a chunk of docs just like a developer owns a chunk of code. When it comes to your docs, you make the final decisions.  Sure, you're going to ask a bunch of people for feedback and buyoff on your docs. But a writer asking "should the docs say x or y" is like a reporter asking "should the story say x or y." Be accountable. Ask for input, own the output.
+* You can also practice ownership with the product as a whole. You don't own all the parts, but as a writer, you're in a unique position to bind the product together. Writers are frequently the glue that ties dev to test, or test to customer. Our role spans disciplines, and puts us, as writers, in a unique position to spot issues and drive quality. Take ownership for the product experience as a whole, not just the docs. Think of yourself as an investigative reporter. At MS, selfhosting is part of the culture, for products as well as internal tools.
+
 <!--ownership-->
 
 5. Be a lifelong learner. Be curious. Challenge yourself to wade into new waters. Have a preferred super tool for automating stuff.  For me, it's PowerShell and Python. Learn the tools your customers use. Learn by incremental doing. After you learn it, teach it to others. As MS, we do mentoring, which is a powerful conduit for two-way knowledge exchange.  Learn by incremental doing. Start with baby steps. set time and place to start. make some baby steps. have a review buddy/social obligation.
@@ -70,7 +79,7 @@ Define the problem. Things were going great, and then... you hit this problem. H
 When you speak with authenticity, you build brand trust and create a more human experience.
 Tell your story on social media.
 
-5. Corollary: own your product. As writers, we have a unique opportunity to bind the product together. Many times I have seen writers be the glue that ties dev to test, or test to customer. Our role spans disciplines, and puts us, as writers, in a unique position to spot issues and drive quality. Take ownership for the product experience as a whole, not just the docs. Think of it as your responsibility to provide feedback to other teams when you see something that's not right. Think of yourself as an investigative reporter. At MS, selfhosting is part of the culture, for products as well as internal tools.
+5. Corollary: own your product.
 
 In this talk, I'll give you seven essential tips that will help you become a more effective tech writer. These are core principles that have guided me during almost two decades in the business.
 At the end, I'll toss in a tiny but mighty bonus tip, and then I'll tell you a story. Ready? Here we go.
