@@ -1,26 +1,24 @@
 
 # Seven Essential Tips for the Enlightened Tech Writer
 
-In this talk, I'll give you seven essential tips that will help you become a more effective tech writer. These are core principles that have guided me during almost two decades in the business.
-At the end, I'll toss in a tiny but mighty bonus tip, and then I'll tell you a story. Ready? Here we go.
+Two years ago, I went on the WTD hike. During the hike, I met a young writer by the name of Jacob. Jacob started asking me about my work. He asked me many questions over the course of the conference. A few weeks after the conference I got an email from Jacob, asking me to be a guest on his podcast to discuss how to future proof yourself as a tech writer. That interview served as the foundation for this talk. Jacob was practicing the first tip I'm going to share with you today, which is...
 
 1. Just ask.
 
-* The idea for this talk started during the WTD hike in 2016, when Jacob Moses asked about my work. Later he asked me to be a guest on his podcast to discuss how to future proof yourself as a tech writer. That interview served as the foundation for this talk.
-* I asked three times to give this talk. First I asked the WTD organizers if I could give a talk. Nothing ventured, nothing gained. They said no, so then I asked how I could improve it. Very kindly, they gave me a few suggestions, so I retooled and pitched it again.
+* So I took a cue from Jacob and asked the WTD organizers if I could give a talk. Guess what? They said no. So then I asked how I could improve it. Eric was kind enough to give me a few suggestions, so I retooled and pitched it again. That's three times I asked, and here I am.
 * When there's something you're waiting for someone to do, ask how it fits in their priority list. Seems trivial, right? But if choose your timing wisely and ask politely, you'll really increase the odds of a speedy turnaround.
 * Ask for feedback. Not only do you get suggestions for improvements, but you let people know that you care about the quality of your work, and you care if they got what they needed from you. It shows people you're interested in taking care of them, and people love that.
-* Show up and say nothing: I used to camp out in the lounge of the feature team first thing in the morning. When they arrived, I always got plenty of serendipitous encounters.  People would come up frequently and say something like "Seeing you reminds me, I'd been meaning to tell you about xyz."
+* Or, show up and say nothing: I used to camp out in the lounge of the feature team. They would come in first thing in the morning, see me, and say: "Seeing you reminds me, I'd been meaning to tell you about xyz."
 * Ask how did you get started with that?
 <!--drawing-->
 
 2. Listen. In 2016, when I was last on stage here, I told you about MS's initial foray into open source publishing. If you had suggested to me five years ago that we chuck all of our structured XML out the window, convert all of our docs to souped up text files and share them on a third party website, I would have said you're nuts.
-But that's exactly what we did, and we did it in order to be able to listen to customers.  Microsoft's whole doc strategy the last couple years has been built around listening. We dumped MSDN with its crusty old infrastructure, and we replaced it with a collaborative doc platform that empowers customers to give us feedback and propose changes. And we empowered writers to publish instantly.
-Anyone with a GitHub account can open an issue on our repo, right from the doc page. We back this up with data to inform content decisions, helping us figure out what customers need and what they don't. Quality is defined by customers, not us, and we provide content to them where they are, on GitHub, in social media, on mobile.
-Think of each thing as a conversation with one person, even if it's an issue on GitHub, think of it as a phone call or an email where you are trying to help one person.
+But that's exactly what we did, and we did it in order to be able to listen to customers.  Microsoft's whole doc strategy the last couple years has been built around listening. We're phasing out MSDN with its crusty old infrastructure, and we're replacing it with a collaborative doc platform.
+Anyone can open a GitHub issue, right from the doc page. We back all this up with data to inform content decisions, helping us figure out what customers need and what they don't. Quality is defined by customers, not us, and we provide content to them where they are, on GitHub, in social media, on mobile.
+When I'm interacting with a customer on GitHub, I think it as a conversation with one person, like a phone call or an email where you are trying to help one person.
 <!--drawing?-->
 
-3. Create minimum content. As writers, we're fighting for limited attention cycles. To be successful, we need to create the least amount of content that gets the job done. Any more is too much.  At Microsoft, we spent decades building up tons of dev docs and technical content. In the last six months, we've torn down one and a half million pages of old content, with more on the way. The new way we work is enabled by the new collaborative toolchain. Once you have a minimal lump of clay, start collaborating on it. Once it's viable, publish it. Improve it in the public view, with the input of your customers. They'll tell you loud and clear if something doesn't work. Get the content out fast and get customers going.
+3. Create minimum content. As writers, we're fighting for limited attention cycles. To be successful, we need to create the least amount of content that gets the job done. Any more is too much. At Microsoft, we spent decades building up tons of dev docs and technical content. In the last six months, we've torn down over a million pages of old content, with more on the way. The new way we work is enabled by the new collaborative toolchain. Once you have a minimal lump of clay, start collaborating on it. Once it's viable, publish it. Improve it in the public view, with the input of your customers. They'll tell you loud and clear if something doesn't work. Get the content out fast and get customers going.
 "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." -- Antoine de Saint-Exupery
 <!--sculpture?-->
 
@@ -74,4 +72,6 @@ Tell your story on social media.
 
 5. Corollary: own your product. As writers, we have a unique opportunity to bind the product together. Many times I have seen writers be the glue that ties dev to test, or test to customer. Our role spans disciplines, and puts us, as writers, in a unique position to spot issues and drive quality. Take ownership for the product experience as a whole, not just the docs. Think of it as your responsibility to provide feedback to other teams when you see something that's not right. Think of yourself as an investigative reporter. At MS, selfhosting is part of the culture, for products as well as internal tools.
 
+In this talk, I'll give you seven essential tips that will help you become a more effective tech writer. These are core principles that have guided me during almost two decades in the business.
+At the end, I'll toss in a tiny but mighty bonus tip, and then I'll tell you a story. Ready? Here we go.
 -->
