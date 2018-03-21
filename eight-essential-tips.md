@@ -20,7 +20,18 @@ Anyone with a GitHub account can open an issue on our repo, right from the doc p
 Think of each thing as a conversation with one person, even if it's an issue on GitHub, think of it as a phone call or an email where you are trying to help one person.
 <!--drawing?-->
 
-3. Practice storytelling. This tip is a global one. It applies to all professions. See Lincoln, Abraham. Whatever culture you're in, people crave stories. This means that storytelling is one of the most valuable skills you can learn. Start with the 7 elements of a story, which are:
+3. Create minimum content. As writers, we're fighting for limited attention cycles. To be successful, we need to create the least amount of content that gets the job done. Any more is too much.  At Microsoft, we spent decades building up tons of dev docs and technical content. In the last six months, we've torn down one and a half million pages of old content, with more on the way. The new way we work is enabled by the new collaborative toolchain. Once you have a minimal lump of clay, start collaborating on it. Once it's viable, publish it. Improve it in the public view, with the input of your customers. They'll tell you loud and clear if something doesn't work. Get the content out fast and get customers going.
+"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." -- Antoine de Saint-Exupery
+<!--sculpture?-->
+
+4. Own your stuff. As tech writers, sometimes we feel like we are at the end of the chain. But here's the real truth: you own a chunk of docs just like a developer owns a chunk of code. When it comes to your docs, you make the final decisions.  Sure, you're going to ask a bunch of people for feedback and buyoff on your docs. But a writer asking "should the docs say x or y" is like a reporter asking "should the story say x or y." Be accountable. Ask for input, own the output.
+<!--ownership-->
+
+5. Be a lifelong learner. Be curious. Challenge yourself to wade into new waters. Have a preferred super tool for automating stuff.  For me, it's PowerShell and Python. Learn the tools your customers use. Learn by incremental doing. After you learn it, teach it to others. As MS, we do mentoring, which is a powerful conduit for two-way knowledge exchange.  Learn by incremental doing. Start with baby steps. set time and place to start. make some baby steps. have a review buddy/social obligation.
+
+6. Say yes. Seize opportunities, don't wait to work to be assigned to you, stand up and grab opportunities. Cultivate an all-in mindset.
+
+7. Practice storytelling. This tip is a global one. It applies to all professions. See Lincoln, Abraham. Whatever culture you're in, people crave stories. This means that storytelling is one of the most valuable skills you can learn. Start with the 7 elements of a story, which are:
     1. Once upon a time...
     2. And every day...
     3. Until one day...
@@ -30,17 +41,6 @@ Think of each thing as a conversation with one person, even if it's an issue on 
     7. And ever since that day...
 
 <!--Lincoln-->
-
-4. Create minimum content. As writers, we're fighting for limited attention cycles. To be successful, we need to create the least amount of content that gets the job done. Any more is too much.  At Microsoft, we spent decades building up tons of dev docs and technical content. In the last six months, we've torn down one and a half million pages of old content, with more on the way. The new way we work is enabled by the new collaborative toolchain. Once you have a minimal lump of clay, start collaborating on it. Once it's viable, publish it. Improve it in the public view, with the input of your customers. They'll tell you loud and clear if something doesn't work. Get the content out fast and get customers going.
-"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." -- Antoine de Saint-Exupery
-<!--sculpture?-->
-
-5. Own your stuff. As tech writers, sometimes we feel like we are at the end of the chain. But here's the real truth: you own a chunk of docs just like a developer owns a chunk of code. When it comes to your docs, you make the final decisions.  Sure, you're going to ask a bunch of people for feedback and buyoff on your docs. But a writer asking "should the docs say x or y" is like a reporter asking "should the story say x or y." Be accountable. Ask for input, own the output.
-<!--ownership-->
-
-6. Be a lifelong learner. Be curious. Challenge yourself to wade into new waters. Have a preferred super tool for automating stuff.  For me, it's PowerShell and Python. Learn the tools your customers use. Learn by incremental doing. After you learn it, teach it to others. As MS, we do mentoring, which is a powerful conduit for two-way knowledge exchange.  Learn by incremental doing. Start with baby steps. set time and place to start. make some baby steps. have a review buddy/social obligation.
-
-7. Say yes. Seize opportunities, don't wait to work to be assigned to you, stand up and grab opportunities. Cultivate an all-in mindset.
 
 A tiny but mighty bonus tip: Give praise. This only takes a couple minutes, but it's incredible how many people don't do it. Try it and you will discover the highest benefit to cost ratio you'll ever see. For example, we thank people for every pull request we receive.
 
