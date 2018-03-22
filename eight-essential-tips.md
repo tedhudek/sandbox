@@ -13,7 +13,7 @@ Two years ago, I went on the WTD hike. During the hike, I met a young writer by 
 
 2. Listen.
 
-Last time I was on stage here, I told you about our shiny new collaborative doc platform. In those two years, it's gone from a newfangled contraption to an everyday tool. Every day, I look at issues from internal and external customers. I look at data to figure out what people are using and what they're not. But here's the thing about it. You can only help one person at a time. Try to give it your attention in the same way you would listen to someone who stopped by your office with a question. Same applies to when you meet with your feature teams. It requires some mental jujitsu sometimes, but the goal is to shelve your agenda and listen for intent. What does the person want and how can you help?
+Last time I was on stage here, I told you about our shiny new collaborative doc platform. Microsoft's doc strategy over the last couple years has been entirely built around how can we listen better to our customers, and that's the spirit in which this new platform was built. In the two years since, it's gone from a newfangled contraption to an everyday tool. Every day, I look at issues from internal and external customers. I look at data to figure out what people are using and what they're not. But here's the thing about it. You can only help one person at a time. Try to give it your attention in the same way you would listen to someone who stopped by your office with a question. Same applies to when you meet with your feature teams. It requires some mental jujitsu sometimes, but the goal is to shelve your agenda and listen for intent. What does the person want and how can you help?
 
 3. Create minimum content.
 
