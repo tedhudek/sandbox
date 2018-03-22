@@ -10,35 +10,27 @@ Two years ago, I went on the WTD hike. During the hike, I met a young writer by 
 * Ask for feedback. Not only do you get suggestions for improvements, but you let people know that you care about the quality of your work, and you care if they got what they needed from you. It shows people you're interested in taking care of them, and people love that.
 * Or, show up and say nothing: I used to camp out in the lounge of the feature team. They would come in first thing in the morning, see me, and say: "Seeing you reminds me, I'd been meaning to tell you about xyz."
 * Ask how did you get started with that?
-<!--drawing-->
 
 2. Listen.
 
-* In 2016, when I was last on stage here, I told you about MS's initial foray into open source publishing. If you had suggested to me five years ago that we chuck all of our structured XML out the window, convert all of our docs to souped up text files and share them on a third party website, I would have said you're nuts. But that's exactly what we did, and we did it in order to be able to listen to customers.
-* Microsoft's whole doc strategy the last couple years has been built around listening. We're phasing out MSDN with its crusty old infrastructure, and we're replacing it with a collaborative doc platform.
-* So now every day we get a bunch of issues and PRs, and we get actionable intelligence that helps us figure out what customers use and what they don't. We can respond and make immediate changes to the published site. Quality is defined by customers, not us, and we provide content to them where they are, on GitHub, in social media, on mobile.
-* But when it's all said and done, When I'm interacting with a customer, I just try to help that one person, like a phone call or an email.
-<!--drawing?-->
+Last time I was on stage here, I told you about our shiny new collaborative doc platform. In those two years, it's gone from a newfangled contraption to an everyday tool. Every day, I look at issues from internal and external customers. I look at data to figure out what people are using and what they're not. But here's the thing about it. You can only help one person at a time. Try to give it your attention in the same way you would listen to someone who stopped by your office with a question. Same applies to when you meet with your feature teams. It requires some mental jujitsu sometimes, but the goal is to shelve your agenda and listen for intent. What does the person want and how can you help?
 
 3. Create minimum content.
 
-* As writers, we're fighting for limited attention cycles. To be successful, we need to create the least amount of content that gets the job done. Any more is too much. At Microsoft, we spent decades building up tons of dev docs and technical content. In the last six months, we've torn down over a million pages of old content, with more on the way. The new way we work is enabled by the new collaborative platform.
-* Once you have a minimal lump of clay, start collaborating on it. Once it's viable, publish it. Improve it in the public view, with the input of your customers. They'll tell you loud and clear if something doesn't work. Get the content out fast and get customers going.
+* As writers, we're fighting for limited attention cycles. To be successful, we need to create the least amount of content that gets the job done. Any more is too much. At Microsoft, we spent decades building up tons of dev docs and technical content. In the last six months, we've torn down over a million pages of old content, with more on the way. The new way we work is through a collaborative platform. So what does this mean for creating new content?
+* It means that you start collaborating a lot sooner. Once you have a minimal lump of clay, invite stakeholders to make changes and updates. Once it's viable, publish it. Then continue the same cycle in the public view, with the input of your customers. They'll tell you loud and clear if something doesn't work. Get the content out fast and get customers going.
 * "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." -- Antoine de Saint-Exupery
-<!--sculpture?-->
 
 4. Practice ownership.
 
 * As tech writers, sometimes we feel like we are at the end of the chain. But here's the real truth: you own a chunk of docs just like a developer owns a chunk of code. When it comes to your docs, you make the final decisions.  Sure, you're going to ask a bunch of people for feedback and buyoff on your docs. But a writer asking "should the docs say x or y" is like a reporter asking "should the story say x or y." Be accountable. Ask for input, own the output.
 * You can also practice ownership with the product as a whole. You don't own all the parts, but as a writer, you're in a unique position to bind the product together. Writers are frequently the glue that ties dev to test, or test to customer. Our role spans disciplines, and puts us, as writers, in a unique position to spot issues and drive quality. Take ownership for the product experience as a whole, not just the docs. Think of yourself as an investigative reporter. At MS, selfhosting is part of the culture, for products as well as internal tools.
 
-<!--ownership-->
-
 5. Be a lifelong learner. Be curious. Challenge yourself to wade into new waters. Have a preferred super tool for automating stuff.  For me, it's PowerShell and Python. Learn the tools your customers use. Learn by incremental doing. After you learn it, teach it to others. As MS, we do mentoring, which is a powerful conduit for two-way knowledge exchange.  Learn by incremental doing. Start with baby steps. set time and place to start. make some baby steps. have a review buddy/social obligation.
 
 6. Say yes. Seize opportunities, don't wait to work to be assigned to you, stand up and grab opportunities. Cultivate an all-in mindset.
 
-7. Practice storytelling. This tip is a global one. It applies to all professions. See Lincoln, Abraham. Whatever culture you're in, people crave stories. This means that storytelling is one of the most valuable skills you can learn. Start with the 7 elements of a story, which are:
+7. Practice storytelling. This tip is a global one. It applies to all professions. At MS, when new program managers come onboard, they receive a welcome packet that contains a book called Resonate, which is about storytelling. Then they actually get storytelling training and how it can help them get business results. Abraham Lincoln was a master storyteller who used the parable model to great effect. Whatever culture you're in, people crave stories. This means that storytelling is one of the most valuable skills you can learn. <!--introduce where this came from?-->One way to think of story framework is with the following seven elements:
     1. Once upon a time...
     2. And every day...
     3. Until one day...
@@ -46,8 +38,6 @@ Two years ago, I went on the WTD hike. During the hike, I met a young writer by 
     5. And because of this...
     6. Until finally...
     7. And ever since that day...
-
-<!--Lincoln-->
 
 A tiny but mighty bonus tip: Give praise. This only takes a couple minutes, but it's incredible how many people don't do it. Try it and you will discover the highest benefit to cost ratio you'll ever see. For example, we thank people for every pull request we receive.
 
