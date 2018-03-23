@@ -3,10 +3,11 @@
 
 1. Use the power of storytelling. At Microsoft, when new program managers come onboard, they receive a welcome packet that contains a book called Resonate, which is about storytelling. Then they actually get storytelling training and how it can help them get business results. Abraham Lincoln was a master storyteller who used the parable model to great effect. Whatever culture you're in, people crave stories. This means that storytelling is one of the most valuable skills you can learn.
  
-In the world of documentation, we're natural storytellers, we tell the story of the product. We as writers are in a unique position to tell the story of the business.
+In the world of documentation, we're natural storytellers, we tell the story of the product. As writers, we're in a unique position to tell the story of the business.
 
-Let me tell you a story. It might sound a bit familiar. Once upon a time, there was a technical writer who was new at Supersoft (Contoso?), Inc. In her first few months on the job, she fixed small bugs and learned the product. She met with customer focus groups to understand key scenarios.
+Let me tell you a story. Once upon a time, there was a technical writer who was new at Supersoft (Contoso?), Inc. In her first few months on the job, she fixed small bugs and learned the product. She met with customer focus groups to understand key scenarios.
 One day, her manager came into the team meeting and said there's a big new scenario with high strategic importance. Who can take the job? She felt a little nervous but said yes.
+
 When she returned to her office, she started putting together knowledge but struggled to create e2e scenario. She realized he needed more information, so she asked to join a key meeting, which resulted in her learning some key facts that were not apparent in the specs.
 She was able to use her existing knowledge of customer usage patterns and combine it with the extra info to write up a draft scenario with minimal content.
 
