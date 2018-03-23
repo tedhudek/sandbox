@@ -1,16 +1,27 @@
 
 # Seven Essential Tips for the Enlightened Tech Writer
 
-1. Use the power of storytelling. This tip is a global one. It applies to all professions. At MS, when new program managers come onboard, they receive a welcome packet that contains a book called Resonate, which is about storytelling. Then they actually get storytelling training and how it can help them get business results. Abraham Lincoln was a master storyteller who used the parable model to great effect. Whatever culture you're in, people crave stories. This means that storytelling is one of the most valuable skills you can learn. <!--introduce where this came from?-->One way to think of story framework is with the following seven elements:
+1. Use the power of storytelling. At Microsoft, when new program managers come onboard, they receive a welcome packet that contains a book called Resonate, which is about storytelling. Then they actually get storytelling training and how it can help them get business results. Abraham Lincoln was a master storyteller who used the parable model to great effect. Whatever culture you're in, people crave stories. This means that storytelling is one of the most valuable skills you can learn.
  
-As cpub we're natural storytellers, we tell the story of the product. We as writers are in a unique position to tell the story of the business
+In the world of documentation, we're natural storytellers, we tell the story of the product. We as writers are in a unique position to tell the story of the business.
 
-A tiny but mighty bonus tip: Give praise. This only takes a couple minutes, but it's incredible how many people don't do it. Try it and you will discover the highest benefit to cost ratio you'll ever see. For example, we thank people for every pull request we receive.
+Let me tell you a story. It might sound a bit familiar. Once upon a time, there was a technical writer who was new at Supersoft (Contoso?), Inc. In her first few months on the job, she fixed small bugs and learned the product. She met with customer focus groups to understand key scenarios.
+One day, her manager came into the team meeting and said there's a big new scenario with high strategic importance. Who can take the job? She felt a little nervous but said yes.
+When she returned to her office, she started putting together knowledge but struggled to create e2e scenario. She realized he needed more information, so she asked to join a key meeting, which resulted in her learning some key facts that were not apparent in the specs.
+She was able to use her existing knowledge of customer usage patterns and combine it with the extra info to write up a draft scenario with minimal content, and she took it to team and iterate on it, thank ppl, listen again,
 
-To close, I have a story for you. It might sound a bit familiar. Once upon a time, there was a technical writer who had said yes to a very challenging assignment. Because she was already familiar with customer usage patterns, she knew the key scenarios they would be trying to complete. So first, she wrote up a draft scenario with minimal content, and she took it to team and iterate on it, thank ppl, listen again, Every day, she would try to figure out how to document the scenario. Every day, xxx. This went on day after day. One day, when she was walking to work and looking at the flowers, she had an idea. When she got to her office, she emailed her feature team and asked for input where she was blocked. And because of this, she was able to write some minimal content. She shared the draft internally and started collaborating on it further. And because of this, she got great feedback from the team. She listened closely to their feedback and then made the final decisions how to present the information. Along the way, she taught herself enough Python to automate some parts of writing the API docs to complete the scenario. Finally, the big day came and she published the doc to the live website. Ever since that day, customers have rated the content highly. The verbatims indicate that customers are succeeding with this key scenario, and as a result they're more deeply engaged with the product. She made sure to thank all the people who helped make the project so successful. She feels satisfied and confident and she is ready to say yes to the next writing opportunity.
-use I
-don't explain the 7 steps
+She shared the draft internally and started collaborating on it further. And because of this, she got great feedback from the team. She listened closely to their feedback and then made the final decisions how to present the information. Along the way, she taught herself enough Python to automate some parts of writing the API docs to complete the scenario. Finally, the big day came and she published the doc to the live website. Ever since that day, customers have rated the content highly. The verbatims indicate that customers are succeeding with this key scenario, and as a result they're more deeply engaged with the product. She made sure to thank all the people who helped make the project so successful. She decides to teach her writing team some Python. She feels satisfied and confident and she is ready to say yes to the next writing opportunity.
 
+<!--
+  1. Once upon a time...
+    2. And every day...
+    3. Until one day...
+    4. And because of this...
+    5. And because of this... listen to team, ask for feedback
+    6. Until finally...
+    7. And ever since that day... listen to customers and improve
+
+-->
 Two years ago, I went on the WTD hike. During the hike, I met a young writer by the name of Jacob. Jacob started asking me about my work. He asked me many questions over the course of the conference. A few weeks after the conference I got an email from Jacob, asking me to be a guest on his podcast to discuss how to future proof yourself as a tech writer. That interview served as the foundation for this talk. Jacob was practicing the first tip I'm going to share with you today, which is...
 
 2. Just ask.
@@ -45,8 +56,10 @@ something to build on
 
 7. Say yes. Seize opportunities, don't wait to work to be assigned to you, stand up and grab opportunities. Cultivate a growth mindset. At Microsoft, we embrace growth mindset in a big way. One of the most powerful things we've been able to do as a result is release Windows once every six months, and get Insider builds out even faster. This is one of the biggest products on Earth. Long ago when we went from Windows XP to Windows Vista, it took five years! So from a fixed mindset, it seemed impossible, but we retooled our engineering systems from top to bottom and we made it happen because that's what our customers expect. Because we said yes to this opportunity, we can now get new features and updates out much faster to delight our customers and enable new business opportunities.
 
+A tiny but mighty bonus tip: Give praise. This only takes a couple minutes, but it's incredible how many people don't do it. Try it and you will discover the highest benefit to cost ratio you'll ever see. For example, we thank people for every pull request we receive.
 
 checkboxes slide?
+
 Let's review what she did. At the very beginning, she said yes to a challenging assignment. She asked for info. She listened to the response. She started with minimal content and collaborated. She owned her content, making final decisions. She taught herself a tool to be more efficient. She thanked her colleagues. And at the end, she found herself ready to say yes to the next project.
 <!--need a step-by-step circular diagram here-->
 
@@ -78,14 +91,12 @@ Tell your story on social media.
 In this talk, I'll give you seven essential tips that will help you become a more effective tech writer. These are core principles that have guided me during almost two decades in the business.
 At the end, I'll toss in a tiny but mighty bonus tip, and then I'll tell you a story. Ready? Here we go.
 
-   1. Once upon a time...
-    2. And every day... - had lots of knowledge background reading read specs, research
-    3. Until one day... couldn't get any further
-    4. And because of this... min content
-    5. And because of this... they freaked out
-    6. Until finally... - mtg and fix
-    7. And ever since that day... good telemetry, know to ask sooner
+ 
 
+current state, new challenge, retool/adjust, triumph, then new state.
+was: got assignment, worked hard to no avail until one day mailed team, because of this success, more success, until published.
+what if: was a writer, did normal stuff until one day new thing announced, then retooled and adjusted, until success
+was the assignment in 1 or 3? if 1, then what's 3? mailed team?
 -->
 
 review kark doc, integrate, cx as design, thinking about experience throughout
