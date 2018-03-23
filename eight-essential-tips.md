@@ -1,49 +1,42 @@
 
 # Seven Essential Tips for the Enlightened Tech Writer
 
-1. Use the power of storytelling. At Microsoft, when new program managers come onboard, they receive a welcome packet that contains a book called Resonate, which is about storytelling. Then they actually get storytelling training and how it can help them get business results. Abraham Lincoln was a master storyteller who used the parable model to great effect. Whatever culture you're in, people crave stories. This means that storytelling is one of the most valuable skills you can learn.
+How many times have you wondered, as a documentarian, what could I improve to help me become an even more effective technical communicator? What could I do to take my skills to the next level? I've put together a list of seven specific recommendations. These are tried and true things that you can do that will help you succeed in the world of technical communication. They're my personal go-to strategies from almost two decades in the business. Ready to check them out? Let's get started.
+
+1. My first tip to you is use the power of storytelling. At Microsoft, when new program managers come onboard, they receive a welcome packet that contains a book called Resonate, which is about storytelling. Then they actually get storytelling training and learn how it can help them get better business results. In the world of documentation, we're natural storytellers, we tell the story of the product.
+* Whatever company or culture you're part of, people crave stories. This means that storytelling is one of the most valuable skills you can learn.
  
-In the world of documentation, we're natural storytellers, we tell the story of the product. As writers, we're in a unique position to tell the story of the business.
+Let me illustrate by telling you a story. Once upon a time, there was a technical writer who had just been hired at Supersoft, Inc. In her first few months on the job, she fixed small bugs and learned the product. She met with customer focus groups to understand key scenarios.
+One day, her manager came into the team meeting and said there's a big new scenario with high strategic importance, and asked for a volunteer to write the docs for it. Our writer felt a little nervous but said yes.
 
-Let me tell you a story. Once upon a time, there was a technical writer who was new at Supersoft (Contoso?), Inc. In her first few months on the job, she fixed small bugs and learned the product. She met with customer focus groups to understand key scenarios.
-One day, her manager came into the team meeting and said there's a big new scenario with high strategic importance. Who can take the job? She felt a little nervous but said yes.
-
-When she returned to her office, she started putting together knowledge but struggled to create e2e scenario. She realized he needed more information, so she asked to join a key meeting, which resulted in her learning some key facts that were not apparent in the specs.
+When she returned to her office, she started putting together knowledge but struggled to create e2e scenario. She realized he needed more information, so she asked to join a high profile meeting, which resulted in her learning some key facts that were not apparent in the specs.
 She was able to use her existing knowledge of customer usage patterns and combine it with the extra info to write up a draft scenario with minimal content.
 
-She shared the draft internally and asked for feedback. And because of this, she got great input from the team. She listened closely to their suggestions and then made the final decisions how to present the information. Along the way, she taught herself enough Python to automate some parts of writing the API docs to complete the scenario. Finally, the big day came and she published the doc to the live website. Ever since that day, customers have rated the content highly. The verbatims indicate that customers are succeeding with this key scenario, and as a result they're more deeply engaged with the product. She made sure to thank all the people who helped make the project so successful. She also decided to teach her writing team some Python. Periodically, she review the customer feedback on her doc and updates it as needed. She feels satisfied and confident and she is ready to say yes to the next writing opportunity.
+She shared the draft internally and asked for feedback. As a result, she got great input from the team. She listened closely to their suggestions and then made the final decisions how to present the information. Along the way, she taught herself enough Python to automate some parts of writing the API docs to complete the scenario. Finally, the big day came and she published the doc to the live website. Ever since that day, customers have rated the content highly. The verbatims indicate that customers are succeeding with this key scenario, and as a result they're more deeply engaged with the product. She made sure to thank all the people who helped make the project so successful. She also decided to teach her writing team some Python. Periodically, she reviews the customer feedback on her doc and updates it as needed. She feels satisfied and confident and she is ready to say yes to the next writing opportunity.
 
-<!--
-  1. Once upon a time...
-    2. And every day...
-    3. Until one day...
-    4. And because of this...
-    5. And because of this...
-    6. Until finally...
-    7. And ever since that day...
+The story I just told you contains examples of all the points I'll cover today. First, I'll tell you about the points, then we'll circle back and see how they applied to our fictional writer.
 
--->
-Two years ago, I went on the WTD hike. During the hike, I met a young writer by the name of Jacob. Jacob started asking me about my work. He asked me many questions over the course of the conference. A few weeks after the conference I got an email from Jacob, asking me to be a guest on his podcast to discuss how to future proof yourself as a tech writer. That interview served as the foundation for this talk. Jacob was practicing the first tip I'm going to share with you today, which is...
+The second tip I'm going to share with you today is...
 
-2. Just ask.
+2. Just ask. Asking just might create opportunities that didn't exist before. Here's an example.
 
-* So I took a cue from Jacob and asked the WTD organizers if I could give a talk. Guess what? They said no. So then I asked how I could improve it. They were kind enough to give me a few suggestions, so I retooled and pitched it again. So I asked three times, and here I am.
+Two years ago, I went on the WTD hike. During the hike, I met a young writer by the name of Jacob. Jacob started asking me about my work. He asked me many questions over the course of the conference. A few weeks after the conference I got an email from Jacob, asking me to be a guest on his podcast to discuss how to future proof yourself as a tech writer. So by asking, Jacob started a friendship, learned about a world he didn't know about, and got himself a podcast guest.
+
+* So I took a cue from Jacob. I took the podcast interview we did and built it into this talk. Then, last year, I submitted it as a proposal for this conference. Guess what? The good folks who read all our proposals and make the decisions said no. So then I asked how I could improve it. They were kind enough to give me a few suggestions, so I retooled and pitched it again this year. After two proposals and one request for feedback, here I am.
 * Here's another one. When there's something you're waiting for someone to do, ask how it fits in their priority list. It seems trivial, but if choose your timing wisely and ask politely, you'll really increase the odds of a speedy turnaround.
-* Ask for feedback. At Microsoft, we actually have a tool for requesting feedback. Asking feedback is great, because not only are you getting suggestions for improvement, but you're also letting people know that you care about the quality of your work, and you care if they got what they needed from you. It shows people you're interested in taking care of them, and people love that.
+* Ask for feedback. At Microsoft, we actually have a tool for requesting feedback. Requesting feedback is great, because not only are you getting suggestions for improvement, but you're also letting people know that you care about the quality of your work, and that you care if they got what they needed from you. It shows people you're interested in taking care of them, and people love that.
 * Or, try this one. Show up and say nothing: I used to camp out in the lounge of the feature team first thing in the morning. They would come in see me, and frequently they would say: "Seeing you reminds me, I'd been meaning to tell you about xyz."
-* One last suggestion for asking. Ask how did you get started with that? This is one my favorite questions. You can learn a lot by finding out how something started. In other words, what caused a change in behavior?
+* One last suggestion for asking. Ask how did you get started with that? This is one my favorite questions. You can learn a lot by finding out how something started. In other words, what caused someone to change their behavior?
 
-3. Listen.
+3. Point number three. Listen.
 
 Last time I was on stage here, I told you about our shiny new collaborative doc platform. Microsoft's doc strategy over the last couple years has been entirely built around how can we listen better to our customers, and that's the spirit in which this new platform was built. In the two years since, it's gone from a newfangled contraption to an everyday tool. Every day, I look at issues from internal and external customers. I look at data to figure out what people are using and what they're not. My goal when I do this is to listen closely, but then to add value and reflect back to improve the product. For example, say a customer opens a GitHub issue describing a broken scenario. We can try to repro it, we can go to the feature team, get clarification, drive change upstream if need be. By being much better tuned in to the signals we're getting, we can be a lot more effective adding value to the product.
 
 4. Create minimum content.
 
 * As writers, we're fighting for limited attention cycles. To be successful, we need to create the least amount of content that gets the job done. Any more is too much. At Microsoft, we spent decades building up tons of dev docs and technical content. In the last six months, we've torn down over a million pages of old content, with more on the way. The new way we work is through a collaborative platform. So what does this mean for creating new content?
-* It means that you start collaborating a lot sooner. Once you have a minimal lump of clay, invite stakeholders to make changes and updates. Once it's viable, publish it. Then continue the same cycle in the public view, with the input of your customers. They'll tell you loud and clear if something doesn't work. Get the content out fast and get customers going.
+* It means that you start collaborating a lot sooner. Once you have something small and stable, something people can build on, invite stakeholders to make changes and updates. Once it's viable, publish it. Then continue the same cycle in the public view, with the input of your customers. They'll tell you loud and clear if something doesn't work. Get the content out fast and get customers going.
 * "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." -- Antoine de Saint-Exupery
-
-something to build on
 
 5. Own the experience.
 
@@ -59,8 +52,11 @@ something to build on
 
 A tiny but mighty bonus tip: Give praise. This only takes a couple minutes, but it's incredible how many people don't do it. Try it and you will discover the highest benefit to cost ratio you'll ever see. For example, we thank people for every pull request we receive.
 
-checkboxes slide?
+<!--checkboxes slide for the recap?-->
 
+Remember our fictional writer at the beginning?
+
+Our writer asked for feedback, and she asked to join a meeting.
 Let's review what she did. At the very beginning, she said yes to a challenging assignment. She asked for info. She listened to the response. She started with minimal content and collaborated. She owned her content, making final decisions. She taught herself a tool to be more efficient. She thanked her colleagues. And at the end, she found herself ready to say yes to the next project.
 <!--need a step-by-step circular diagram here-->
 
