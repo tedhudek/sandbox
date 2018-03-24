@@ -46,7 +46,7 @@ Last time I was on stage here, I told you about our shiny new collaborative doc 
 6. Be a lifelong learner. Be curious. Challenge yourself to wade into new waters. Have a preferred super tool for automating stuff.  For me, it's PowerShell and Python. I started noodling around with PowerShell ten years ago to automate a simple task, and from that point on, every time I needed to query something or add metadata or whatever, I would take an extra moment and figure out how to do it in PowerShell. After a few hundred such times, I got pretty competent. So you can learn in little bursts.
 * Teaching is also a great way to add value to your organization. So after you learn something cool, teach it to others.
 * At Microsoft, we have a formal mentoring program. Mentoring is awesome, but what might surprise you about it is that it's a powerful conduit for two-way knowledge exchange. I frequently feel like I'm learning just as much, if not more, from my mentees than vice-versa.
-* Know your strengths and where you have opportunities for development. Let me give you an example. My former manager always seemed completely at ease in front of groups, so one time I told him you really seem comfortable with public speaking. He shook his head and said he'd actually identified it as an opportunity for his own personal development, and had spent a year actively seeking out any and all opportunities that would force him to get up in front of a group and talk. And after that year, he had built the skill, and the result was the polished speaker that I saw.
+* Know your strengths and where you have opportunities for development. Let me give you an example. My former manager always seemed completely at ease in front of groups, so one time I told him you really seem comfortable with public speaking. He shook his head and said he'd actually identified it as an opportunity for his own personal development, and had spent a year actively seeking out any and all opportunities that would force him to get up in front of a group and talk. And after that year, he had built the skill, and the result was the fearless speaker that I saw.
 
 7. Say yes. Seize opportunities, don't wait to work to be assigned to you, stand up and grab opportunities. Cultivate a growth mindset. At Microsoft, we embrace growth mindset in a big way. One of the most powerful things we've been able to do as a result is release Windows once every six months, and get Insider builds out even faster. This is one of the biggest products on Earth. Long ago when we went from Windows XP to Windows Vista, it took five years! So from a fixed mindset, it seemed impossible, but we retooled our engineering systems from top to bottom and we made it happen because that's what our customers expect. Because we said yes to this opportunity, we can now get new features and updates out much faster to delight our customers and enable new business opportunities.
 
@@ -54,17 +54,15 @@ A tiny but mighty bonus tip: Give praise. This only takes a couple minutes, but 
 
 <!--checkboxes slide for the recap?-->
 
-Remember our fictional writer at the beginning?
-
-Our writer asked for feedback, and she asked to join a meeting.
-Let's review what she did. At the very beginning, she said yes to a challenging assignment. She asked for info. She listened to the response. She started with minimal content and collaborated. She owned her content, making final decisions. She taught herself a tool to be more efficient. She thanked her colleagues. And at the end, she found herself ready to say yes to the next project.
+tell stories, just ask, listen, min content, own, keep learning, say yes, give praise
+Remember our fictional writer at the beginning? Let's review what she did. At the very beginning, she asked for feedback, and she asked to join a meeting. She said yes to a challenging assignment. She listened to the feature team and her customers. She wrote minimal content and iterated on it with stakeholders. She asked for input, but owned the output. She grew her skills by teaching herself Python, and then taught it to her team. She thanked her colleagues. And at the end, she found herself ready to say yes to the next project.
 <!--need a step-by-step circular diagram here-->
 
 ## Resources
 
 * Brian McDonald on storytelling and specifically the 7 elements (find him in podcasts and books)
-* Gettings Things Done (notion of next action)
-* Link to my slides
+* Getting Things Done (notion of next action)
+* Link to presentation notes
 * https://news.microsoft.com/stories/
 * Claude Hopkins (advertising executive who created the campaign for Pepsodent toothpaste)
 * Charles Duhigg: The Power of Habit: Why We Do What We Do in Life and Business
