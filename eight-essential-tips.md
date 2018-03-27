@@ -32,7 +32,7 @@ Last time I was on stage here, I told you about our shiny new collaborative doc 
 
 6. Say yes. Seize opportunities, don't wait to work to be assigned to you, stand up and grab opportunities. Cultivate a growth mindset. At Microsoft, we embrace growth mindset in a big way. One of the most powerful things we've been able to do as a result is release Windows once every six months, and get Insider builds out even faster. This is one of the biggest products on Earth. Long ago when we went from Windows XP to Windows Vista, it took five years! So from a fixed mindset, it seemed impossible, but we retooled our engineering systems from top to bottom and we made it happen because that's what our customers expect. Because we said yes to this opportunity, we can now get new features and updates out much faster to delight our customers and enable new business opportunities.
 
-7. Use the power of storytelling. This tip is a global one. It applies to all professions. At Microsoft, when new program managers come onboard, they receive a welcome packet that contains a book called Resonate, which is about storytelling. Then they actually get storytelling training and learn how it can help them get better business results. In the world of documentation, we're natural storytellers, we tell the story of the product.
+7. Use the power of storytelling. This tip is a global one. It applies to all professions. At Microsoft, when new program managers come onboard, they receive a welcome packet that contains a book called Resonate, which is about storytelling. Then they actually get storytelling training and learn how it can help them get better business results. My documentation areas have become a lot more story-based. Instead of explaining a feature, we now tell the story of how it all fits together. In the world of documentation, we're natural storytellers, we tell the story of the product.
 * Whatever company or culture you're part of, people crave stories. This means that storytelling is one of the most valuable skills you can learn.
  
 A tiny but mighty bonus tip: Give praise. This only takes a couple minutes, but it's incredible how many people don't do it. Try it and you will discover the highest benefit to cost ratio you'll ever see. For example, we thank people for every pull request we receive.
@@ -60,6 +60,7 @@ Let's review what she did:
 
 <!--checkboxes slide for the recap?-->
 <!--need a step-by-step circular diagram here-->
+<!--question, listen with hand or inspector or listening to speaker, tiny lump of clay, conductor, student/pupitre, growing plant, Lincoln, sign language thanks, image for storytime?-->
 
 ## Resources
 
@@ -100,4 +101,5 @@ review kark doc, integrate, cx as design, thinking about experience throughout
 Ngan- kark, martin, dan
 audience as hero, tips to help them through conflict
 call to action? obstacle to surmount? what is vs. what could be?
+content as part of the product, informed by data; data driven; contextual data; using data to focus on the most impactful content; Martin's priorities?
 -->
