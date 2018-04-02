@@ -4,16 +4,16 @@ Two years ago, I went on the WTD hike. During the hike, I met a young writer by 
 
 1. Just ask.
 
-* So I took a cue from Jacob. I took the podcast interview we did and built it into this talk. Then, last year, I submitted it as a proposal for this conference. Guess what? The good folks who read all our proposals and make the decisions said no. So then I asked how I could improve it. They were kind enough to give me a few suggestions, so I retooled and pitched it again this year. After two proposals and one request for feedback, here I am.
-* Here's another one. When there's something you're waiting for someone to do, ask how it fits in their priority list. It seems trivial, but if choose your timing wisely and ask politely, you'll really increase the odds of a speedy turnaround.
+* So I took a cue from Jacob. I took the podcast interview we did and built it into this talk. Then, last year, I submitted it as a proposal for this conference. Guess what? They said no. So I sent Eric an email and I asked how I could improve it. He was kind enough to give me a few suggestions, so I make some changes and asked again this year. After two proposals and one request for feedback, here I am.
+* Here's another one. When there's something you're waiting for someone to do, ask how it fits in their priority list. It seems trivial, but if you choose your timing wisely and ask politely, you'll really increase the odds of a speedy turnaround.
 * Ask for feedback. At Microsoft, we actually have a tool for requesting feedback. Requesting feedback is great, because not only are you getting suggestions for improvement, but you're also letting people know that you care about the quality of your work, and that you care if they got what they needed from you. It shows people you're interested in taking care of them, and people love that.
-* Or, try this one. Show up and say nothing: I used to camp out in the lounge of the feature team first thing in the morning. They would come in see me, and frequently they would say: "Seeing you reminds me, I'd been meaning to tell you about xyz."
-* Ask how did you get started with that? This is one my favorite questions. You can learn a lot by finding out how something started. In other words, what caused someone to change their behavior?
+* Or, try this one. Show up and say nothing: I used to camp out in the lounge of the feature team first thing in the morning. They would come in, see me, and frequently they would say: "Seeing you reminds me, I'd been meaning to tell you about xyz."
+* Ask how did you get started with that? This is one my favorite questions. You can learn a lot by finding out how something started. It must have been something big to cause someone to change their behavior.
 user experience, UX, share insight w feature team
 
 2. Listen.
 
-Last time I was on stage here, I told you about our shiny new collaborative doc platform. Microsoft's doc strategy over the last couple years has been entirely built around how can we listen better to our customers, and that's the spirit in which this new platform was built. In the two years since, it's gone from a newfangled contraption to an everyday tool. Every day, I look at issues from internal and external customers. I look at data to figure out what people are using and what they're not. My goal when I do this is to listen closely, but then to add value and reflect back to improve the product. For example, say a customer opens a GitHub issue describing a broken scenario. We can try to repro it, we can go to the feature team, get clarification, drive change upstream if need be. By being much better tuned in to the signals we're getting, we can be a lot more effective adding value to the product.
+Last time I was on stage here, I told you about our shiny new collaborative doc platform. Over the last couple years, Microsoft's whole doc strategy has been built around how can we better listen to our customers. Listening is the purpose for which this new platform was built. In the two years since, it's gone from a newfangled contraption to an everyday tool. Every day, I look at issues from internal and external customers. I look at data to figure out what people are using and what they're not. My goal when I do this is to listen closely, but then to add value and reflect back to improve the product. For example, say a customer opens a GitHub issue describing a broken scenario. We can try to repro it, we can go to the feature team, get clarification, drive change upstream if need be. By being much better tuned in to the signals we're getting, we can be a lot more effective adding value to the product.
 
 3. Create minimum content.
 
@@ -26,7 +26,7 @@ viable? cx 2.0, min loveable
 
 * As tech writers, sometimes we feel like we are at the end of the chain. But here's the real truth: you own a chunk of docs just like a developer owns a chunk of code. Sure, you're going to ask a bunch of people for feedback and buyoff on your docs. But when it comes to your docs, you make the final decisions.  But Be accountable. Ask for input, own the output.
 add
-* You can also practice ownership with the product as a whole. You don't own all the parts, but as a writer, you're in a unique position to bind the product together. Writers are frequently the glue that ties dev to test, or test to customer. Our role spans disciplines, and this puts us, as writers, in a unique position to spot issues and drive quality. Take ownership for the product experience as a whole, not just the docs. Think of yourself as an investigative reporter. At Microsoft, selfhosting is part of the culture, so everyone is encouraged to own the experience.
+* You can also practice ownership with the product as a whole. You don't own all the parts, but as a writer, you're in a unique position to bind the product together. Writers are frequently the glue that ties dev to test, or test to customer. Our role spans disciplines, and this puts us, as writers, in a unique position *repeat* to spot issues and drive quality. Take ownership for the product experience as a whole, not just the docs. Think of yourself as an investigative reporter. At Microsoft, selfhosting is part of the culture, so everyone is encouraged to own the experience.
 accountable at end of the day
 own the story
 ref is autogenerated
@@ -38,13 +38,13 @@ we add value
 
 unique
 
-5. Be a lifelong learner. Be curious. Challenge yourself to wade into new waters. Have a preferred super tool for automating stuff.  For me, it's PowerShell and Python. I started noodling around with PowerShell ten years ago to automate a simple task, and from that point on, every time I needed to query something or add metadata or whatever, I would take an extra moment and figure out how to do it in PowerShell. After a few hundred such times, I got pretty competent. So you can learn in little bursts.
+5. Be a lifelong learner. Be curious. Challenge yourself to wade into new waters. *story* Have a preferred super tool for automating stuff.  For me, it's PowerShell and Python. Ten years ago, I started noodling around with PowerShell to automate a simple task, and from that point on, every time I needed to query something or add metadata or *whatever*, I would take an extra moment and figure out how to do it in PowerShell. After a few hundred such times, I got pretty competent. So you can learn in little bursts.
 * Teaching is also a great way to add value to your organization. So after you learn something cool, teach it to others.
 * At Microsoft, we have a formal mentoring program. Mentoring is awesome, but what might surprise you about it is that it's a powerful conduit for two-way knowledge exchange. I frequently feel like I'm learning just as much, if not more, from my mentees than vice-versa.
 * Know your strengths and where you have opportunities for development. Let me give you an example. My former manager always seemed completely at ease in front of groups, so one time I said to him, you really seem comfortable with public speaking. He shook his head and said he'd actually identified it as an opportunity for his own personal development, and had spent a year actively seeking out any and all opportunities that would force him to get up in front of a group and talk. And after that year, he had built the skill, and the result was the accomplished speaker that I saw.
 
-opportunties
-6. Say yes. Seize opportunities, don't wait to work to be assigned to you, stand up and grab opportunities. Cultivate a growth mindset. At Microsoft, we embrace growth mindset in a big way. One of the most powerful things we've been able to do as a result is release Windows once every six months, and get Insider builds out even faster. This is one of the biggest products on Earth. Long ago when we went from Windows XP to Windows Vista, it took five years! So from a fixed mindset, it seemed impossible, but we retooled our engineering systems from top to bottom and we made it happen because that's what our customers expect. Because we said yes to this opportunity, we can now get new features and updates out much faster to delight our customers and enable new business opportunities.
+opportunities
+6. Say yes. Seize opportunities, don't wait to work to be assigned to you, stand up and grab opportunities. Cultivate a growth mindset. At Microsoft, we embrace growth mindset in a big way. One of the most powerful things we've been able to do as a result is release Windows once every six months, and get Insider builds out even faster. This is one of the biggest products on Earth. Long ago when we went from Windows XP to Windows Vista, it took five years! So from a fixed mindset, it seemed impossible, but we *retooled* our engineering systems from top to bottom and we made it happen because that's what our customers expect. Because we said yes to this opportunity, we can now get new features and updates out much faster to delight our customers and enable new business opportunities.
 Be empowered to make decisions, we're not a service
 trap of saying yes all the time
 tie into ownership
@@ -63,17 +63,17 @@ One day, her manager came into the team meeting and said there's a new scenario 
 When she returned to her office, she started studying specs and headers. She developed a good understanding of the parts, but was having trouble putting together an end-to-end scenario. She realized she needed more information, so she requested a meeting with the developers, and brought a list of specific questions for them. This resulted in her learning some key facts that were not apparent in the specs.
 She was able to combine her existing knowledge with the extra info to write up a draft scenario with minimal content.
 
-She shared the draft internally and asked for feedback. As a result, she got great input from the team. She listened closely to their suggestions and then made the final decisions how to present the information. Along the way, she taught herself enough Python to automate some parts of writing the API docs to complete the scenario. Finally, the big day came and she published the doc to the live website. Ever since, customers rated the content highly and showed higher levels of engagement with the product. She thanked all the people who helped make the project so successful. She also decided to teach her writing team some Python. 
-She mentors a new writer on the team and starts by telling her success story and the lessons she learned from it.
+She shared the draft internally and asked for feedback. As a result, she got great input from the team. She listened closely to their suggestions and then made the final decisions how to present the information. Along the way, she taught herself enough Python to automate some parts of writing the API docs to complete the scenario. Finally, the big day came and she published the doc to the live website. Ever since, customers have rated the content highly and showed higher levels of engagement with the product. She thanked all the people who helped make the project so successful. She also decided to teach her writing team some Python. 
+She mentors a new writer on the team and *starts* by telling her success story and the lessons she learned from it.
 Periodically, she reviews the customer feedback on her doc and makes updates as needed. She feels satisfied and confident and she is ready to say yes to the next writing opportunity.
 
 Let's review what she did:
 * First, she said yes to a challenging assignment.
-* She asked to meet with the devs, and brought a list of questions for them.
+* She *asked* to meet with the devs, and brought a list of questions for them.
 * She listened to the team and her customers.
 * She wrote minimal content and iterated on it with stakeholders.
 * She asked for input, but owned the output.
-* She grew her skills by teaching herself Python, and then taught it to her team.
+* She grew her skills by teaching herself Python, and then taught it to her *team*.
 * She mentored and used her story to educate.
 * She thanked her colleagues.
 * And at the end, she found herself ready to say yes to the next project.
