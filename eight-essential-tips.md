@@ -17,7 +17,7 @@ Last time I was on stage here, I told you about our shiny new collaborative doc 
 
 3. Create minimum content.
 
-* As writers, we're fighting for limited attention cycles. To be successful, we need to create the least amount of content that gets the job done. Any more is too much. At Microsoft, we spent decades building up tons of dev docs and technical content. In the last six months, we've torn down over a million pages of old content, with more on the way. The new way we work is through a collaborative platform. So what does this mean for creating new content?
+* As writers, we're fighting for limited attention cycles. To be successful, we need to create the least amount of content that gets the job done. Any more is too much. At Microsoft, we spent decades building up tons of dev docs and technical content. In the last six months, we've torn down millions of pages of old content, with more on the way. The new way we work is through a collaborative platform. So what does this mean for creating new content?
 * It means that you start collaborating a lot sooner. Once you have something small and stable, something people can build on, invite stakeholders to make changes and updates. Once it's viable, publish it. Then continue the same cycle in the public view, with the input of your customers. They'll tell you loud and clear if something doesn't work. Get the content out fast and get customers going.
 * "Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away." -- Antoine de Saint-Exupery
 viable? cx 2.0, min loveable
@@ -77,6 +77,8 @@ Let's review what she did:
 * She mentored and used her story to educate.
 * She thanked her colleagues.
 * And at the end, she found herself ready to say yes to the next project.
+
+Thanks for listening, I hope these tips help you as continue in your career. Here's a resource slide with some extra goodies to check out.
 
 <!--checkboxes slide for the recap?-->
 <!--need a step-by-step circular diagram here-->
