@@ -8,7 +8,7 @@ Two years ago, I went on the WTD hike. During the hike, I met a young writer by 
 * There are a lot of useful things you can ask. Here's another one. Ask people how your request fits in their priority list. Just a high level ping can really increase the odds of a speedy turnaround.
 * Ask for feedback. At Microsoft, we actually have a tool for requesting feedback. Requesting feedback is great, because not only are you getting suggestions for improvement, but you're also letting people know that you care about the quality of your work, and that you care if they got what they needed from you. Show people you're interested in taking care of them! People love that.
 * Ask by being in the right place at the right time. I used to camp out in the lounge of the feature team first thing in the morning. They would come in, see me, and frequently they would say: "Seeing you reminds me, I'd been meaning to tell you about some super important thing."
-* One of my favorite questions is: how did you get started with that? Somebody was doing something different previously, then one day they decided to start doing something new. It must have been something big to cause someone to change their behavior. You can learn a lot by finding out how something started.
+* One of my favorite questions is: how did you get started with that? Somebody was doing something different previously, then one day they decided to start doing something new. What was the inflection point that caused them to change their behavior? You can learn a lot by finding out how something started.
 user experience, share insight w feature team
 
 2. Listen.
@@ -17,8 +17,10 @@ Last time I was on stage here, I told you about our shiny new collaborative doc 
 
 3. Create the minimum thing.
 
-* As writers, we're fighting for limited attention cycles. To be successful, we need to create the least amount of content that gets the job done. Any more is too much. At Microsoft, we spent decades building up tons of dev docs and technical content. In the last six months, we've torn down millions of pages of old content, with more on the way. The new way we work is through a collaborative platform. So what does this mean for creating new content?
-* It means that you start collaborating a lot sooner. Once you have the basic nugget of truth that tells people how to do the thing, publish it. Then invite people to make it better. Get the content out fast and get customers going.
+* As writers, we're fighting for limited attention cycles. To be successful, we need to create the least amount of content that gets the job done. At Microsoft, we spent decades building up tons of dev docs and technical content. In the last six months, we've torn down millions of pages of old content, with more on the way. Now we work almost exclusively using a collaborative doc platform. So what does this mean for creating new content?
+* It means that everybody can pitch in a lot sooner. Try to write the basic nugget of truth that tells people how to do the thing. Sometimes you can get people to help you do this by saying something like "it doesn't have to be perfect, can you give me something." Write up a draft and then invite people to improve it with you. Get the content out fast and get customers going.
+Frequently in technical docs, there are a few key points, crucial things that you need to do. But if you make your reader wade through a bunch of extraneous words to get to the key thing, you have failed! How many times have you had to slog through a long page and then you find the key thing and it's one sentence way down somewhere. Don't put people through that.
+I like to think of Twitter as an example of how you can communicate the core nugget of info in relatively few words. It's why texting is so effective. You're communicating a core idea in minimal words. So give your docs the Twitter test. Figure out the key things your reader needs to know, and get them there fast.
 cx 2.0
 
 4. Own the experience.
