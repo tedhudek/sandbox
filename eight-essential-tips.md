@@ -5,14 +5,17 @@ Two years ago, I went on the WTD hike. During the hike, I met a young writer by 
 1. Just ask. Asking can help you discover information or make connections that you'd miss otherwise.
 
 * So I took a cue from Jacob. I turned the podcast interview into a talk and asked Write the Docs if I could present. Guess what? They said no. So I sent Eric an email and I asked how I could improve it. He was kind enough to give me a few suggestions, so I made some changes and asked again this year. After two proposals and one request for feedback, here I am.
-* There are a lot of useful things you can ask. Here's another one. Ask people how your request fits in their priority list. Just a high level ping can really increase the odds of a speedy turnaround.
+* Ask people how your request fits in their priority list. Just a high level ping can really increase the odds of a speedy turnaround.
 * Ask for feedback. At Microsoft, we actually have a tool for requesting feedback. Requesting feedback is great, because not only are you getting suggestions for improvement, but you're also letting people know that you care about the quality of your work, and that you care if they got what they needed from you. Show people you're interested in taking care of them! People love that.
-* Try this gambit: "It doesn't have to be perfect, but can you give me something?"
 * Ask by being in the right place at the right time. I used to camp out in the lounge of the feature team first thing in the morning. They would come in, see me, and frequently they would say: "Seeing you reminds me, I'd been meaning to tell you about some super important thing."
-* One of my favorite questions is: how did you get started with that? Somebody was doing something different previously, then one day they decided to start doing something new. What was the inflection point that caused them to change their behavior? You can learn a lot by finding out how something started.
-user experience, share insight w feature team
+* Ask how did you get started with that? Somebody was doing something different previously, then one day they decided to start doing something new. What was the inflection point that caused them to change their behavior? You can learn a lot by finding out how something started.
 
-2. Listen.
+2. Listen for intent.
+
+Recently, we made some big changes to the way we organize our API docs. We spent months working on the new layout and really tried to optimize it for our developers. Not long after the change, we got email from one of our most influential developers that was a detailed rant. He sent us screenshots with red circles, highlighted text, and many specifics. He missed the old model and wanted it back. At first glance, it looked like he wanted us to completely overhaul our new system. But we took the time to really drill down on the feedback to figure out what he actually wanted. As a result, we were able to come up with a small number of low-cost changes we could make that addressed his feedback and made the new system that much better.
+
+The principle here is listen for intent. First, seek to understand. Then you can add value.
+A lot of times, when you come into a situation as a writer, things are unclear. Someone bursts into your office and starts in the middle of the problem. Or you get feedback that's unclear.  Maybe you're in a meeting and you're unclear about something being discussed. Ask questions to better understand. In Stephen Covey's book The Seven Habits of Highly Effective People, understand first is one of the principles.
 
 Last time I was on stage here, I told you about our shiny new collaborative doc platform. Over the last couple years, Microsoft's whole doc strategy has been built around how can we better listen to our customers. Listening is the purpose for which this new platform was built. In the two years since, it's gone from a newfangled contraption to an everyday tool. Every day, I look at issues from internal and external customers. I look at data to figure out what people are using and what they're not. My goal when I do this is to listen closely, and then to add value and reflect back to improve the product. For example, say a customer opens a GitHub issue describing a broken scenario. We can try to repro it, we can go to the feature team, get clarification, drive change upstream if need be. But it all starts with listening. By being better tuned in to the signals we're getting, we're a lot more effective adding value to the product.
 
@@ -26,14 +29,8 @@ cx 2.0
 
 4. Own the experience.
 
-* As tech writers, sometimes we feel like we are at the end of the chain. This is something that took me a while to get when I started my career as a tech writer. I felt like the feature team owned all the things. But the real truth is this: you own a chunk of docs just like a developer owns a chunk of code. Sure, you're going to ask a bunch of people for feedback and buyoff on your docs. But when it comes to your docs, you make the final decisions. Be accountable. Ask for input, own the output.
-add
-* You can also practice ownership with the product as a whole. You don't own all the parts, but as a writer, you're in a unique position to bind the product together. Writers are frequently the glue that ties dev to test, or test to customer. Our role spans disciplines, and this puts us, as writers, in a unique position *repeat* to spot issues and drive quality. Take ownership for the product experience as a whole, not just the docs. Think of yourself as an investigative reporter. At Microsoft, selfhosting is part of the culture, so everyone is encouraged to own the experience.
-accountable at end of the day
-own the story
-ref is autogenerated
-collaborate on the pieces
-subject to constraints of env
+* As tech writers, sometimes we feel like we are at the end of the chain. This is something that took me a while to get when I started my career as a tech writer. I felt like the feature team owned all the things. xxx span of control The real truth is this: you own a chunk of docs just like a developer owns a chunk of code. Sure, you're going to ask a bunch of people for feedback and buyoff on your docs. But when it comes to your docs, you make the final decisions. Be accountable. Ask for input, own the output.
+* You can also practice ownership with the product as a whole. You don't own all the parts, but as a writer, you're in a unique position to bind the product together. Writers are frequently the glue that ties dev to test, or test to customer. Our role spans disciplines, and this gives us, as writers, a great opportunity to spot issues and drive quality. Take ownership for the product experience as a whole, not just the docs. Think of yourself as an investigative reporter. At Microsoft, selfhosting is part of the culture, so everyone is encouraged to own the experience.
 span of control
 how you can advance, be part of solution
 we add value
