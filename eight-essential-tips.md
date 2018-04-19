@@ -31,13 +31,8 @@ cx 2.0
 
 4. Own the experience.
 
-* As tech writers, sometimes we feel like we are at the end of the chain. This is something that took me a while to get when I started my career as a tech writer. I felt like the feature team owned all the things. It was tempting to take the spec and beautify it, and risky to make changes. But if you do that, you're not adding any value. The real truth is this: you own a chunk of docs just like a developer owns a chunk of code. Sure, you're going to ask a bunch of people for feedback and buyoff on your docs. But when it comes to your docs, you make the final decisions. Be accountable. Ask for input, own the output.
-* You can also practice ownership with the product as a whole. You don't own all the parts, but as a writer, you're in a unique position to bind the product together. Writers are frequently the bridge that connects dev to test, or test to customer. Our role spans disciplines, and this gives us, as writers, a great opportunity to spot issues and drive quality. Take ownership for the product experience as a whole, not just the docs. Think of yourself as an investigative reporter. At Microsoft, selfhosting is part of the culture, so everyone is encouraged to own the experience.
-span of control
-how you can advance, be part of solution
-we add value
-
-unique
+* As tech writers, sometimes we feel like we are at the end of the chain. This is something that took me a while to get when I started my career. I felt like the feature team owned all the things. It was tempting to take the spec and beautify it, and risky to make changes. But if you do that, you're not adding any value. The real truth is this: you own a chunk of docs just like a developer owns a chunk of code. Figure out what you control, and figure out where you're trying to go with it. Sure, you're going to ask a bunch of people for feedback and buyoff on your docs. But when it comes to your docs, you make the final decisions. Be accountable. Ask for input, own the output.
+* You can also practice ownership with the product as a whole. You don't own all the parts, but as a writer, you're in a unique position to bind the product together. Writers are frequently the bridge that connects dev to test, or test to customer. Our role spans disciplines, and this gives us, as writers, a great opportunity to spot issues and drive quality. Take ownership for the product experience as a whole, not just the docs. At Microsoft, selfhosting is part of the culture, so everyone is encouraged to own the experience.
 
 5. Be a lifelong learner. Be curious. Challenge yourself to wade into new waters. *story* Have a preferred super tool for automating stuff.  For me, it's PowerShell and Python. Ten years ago, I started noodling around with PowerShell to automate a simple task, and from that point on, every time I needed to query something or add metadata or *whatever*, I would take an extra moment and figure out how to do it in PowerShell. After a few hundred such times, I got pretty competent. So you can learn in little bursts.
 * Teaching is also a great way to add value to your organization. So after you learn something cool, teach it to others.
@@ -51,7 +46,9 @@ add value to right place right time
 7. Use the power of storytelling. This tip is a global one. It applies to all professions. At Microsoft, when new program managers come onboard, they receive a welcome packet that contains a book called Resonate, which is about storytelling. Then they actually get storytelling training and learn how it can help them get better business results. Docs at Microsoft have also become much more story-oriented compared to fifteen years ago. It used to be that I documented features, but now I tell stories of how things fit together, which mirrors what has happened on the product side.
 * Whatever company or culture you're part of, people crave stories. This means that storytelling is one of the most valuable skills you can learn.
  
-To close, I have a fictional story for you, but if you pay close attention, you might just recognize yourself. Once upon a time, there was a technical writer who had just been hired at Supersoft, Inc. In her first few months on the job, she fixed small bugs and learned the product. She met with customer focus groups to understand how customers were using the product.
+To close, I have a fictional story for you, but if you pay close attention, you might just recognize yourself.
+
+Once upon a time, there was a technical writer who had just been hired at Supersoft, Inc. In her first few months on the job, she fixed small bugs and learned the product. She met with customer focus groups to understand how customers were using the product.
 One day, her manager came into the team meeting and said there's a new scenario with high strategic importance, and asked for a volunteer to write the docs for it. Our writer felt a little nervous but said yes.
 
 When she returned to her office, she started studying specs and headers. She developed a good understanding of the parts, but was having trouble putting together an end-to-end scenario. She realized she needed more information, so she requested a meeting with the developers, and brought a list of specific questions for them. This resulted in her learning some key facts that were not apparent in the specs.
