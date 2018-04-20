@@ -43,10 +43,12 @@ cx 2.0
 contribution to product
 add value to right place right time
 
-7. Use the power of storytelling. This tip is a global one. It applies to all professions. At Microsoft, when new program managers come onboard, they receive a welcome packet that contains a book called Resonate, which is about storytelling. Then they actually get storytelling training and learn how it can help them get better business results. Docs at Microsoft have also become much more story-oriented compared to fifteen years ago. It used to be that I documented features, but now I tell stories of how things fit together, which mirrors what has happened on the product side.
+7. Use the power of storytelling. This tip is a global one. It applies to all professions. At Microsoft, when new program managers come onboard, they receive a welcome packet that contains a book called Resonate, which is about storytelling. Then they actually get storytelling training and learn how it can help them get better business results. The basic idea is this - first you define the problem. Things were going great, and then, you hit this problem. Did you know that you can use our product to solve your problem? Just follow these steps.
+* Apple commercials. Ad as tutorial.
+* Claude Hopkins (advertising executive who created the campaign for Pepsodent toothpaste)
 * Whatever company or culture you're part of, people crave stories. This means that storytelling is one of the most valuable skills you can learn.
  
-To close, I have a fictional story for you, but if you pay close attention, you might just recognize yourself.
+So along those lines, I have a story for you. I made it up, but if you pay close attention, you might just recognize yourself.
 
 Once upon a time, there was a technical writer who had just been hired at Supersoft, Inc. In her first few months on the job, she fixed small bugs and learned the product. She met with customer focus groups to understand how customers were using the product.
 One day, her manager came into the team meeting and said there's a new scenario with high strategic importance, and asked for a volunteer to write the docs for it. Our writer felt a little nervous but said yes.
@@ -60,11 +62,11 @@ Periodically, she reviews the customer feedback on her doc and makes updates as 
 
 Let's review what she did:
 * First, she said yes to a challenging assignment.
-* She *asked* to meet with the devs, and brought a list of questions for them.
+* When she met with the devs, she was ready with a list of questions for them.
 * She listened to the team and her customers.
 * She wrote minimal content and iterated on it with stakeholders.
 * She asked for input, but owned the output.
-* She grew her skills by teaching herself Python, and then taught it to her *team*.
+* She grew her skills by teaching herself Python, and then taught it to her team.
 * She mentored and used her story to educate.
 * She thanked her colleagues.
 * And at the end, she found herself ready to say yes to the next project.
@@ -73,32 +75,24 @@ A tiny but mighty bonus tip: Give praise. This only takes a couple minutes, but 
 
 Let me show you how easy it is to say thanks. Ready? Thanks for listening, I hope these tips help you as continue in your career. Here's a resource slide with some extra goodies to check out.
 
-<!--checkboxes slide for the recap?-->
-<!--need a step-by-step circular diagram here-->
-<!--question, listen with hand or inspector or listening to speaker, tiny lump of clay, conductor, student/pupitre, growing plant, Lincoln, sign language thanks, image for storytime?-->
-
 ## Resources
 
 * Brian McDonald on storytelling and specifically the 7 elements (find him in podcasts and books)
 * Getting Things Done (notion of next action)
 * Link to presentation notes
 * https://news.microsoft.com/stories/
-* Claude Hopkins (advertising executive who created the campaign for Pepsodent toothpaste)
 * Charles Duhigg: The Power of Habit: Why We Do What We Do in Life and Business
     * http://charlesduhigg.com/how-the-history-of-toothpaste-explains-why-you-cant-lose-weight/
 * Dweck
 * Acknowledgements
 * Art listing the 7 steps
 
-<!-- listen for intent
-add more "we at MS do x"
+<!-- 
 
 When you tell a story, start with appropriate context.
 How many times has someone started telling you something and not provided the context? Or come into your office and started in the middle of the problem?
 Think of Apple commercials that showed you how to use the iPhone. Ad as tutorial! Then they put up a web page with links to the apps shown. Think of Claude Hopkins, who created the demand for toothpaste.
 Define the problem. Things were going great, and then... you hit this problem. Here's how to use our product to solve your problem! Just use the following steps.
-When you speak with authenticity, you build brand trust and create a more human experience.
-Tell your story on social media.
 
 5. Corollary: own your product.
 
@@ -113,7 +107,6 @@ was the assignment in 1 or 3? if 1, then what's 3? mailed team?
 How many times have you wondered, as a documentarian, what could I improve to help me become an even more effective technical communicator? What could I do to take my skills to the next level? I've put together a list of seven specific recommendations. These are tried and true things that you can do that will help you succeed in the world of technical communication. They're my personal go-to strategies from almost two decades in the business. Ready to check them out? Let's get started.
 
 review kark doc, integrate, cx as design, thinking about experience throughout
-Ngan- kark, martin, dan
 audience as hero, tips to help them through conflict
 call to action? obstacle to surmount? what is vs. what could be?
 content as part of the product, informed by data; data driven; contextual data; using data to focus on the most impactful content; Martin's priorities?
@@ -123,4 +116,5 @@ Voice and tone: making your docs approachable, using images where it helps.
 Consider doing talk for junior folks in UX.
 Cultivate a growth mindset. At Microsoft, we embrace growth mindset in a big way.
 One of the most powerful things we've been able to do as a result is release Windows once every six months, and get Insider builds out even faster. This is one of the biggest products on Earth. Long ago when we went from Windows XP to Windows Vista, it took five years! So from a fixed mindset, it seemed impossible, but we *retooled* our engineering systems from top to bottom and we made it happen because that's what our customers expect. 
+Docs at Microsoft have also become much more story-oriented compared to fifteen years ago. It used to be that I documented features, but now I tell stories of how things fit together, which mirrors what has happened on the product side.
 -->
