@@ -7,15 +7,17 @@ total_points=0
 v=0 #number of turns
 z=0 #total score
 
-def roll(x,y) :
-    x=randint(1,6)
-    y=randint(1,6)
+def roll() :
+    return randint(1,6)
 
-roll(x,y)
-if((x==1) or (y==1)) :
+x=roll()
+y=roll()
+
+print(x,y)
+
+#if((x==1) or (y==1)) :
     #w stays zero, add w to z
-else :
+#else :
     #x+y=w, add w to z
-v++
+#v++
 #z==100?yes: print(z) no: repeat starting with roll
-#print('You rolled %i and %i'%(x,y))
