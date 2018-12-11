@@ -30,3 +30,4 @@ A tiny but mighty bonus tip: Give praise. This only takes a couple minutes, but 
 
 * Invisible Ink, and other work by Brian McDonald
 * The 7 Habits of Highly Effective People, by Stephen Covey
+* [@tedhudek](https://twitter.com/tedhudek)
