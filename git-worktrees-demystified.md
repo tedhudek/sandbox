@@ -17,6 +17,8 @@ What if there was a better way to achieve the same result?  Enter the magic of g
 
 You can get a similar but even better result with a single clone by creating a worktree.  When you create a worktree of an existing clone, you specify a directory (must be outside of the existing clone) and Git will set you up with a configuration like the above. You'll be able to have a different branch checked out in the worktree than in the clone itself, but the best part is when you commit.  Any commits you make in the worktree are visible in the clone, and vice-versa.  And you use less disk space because Git intelligently manages what it actually duplicates on your hard drive vs. just using symbolic linking.  But you don't have to worry about any of that, it just happens under the hood.
 
+You could even edit files from the clone and files from the worktree at the same time!  This is a great alternative to stashing your changes.
+
 This is awesome, you're saying, what's the catch?  Really the only minor caveat of this amazing feature is that you can't have the same branch checked out simultaneously in a worktree and its associated clone, because then they could drift apart.
 
 You can create more than one worktree, in fact, create as many as you like.
