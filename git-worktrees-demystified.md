@@ -1,5 +1,5 @@
 ---
-title: "xxx"
+title: "Git worktrees demystified"
 date: 2019-02-07
 ---
 
@@ -44,9 +44,29 @@ C:\repo\sandbox-worktree-dir [new-working-branch +0 ~1 -0 !]> git commit -am 'te
 C:\repo\sandbox-worktree-dir [new-working-branch]> cd ..\sandbox\
 C:\repo\sandbox [master ≡]> git log -1 --oneline new-working-branch
 e55177d (new-working-branch) test
+
+# list our worktree
+
+C:\repo\sandbox [master ≡]> git worktree list
+C:/repo/sandbox               673a024 [master]
+C:/repo/sandbox-worktree-dir  e55177d [new-working-branch]
+
+# we're done, so remove the worktree
+
+C:\repo\sandbox [master ≡]> git worktree remove ..\sandbox-worktree-dir\
+
+# verify it's gone
+
+C:\repo\sandbox [master ≡]> git worktree list
+C:/repo/sandbox  673a024 [master]
+
+C:\repo\sandbox [master ≡]> cd ..\sandbox-worktree-dir
+cd : Cannot find path 'C:\repo\sandbox-worktree-dir' because it does not exist.
+
 ```
 
+Ain't it cool?
 
 ## Resources
 
-[doc](xxx)
+[Git worktree documentation page](https://git-scm.com/docs/git-worktree)
