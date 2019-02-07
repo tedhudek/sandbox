@@ -26,7 +26,24 @@ You can create more than one worktree, in fact, create as many as you like.
 Here's a sample walkthrough:
 
 ```cmd
-# from the c:\
+# create a worktree
+
+C:\repo\sandbox [master ≡]> git worktree add -b new-working-branch ../sandbox-worktree-dir master
+Preparing worktree (new branch 'new-working-branch')
+HEAD is now at 97c8a22 draft
+C:\repo\sandbox [master ≡]> cd ..\sandbox-worktree-dir\
+
+# do some work
+
+C:\repo\sandbox-worktree-dir [new-working-branch +0 ~1 -0 !]> git commit -am 'test'
+[new-working-branch e55177d] test
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+# switch back to our clone and verify that we can see the commit we just made
+
+C:\repo\sandbox-worktree-dir [new-working-branch]> cd ..\sandbox\
+C:\repo\sandbox [master ≡]> git log -1 --oneline new-working-branch
+e55177d (new-working-branch) test
 ```
 
 
