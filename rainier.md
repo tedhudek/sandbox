@@ -135,7 +135,7 @@ We all piled into the van and rolled back down the winding road to Ashford, wher
  
 That was five days ago.  I did go to the gym two days afterward, but it turned into a pretty abbreviated affair, mainly because the toenails on my big toes are pretty smashed up.   I had them drained by a podiatrist and have been soaking them each night.  Good old plastic boots, coming downhill for eight hours, your toes constantly ram into the hard front of the boot.  And I’m not as bad off as one of my fellow climbers, who has “turf toe”, meaning not only is the nail messed up, but also the joint is painful to bend.  Surprisingly, the neck eased up pretty quickly.   Funny, it’s never what you worry about that winds up being the problem.  My thigh muscles are still tight, too, calling out for a massage.  And the tip of my tongue got slightly sunburned (when ya gotta breathe, ya gotta breathe!), but that’s faded by today.  All in all, small price to pay for such an amazing experience.  And I couldn’t have done it with better people.  Thanks to my fellow climbers, and to Alpine Ascents and their fantastic guides.  Thanks especially to J.J. for continuing to believe in me, even after I was no longer sure myself.
  
-Addendum: I ran on Saturday, a bit slow, but it was good to be back!
+Addendum: I ran on Saturday, a bit slower than usual, but it was good to be back!
  
  
 2 COMMENTS
