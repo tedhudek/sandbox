@@ -16,3 +16,5 @@ for i in range(len(numbers)):
     print(numbers)
 
 # TODO: better way to preset smallest or warn user to use numbers smaller than 1000 in list
+# try a randomly generated long list
+# compare to inbox sort
