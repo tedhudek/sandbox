@@ -14,3 +14,5 @@ for i in range(len(numbers)):
     
     print('Finished pass i= ',i,' and list looks like this:')
     print(numbers)
+
+# TODO: better way to preset smallest or warn user to use numbers smaller than 1000 in list
