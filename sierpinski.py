@@ -48,6 +48,7 @@ if __name__ == "__main__":
     t = turtle_setup(canv_width, canv_height)
 
     # pick a random point, call it current_point
+    current_point=(random.randrange(canv_width),random.randrange(canv_height))
 
     iterations_left=10000
 
@@ -55,7 +56,9 @@ if __name__ == "__main__":
 
 
         # pick a random corner of the triangle, call it random_corner. It is a number: 1, 2 or 3(they are the 3 corners)
+        corner_number=random.randrange(1,3)
         # get the coordinates of our random corner 1, 2, or 3 and coordinates of our current point
+        
         # call midpoint function
         # draw a dot at the point returned by the midpoint function
         # set current point to that
