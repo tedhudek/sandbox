@@ -35,14 +35,18 @@ def midpoint(a, b):
     return mx, my
 
 if __name__ == "__main__":    
-    
+    print("Just started main. code working.")
+    #time.sleep(5)
+
     # width and height are given as command line arguments:
 
-    canv_width = int(sys.argv[1])
-    #canv_width = 300
-    canv_height = int(sys.argv[2])
-    #canv_height = 300
+    #canv_width = int(sys.argv[1])
+    canv_width = 600
+    #canv_height = int(sys.argv[2])
+    canv_height = 600
     
+    corners=[(0,0),(canv_width/2,canv_height),(canv_width,0)]
+
     # Setup the turtle by calling the turtle_setup function.
 
     t = turtle_setup(canv_width, canv_height)
@@ -50,24 +54,33 @@ if __name__ == "__main__":
     # pick a random point, call it current_point
     current_point=(random.randrange(canv_width),random.randrange(canv_height))
 
-    iterations_left=10000
+    iterations_left=12500
+    print("Yay, we got this far! About to start while loop :)")
+    #time.sleep(5)
 
-    while(iterations_left>0){
+    while iterations_left>0:
 
 
         # pick a random corner of the triangle, call it random_corner. It is a number: 1, 2 or 3(they are the 3 corners)
-        corner_number=random.randrange(1,3)
-        # get the coordinates of our random corner 1, 2, or 3 and coordinates of our current point
-        
+        corner_number=random.randrange(3)
+        # get the coordinates of our random corner 0, 1, or 2 and coordinates of our current point
+        current_corner_point=corners[corner_number]
         # call midpoint function
+        current_point=midpoint(current_corner_point,current_point)
         # draw a dot at the point returned by the midpoint function
-        # set current point to that
-        # this all will repeat 10000 times
 
-        iterations_left--
-    }
+        t.setx(current_point[0])
+        t.sety(current_point[1])
 
-    time.sleep(10)
+        t.dot(2, "blue")
+
+
+        iterations_left=iterations_left-1
+        print('In the while loop with %i iterations left'%iterations_left)
+#print('Starting number is %i'%starting_num)
+
+
+    time.sleep(1200)
 
 
 
