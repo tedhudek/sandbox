@@ -22,7 +22,7 @@ def turtle_setup(canv_width, canv_height):
 
     t.up() # lift the pen
     t.hideturtle() # hide the turtle triangle
-    #screen.tracer(0, 0) # turn off redrawing after each movement
+    screen.tracer(0, 0) # turn off redrawing after each movement
 
     return t
 
@@ -35,7 +35,7 @@ def midpoint(a, b):
     return mx, my
 
 if __name__ == "__main__":    
-    print("Just started main. code working.")
+    #print("Just started main. code working.")
     #time.sleep(5)
 
     # width and height are given as command line arguments:
@@ -50,12 +50,13 @@ if __name__ == "__main__":
     # Setup the turtle by calling the turtle_setup function.
 
     t = turtle_setup(canv_width, canv_height)
+    screen = t.getscreen()
 
     # pick a random point, call it current_point
     current_point=(random.randrange(canv_width),random.randrange(canv_height))
 
-    iterations_left=12500
-    print("Yay, we got this far! About to start while loop :)")
+    iterations_left=100000
+    #print("Yay, we got this far! About to start while loop :)")
     #time.sleep(5)
 
     while iterations_left>0:
@@ -74,29 +75,16 @@ if __name__ == "__main__":
 
         t.dot(2, "blue")
 
+        if(iterations_left%20000==0):
+            print('In while loop with %i iterations left'%iterations_left)
 
         iterations_left=iterations_left-1
-        print('In the while loop with %i iterations left'%iterations_left)
 #print('Starting number is %i'%starting_num)
 
+    screen.update()
+    print('Done drawing, about to sleep')
 
-    time.sleep(1200)
+    time.sleep(20)
 
+# TODO: get rid of global variables
 
-
-
-
-
-
-
-
-
-
-
-    #t.dot(40, "blue")
-    #time.sleep(5)    
-    #t.setx(150)
-    #t.sety(150)
-    #t.dot(40, "red")
-    #screen = t.getscreen()
-    #screen.update()

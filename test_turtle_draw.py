@@ -20,7 +20,7 @@ def turtle_setup(canv_width, canv_height):
 
     t.up() # lift the pen
     t.hideturtle() # hide the turtle triangle
-    #screen.tracer(0, 0) # turn off redrawing after each movement
+    screen.tracer(0, 0) # turn off redrawing after each movement
 
     return t
 
@@ -32,9 +32,21 @@ if __name__ == "__main__":
     t.setx(150)
     t.sety(150)
 
-    t.dot(2, "blue")
+    t.dot(30, "blue")
+
+    print("Just called dot method for blue")
 
     time.sleep(5)  
-    #t.dot(40, "red")
-    #screen = t.getscreen()
-    #screen.update()
+
+    t.setx(200)
+    t.sety(200)
+
+    t.dot(30, "red")
+    print("Just called dot method for red, calling update in 5 seconds...")
+
+
+    time.sleep(5)  
+    screen = t.getscreen()
+    screen.update()
+
+    time.sleep(5)  
