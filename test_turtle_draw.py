@@ -34,18 +34,19 @@ if __name__ == "__main__":
 
     t.dot(30, "blue")
 
-    print("Just called dot method for blue")
+    #print("Just called dot method for blue")
 
-    time.sleep(5)  
+    #time.sleep(5)  
 
     t.setx(200)
     t.sety(200)
 
-    t.dot(30, "red")
-    print("Just called dot method for red, calling update in 5 seconds...")
+    #t.dot(30, "red")
+    #print("Calling pencolor and dot...")
+    t.pencolor(0,0,0)
+    t.dot(40)
 
-
-    time.sleep(5)  
+    #time.sleep(5)  
     screen = t.getscreen()
     screen.update()
 

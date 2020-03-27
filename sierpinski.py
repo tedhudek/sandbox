@@ -34,6 +34,24 @@ def midpoint(a, b):
     my = (ay + by) / 2
     return mx, my
 
+
+def distance(a, b):
+    """ Return the distance between points a = (ax, ay) and b = (bx, by) """
+    ax, ay = a
+    bx, by = b
+    legA = bx-ax
+    legB = by-ay
+
+    # sqrt(legA squared + legB squared)
+
+    # to discuss normalizing, figure distance from triangle center to vertex
+    # this is max distance
+    # use canvas size when normaiizing
+
+    # normalize to 0-255
+
+    return d
+
 if __name__ == "__main__":    
     #print("Just started main. code working.")
     #time.sleep(5)
@@ -73,7 +91,16 @@ if __name__ == "__main__":
         t.setx(current_point[0])
         t.sety(current_point[1])
 
-        t.dot(2, "blue")
+        # calculate distance between current_point and each of the three vertices
+
+
+        redval=distance(corners[0],current_point)
+        greenval=distance(corners[1],current_point)
+        blueval=distance(corners[2],current_point)
+
+        t.pencolor(redval,greenval,blueval)
+        t.dot(2)
+        #t.dot(2, "blue")
 
         if(iterations_left%20000==0):
             print('In while loop with %i iterations left'%iterations_left)
