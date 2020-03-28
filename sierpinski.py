@@ -42,7 +42,7 @@ def distance(a, b):
     legA = bx-ax
     legB = by-ay
 
-    # sqrt(legA squared + legB squared)
+    d=sqrt(legA^2 + legB^2)
 
     # to discuss normalizing, figure distance from triangle center to vertex
     # this is max distance
@@ -76,6 +76,13 @@ if __name__ == "__main__":
     iterations_left=100000
     #print("Yay, we got this far! About to start while loop :)")
     #time.sleep(5)
+
+    # max distance is:
+    # sqrt(canv_height^2 + (canv_width/2)^2)
+
+    # max distance/255 is our adjuster
+
+    # divide all distances by adjuster, and convert to nearest integer
 
     while iterations_left>0:
 
