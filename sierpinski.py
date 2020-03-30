@@ -3,6 +3,7 @@ import random
 import sys
 import turtle
 import time
+from math import sqrt
 
 def turtle_setup(canv_width, canv_height):
     """ Set up the canvas and a turtle for coloring pixels. Return a turtle
@@ -35,7 +36,7 @@ def midpoint(a, b):
     return mx, my
 
 
-def distance(a, b):
+def get_distance(a, b):
     """ Return the distance between points a = (ax, ay) and b = (bx, by) """
     ax, ay = a
     bx, by = b
@@ -74,12 +75,16 @@ if __name__ == "__main__":
     current_point=(random.randrange(canv_width),random.randrange(canv_height))
 
     iterations_left=100000
-    #print("Yay, we got this far! About to start while loop :)")
-    #time.sleep(5)
+    print("Yay, we got this far! About to start while loop :)")
+    time.sleep(5)
 
     # max distance is:
-    # sqrt(canv_height^2 + (canv_width/2)^2)
-
+    max_distance=sqrt(canv_height^2 + (canv_width/2)^2)
+    adjuster=max_distance/255
+    print(max_distance)
+   
+    print(adjuster)
+    time.sleep(5)
     # max distance/255 is our adjuster
 
     # divide all distances by adjuster, and convert to nearest integer
@@ -87,6 +92,7 @@ if __name__ == "__main__":
     while iterations_left>0:
 
 
+        
         # pick a random corner of the triangle, call it random_corner. It is a number: 1, 2 or 3(they are the 3 corners)
         corner_number=random.randrange(3)
         # get the coordinates of our random corner 0, 1, or 2 and coordinates of our current point
@@ -101,13 +107,13 @@ if __name__ == "__main__":
         # calculate distance between current_point and each of the three vertices
 
 
-        redval=distance(corners[0],current_point)
-        greenval=distance(corners[1],current_point)
-        blueval=distance(corners[2],current_point)
+        #redval=get_distance(corners[0],current_point)/adjuster
+        #greenval=get_distance(corners[1],current_point)/adjuster
+        #blueval=get_distance(corners[2],current_point)/adjuster
 
-        t.pencolor(redval,greenval,blueval)
-        t.dot(2)
-        #t.dot(2, "blue")
+        #t.pencolor(redval,greenval,blueval)
+        #t.dot(2)
+        t.dot(2, "blue")
 
         if(iterations_left%20000==0):
             print('In while loop with %i iterations left'%iterations_left)

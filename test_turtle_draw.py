@@ -1,6 +1,9 @@
+import math
+import random
+import sys
 import turtle
 import time
-
+from math import sqrt
 
 def turtle_setup(canv_width, canv_height):
     """ Set up the canvas and a turtle for coloring pixels. Return a turtle
@@ -27,7 +30,9 @@ def turtle_setup(canv_width, canv_height):
 
 if __name__ == "__main__":    
 
-
+    a=sqrt(9)
+    print(a)
+    time.sleep(5)
     t = turtle_setup(300, 300)
     t.setx(150)
     t.sety(150)
@@ -45,7 +50,6 @@ if __name__ == "__main__":
     #print("Calling pencolor and dot...")
     t.pencolor(0,0,0)
     t.dot(40)
-
     #time.sleep(5)  
     screen = t.getscreen()
     screen.update()
