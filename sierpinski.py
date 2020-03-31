@@ -43,7 +43,7 @@ def get_distance(a, b):
     legA = bx-ax
     legB = by-ay
 
-    d=sqrt(legA^2 + legB^2)
+    d=sqrt(legA**2 + legB**2)
 
     # to discuss normalizing, figure distance from triangle center to vertex
     # this is max distance
@@ -76,15 +76,15 @@ if __name__ == "__main__":
 
     iterations_left=100000
     print("Yay, we got this far! About to start while loop :)")
-    time.sleep(5)
+    time.sleep(2)
 
     # max distance is:
-    max_distance=sqrt(canv_height^2 + (canv_width/2)^2)
+    max_distance=sqrt(canv_height**2 + (canv_width/2)**2)
     adjuster=max_distance/255
     print(max_distance)
    
     print(adjuster)
-    time.sleep(5)
+    time.sleep(2)
     # max distance/255 is our adjuster
 
     # divide all distances by adjuster, and convert to nearest integer
@@ -107,13 +107,13 @@ if __name__ == "__main__":
         # calculate distance between current_point and each of the three vertices
 
 
-        #redval=get_distance(corners[0],current_point)/adjuster
-        #greenval=get_distance(corners[1],current_point)/adjuster
-        #blueval=get_distance(corners[2],current_point)/adjuster
+        redval=get_distance(corners[0],current_point)/adjuster
+        greenval=get_distance(corners[1],current_point)/adjuster
+        blueval=get_distance(corners[2],current_point)/adjuster
 
-        #t.pencolor(redval,greenval,blueval)
-        #t.dot(2)
-        t.dot(2, "blue")
+        t.pencolor(int(redval),int(greenval),int(blueval))
+        t.dot(2)
+        #t.dot(2, "blue")
 
         if(iterations_left%20000==0):
             print('In while loop with %i iterations left'%iterations_left)
