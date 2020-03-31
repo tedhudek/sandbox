@@ -124,7 +124,7 @@ if __name__ == "__main__":
     screen.update()
     print('Done drawing, about to sleep')
 
-    time.sleep(20)
+    time.sleep(180)
 
 # TODO: get rid of global variables
 
