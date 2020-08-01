@@ -15,7 +15,7 @@ Here's how to proceed:
 3. Look in discussion in the issue to ensure that no one else is already working on that block. Add a comment that you are starting work on it.
 4. Either work in the browser (hint: use the `t` keyboard shortcut on GitHub to get to the file picker, where you can quickly find files) or clone the [repo](link) and work locally.
 5. Open one pull request to contain all your changes. In the PR, add `#xxx` in the conversation, to link to this issue.
-6. Add the `yyy` label to the PR so we can triage all the fixes later.
+6. Add the `Write-the-Docs-2020` label to the PR so we can triage all the fixes later.
 
 If you have questions, don't hesitate to message Ted Hudek on the Hopin platform during Writing Day.
 
