@@ -1,4 +1,4 @@
-date: 5/2/20
+date: 6/15/20
 
 This is a third test file.
 
@@ -10,4 +10,7 @@ really long
 more
 
 more
+
+add NEW text
+NEW NEW NEW
 
