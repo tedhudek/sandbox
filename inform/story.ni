@@ -1,6 +1,6 @@
 "The Great Beacon Hill Egg Hunt" by "E. Bunny"
 
-The Bedroom, Living Room, Kitchen, Bathroom, Dining Room, Front Room, Front Porch, Garage, Front Yard, Back Yard, 21stBayview, 21st & Forest, 22nd & Stevens, The Bowl, Arrow Bench,  National Park, Firehouse, Library are rooms.
+The Bedroom, Living Room, Kitchen, Bathroom, Dining Room, Front Room, Front Porch, Garage, Front Yard, Back Yard, 21stBayview, 20thForest, 22ndStevens, The Bowl, Arrow Bench,  National Park, Firehouse, Library are rooms.
 
 Instead of taking something undescribed:
 	say "You don't see any such thing."
@@ -46,32 +46,89 @@ Back Yard has description "Nice trampoline here."
 "You are at a nice traffic circle. An inviting sidewalk beckons to the south."
 
 A flower bed is a supporter in 21stBayview.
+
 A pink egg is on the flower bed. The pink egg is undescribed.
 
 Instead of examining the flower bed:
 	say "You notice a pink egg between the plants!";
 	now the pink egg is described.
 
-21st & Forest is south of 21stBayview.
-"You are at a traffic circle to the east of the library."
+20thForest is south of 21stBayview.
+"You are at a traffic circle to the east of the library. A path also leads southeast."
 
-22nd & Stevens is southeast of 21st & Forest.
-"Great looking traffic circle on 22nd."
+a traffic circle is a supporter in 20thForest.
 
-The Bowl is south of 22nd & Stevens.
+A happy egg is on the traffic circle.  The happy egg is undescribed.
+
+Instead of examining a traffic circle:
+	say "You notice a happy egg in the traffic circle!";
+	now the happy egg is described.
+
+22ndStevens is southeast of 20thForest.
+"Great looking traffic circle on 22nd. The road bends down to the south."
+
+some scrubby plants is a supporter in 22ndStevens.
+
+A perplexed egg is on some scrubby plants.  The perplexed egg is undescribed.
+
+Instead of examining some scrubby plants:
+	say "You notice a perplexed egg in the scrubby plants!";
+	now the perplexed egg is described.
+
+The Bowl is south of 22ndStevens.
 "A dip in the street from all directions, looks like an interesting place to ride a bike."
+
+Base of street sign is a supporter in The Bowl.
+
+A turquoise egg is on the base of street sign.  The turquoise egg is undescribed.
+
+Instead of examining the base of street sign:
+	say "You notice a turquoise egg at the bottom of the pole!";
+	now the turquoise egg is described.
 
 Arrow Bench is west of The Bowl.
 "An attractive spot with a beautiful wooden bench in the shape of an arrow."
 
+under the bench is a supporter in Arrow Bench.
+
+A spotted egg is on the under the bench.  The spotted egg is undescribed.
+
+Instead of examining the under the bench:
+	say "You notice a spotted egg under the bench!";
+	now the spotted egg is described.
+
 National Park is west of Arrow Bench.
-"You look out toward the Cascades.  What a view!"
+"You look out toward the Cascades.  What a view! There is a low wall here."
+
+behind the wall is a supporter in National Park.
+
+A fuchsia egg is on the behind the wall.  The fuchsia egg is undescribed.
+
+Instead of examining the behind the wall:
+	say "You notice a fuchsia egg behind the wall!";
+	now the fuchsia egg is described.
 
 Firehouse is southwest of National Park.
 "A lovely old firehouse from 1930 with a story illustrated on rocks out front."
 
-Library is north of Firehouse and west of 21st & Forest.
+three raised tree boxes is a supporter in Firehouse.
+
+A teal egg is on the three raised tree boxes.  The teal egg is undescribed.
+
+Instead of examining the three raised tree boxes:
+	say "You notice a teal egg in the middle tree box!";
+	now the teal egg is described.
+
+Library is north of Firehouse and west of 20thForest.
 "A beautiful library with a dream ship out front."
+
+a spring poem is a supporter in Library.
+
+A mauve egg is on a spring poem.  The mauve egg is undescribed.
+
+Instead of examining a spring poem:
+	say "You notice a mauve egg lying beside the spring poem!";
+	now the mauve egg is described.
 
 The garage door is a closed openable door. It is west of Living Room and east of Garage.
 Instead of going through a closed door (called D):
