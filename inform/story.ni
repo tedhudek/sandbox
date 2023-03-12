@@ -7,7 +7,11 @@ Instead of taking something undescribed:
 	
 The Bedroom is up from the Living Room. The Kitchen is north of the Living Room. The Bathroom is northwest of the Living Room. The Dining Room is west of the Kitchen. The Front Room is west of the Dining Room.
 
-A bed is a supporter in the Bedroom. A pillow is on the bed. A nightstand is a container in the Bedroom. It is closed and openable. A red Easter egg is in the nightstand.
+A bed is a supporter in the Bedroom. A pillow is on the bed. A nightstand is a container in the Bedroom. It is closed and openable. A red Easter egg is in the nightstand. The egg is a closed, openable container. A message is in the egg.
+
+Instead of examining the message:
+	say "The message says 'Find me in the real world.'"
+
 The Bedroom has description "The master bedroom is tastefully furnished and has a vaulted ceiling. You can exit by going down."
 
 A couch is a supporter in the Living Room. A footrest is a container in the Living Room. It is closed and openable. A green Easter egg is in the footrest.
@@ -31,7 +35,7 @@ The front door has description "It leads outside."
 Front Yard is west of Front Porch.
 "A nice front yard with a yellow fire hydrant."
 
-Front Porch has description "You are on a wooden front porch next to a Smith Brothers milk bin."
+Front Porch has description "You are on a wooden front porch next to a Smith Brothers milk crate."
 
 The back door is west of Back Yard and east of Kitchen.
 The back door is a closed openable door.
@@ -110,4 +114,8 @@ Instead of examining some paper:
 A mailbox is a container in the Front Porch.
 A mailbox contains an envelope.
 An envelope contains a letter.
+
+[Instead of opening an egg: say "The [noun] contains a message inside."
+
+Instead of reading a message: say "The message says: Find me in the real world."]
 
