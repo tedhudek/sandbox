@@ -1,5 +1,7 @@
 "The Great Beacon Hill Egg Hunt" by "E. Bunny"
 
+The story headline is "An Egg-stravagant Fiction".
+
 Use scoring. [The maximum score is a number that varies.] The maximum score is 160.
 
 The Bedroom, Living Room, Kitchen, Bathroom, Dining Room, Front Room, Front Porch, Garage, Front Yard, Back Yard, 21stBayview, 20thForest, 22ndStevens, The Bowl, Arrow Bench,  National Park, Firehouse, Library are rooms.
@@ -49,6 +51,8 @@ The front door has description "It leads outside."
 
 Front Yard is west of Front Porch.
 "A nice front yard with a yellow fire hydrant."
+
+The hydrant is scenery in the Front Yard. “The diminutive yellow plug stands tall, ready to do its job.”
 
 Front Porch has description "You are on a wooden front porch."
 
@@ -221,7 +225,7 @@ Garage contains a closed lockable locked container called a safe.
 
 The safe has a list of numbers called the current combination.
 
-The safe has a list of numbers called the true combination. The true combination of the safe is {2, 10, 11, 15, 19, 22, 25, 29}.
+The safe has a list of numbers called the true combination. The true combination of the safe is {2, 10, 11}.
 
 Understand "set [something] to [a number]" as setting it numerically to. Setting it numerically to is an action applying to one thing and one number.
 
@@ -258,3 +262,6 @@ The envelope contains a letter.
 Instead of examining the letter:
 	say "Happy Easter! Love, E.B."
 
+Test houseeggs with "gonear bedroom / open nightstand / get egg / open egg / read message / down / open footrest / get egg / nw / open cabinet / get egg / se /north/ open fridge / get egg/w/ open cupboard / get egg /w/ open bin/ get egg"
+
+Test safe with "gonear bedroom / d / open door / w / x safe / set safe to 2 / set safe to 10 / set safe to 11 / open safe / get paper / read paper"
