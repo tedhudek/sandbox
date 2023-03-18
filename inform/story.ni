@@ -1,15 +1,20 @@
 "The Great Beacon Hill Egg Hunt" by "E. Bunny"
 
+
 The story headline is "An Egg-stravagant Fiction".
 
-Use scoring. [The maximum score is a number that varies.] The maximum score is 160.
+Use scoring. [The maximum score is a number that varies.] The maximum score is 200.
 
 The Bedroom, Living Room, Kitchen, Bathroom, Dining Room, Front Room, Front Porch, Garage, Front Yard, Back Yard, 21stBayview, 20thForest, 22ndStevens, The Bowl, Arrow Bench,  National Park, Firehouse, Library are rooms.
 
 Instead of taking something undescribed:
 	say "You don't see any such thing."
-	
-The Bedroom is up from the Living Room. The Kitchen is north of the Living Room. The Bathroom is northwest of the Living Room. The Dining Room is west of the Kitchen. The Front Room is west of the Dining Room.
+
+
+Chapter 1 - In the House
+
+The Bedroom is up from the Living Room. "The master bedroom is tastefully furnished and has a vaulted ceiling. You can exit by going down."
+The Kitchen is north of the Living Room. The Bathroom is northwest of the Living Room. The Dining Room is west of the Kitchen. The Front Room is west of the Dining Room.
 
 A bed is a supporter in the Bedroom. A pillow is on the bed. A nightstand is a container in the Bedroom. It is closed and openable. A red Easter egg is in the nightstand. The egg is a closed, openable container. A message is in the egg.
 
@@ -17,9 +22,9 @@ After taking the red egg:
 	increase the score by 10;
 
 Instead of examining the message:
-	say "The message says 'Find me in the real world.'"
+	say "The message says 'Find us in the real world.'"
 
-The Bedroom has description "The master bedroom is tastefully furnished and has a vaulted ceiling. You can exit by going down."
+The Living Room has description "There are big windows here and a comfy looking recliner.".
 
 A couch is a supporter in the Living Room. A footrest is a container in the Living Room. It is closed and openable. A green Easter egg is in the footrest.
 
@@ -32,6 +37,9 @@ After taking the blue egg:
 	increase the score by 10;
 
 A sink is a supporter in the Bathroom. A bar of soap is on the sink. A cabinet is a container in the Bathroom.  It is closed and openable. A yellow Easter egg is in the cabinet.
+
+After taking the yellow egg:
+	increase the score by 10;
 
 A table is a supporter in the Dining Room. A utensil holder is on the table.  A cupboard is a container in the Dining Room.  It is closed and openable.
 An orange Easter egg is in the cupboard.
@@ -48,6 +56,8 @@ After taking the purple egg:
 The front door is west of Front Room and east of Front Porch.
 The front door is a closed openable door.
 The front door has description "It leads outside."
+
+Chapter 2 - Yard
 
 Front Yard is west of Front Porch.
 "A nice front yard with a yellow fire hydrant."
@@ -104,7 +114,9 @@ Instead of examining toy yellow dump truck:
 After taking the jubilant egg:
 	increase the score by 10;
 
-21stBayview is southwest of Front Yard.
+Chapter 3 - Neighborhood
+
+21stBayview is southwest of Front Yard. Printed name is "21st & Bayview".
 "You are at a nice traffic circle. An inviting sidewalk beckons to the south."
 
 A flower bed is a supporter in 21stBayview.
@@ -118,7 +130,7 @@ Instead of examining the flower bed:
 After taking the pink egg:
 	increase the score by 10;
 
-20thForest is south of 21stBayview.
+20thForest is south of 21stBayview. Printed name is "20th & Forest".
 "You are at a traffic circle to the east of the library. A path also leads southeast."
 
 a traffic circle is a supporter in 20thForest.
@@ -132,7 +144,7 @@ Instead of examining a traffic circle:
 After taking the happy egg:
 	increase the score by 10;
 
-22ndStevens is southeast of 20thForest.
+22ndStevens is southeast of 20thForest. Printed name is "22nd & Stevens".
 "Great looking traffic circle on 22nd. The road bends down to the south."
 
 some scrubby plants is a supporter in 22ndStevens.
@@ -221,11 +233,14 @@ Instead of going through a closed door (called D):
 	say "Bonk! [The D] is closed. ";
 	stop the action.
 
+
+Chapter 4 - Garage
+
 Garage contains a closed lockable locked container called a safe.
 
 The safe has a list of numbers called the current combination.
 
-The safe has a list of numbers called the true combination. The true combination of the safe is {2, 10, 11}.
+The safe has a list of numbers called the true combination. The true combination of the safe is {19, 15, 12, 15, 14, 7, 1, 14, 4, 20, 8, 1, 14, 11, 19, 6, 15, 18, 1, 12, 12, 20, 8, 5, 6, 9, 19, 8}.
 
 Understand "set [something] to [a number]" as setting it numerically to. Setting it numerically to is an action applying to one thing and one number.
 
@@ -239,7 +254,7 @@ Check setting something numerically to (this is the block setting numerically ru
 	say "[The noun] cannot be set."
 
 Instead of setting the safe numerically to the number understood:
-	truncate the current combination of the safe to the last 2 entries;
+	truncate the current combination of the safe to the last 28 entries;
 	add the number understood to the current combination of the safe;
 	if the safe is locked and the current combination of the safe is the true combination of the safe:
 		say "You dial [the number understood], and [the safe] gives a joyous CLICK.";
@@ -252,8 +267,12 @@ Instead of setting the safe numerically to the number understood:
 
 Inside the safe is some paper.
 Instead of examining some paper:
-	say "You read the message on the paper:  .-… — — -.- / … -. / - .-. … … - .- -. … / -.-. .-… — … . -
-";
+	say "You read the message on the paper:  .. -. / - .-. .. ... - .- -. ... / -.-. .-.. --- ... . -";
+	increase the score by 40;
+
+Every turn when the score is 200:
+	say "Congratulations! You have reached the maximum score and completed the game.";
+	end the story finally.
 
 A mailbox is a container in the Front Yard. It is closed and openable.
 A mailbox contains an envelope. The envelope is a closed, openable container.
@@ -262,6 +281,16 @@ The envelope contains a letter.
 Instead of examining the letter:
 	say "Happy Easter! Love, E.B."
 
+
+Chapter 5 - Tests
+
 Test houseeggs with "gonear bedroom / open nightstand / get egg / open egg / read message / down / open footrest / get egg / nw / open cabinet / get egg / se /north/ open fridge / get egg/w/ open cupboard / get egg /w/ open bin/ get egg"
 
-Test safe with "gonear bedroom / d / open door / w / x safe / set safe to 2 / set safe to 10 / set safe to 11 / open safe / get paper / read paper"
+Test safe with "gonear bedroom / d / open door / w / x safe / set safe to 19  / set safe to 15  / set safe to 12  / set safe to 15  / set safe to 14  / set safe to 7  / set safe to 1  / set safe to 14  / set safe to 4  / set safe to 20  / set safe to 8  / set safe to 1  / set safe to 14  / set safe to 11  / set safe to 19  / set safe to 6  / set safe to 15  / set safe to 18  / set safe to 1  / set safe to 12  / set safe to 12  / set safe to 20  / set safe to 8  / set safe to 5  / set safe to 6  / set safe to 9  / set safe to 19 / set safe to 8 / open safe / get paper / read paper"
+
+Test outsideeggs with "gonear front room / open door / w / open crate / get egg / w / sw / x bed / get egg / s / x circle / get egg / se / x plants / get egg / s / x sign / get egg / w / x bench / get egg / w / x wall / get egg / sw / x boxes / get egg / n / x poem / get egg"
+
+Test backyard with "gonear kitchen / open door / e / open trampoline / bounce on trampoline / get out / x truck / get egg"
+
+Test all with "test houseeggs / test outsideeggs / test backyard / test safe"
+
