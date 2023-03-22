@@ -5,7 +5,7 @@ The story headline is "An Egg-stravagant Fiction".
 
 Use scoring. [The maximum score is a number that varies.] The maximum score is 200.
 
-The Bedroom, Living Room, Kitchen, Bathroom, Dining Room, Front Room, Front Porch, Garage, Front Yard, Back Yard, 21stBayview, 20thForest, 22ndStevens, The Bowl, Arrow Bench,  National Park, Firehouse, Library are rooms.
+The Bedroom, Living Room, Kitchen, Bathroom, Dining Room, Front Room, Front Porch, Garage, Front Yard, Back Yard, 21stBayview, 20thForest, 22ndStevens, The Bowl, Arrow,  National Park, Firehouse, Library are rooms.
 
 Instead of taking something undescribed:
 	say "You don't see any such thing."
@@ -117,7 +117,7 @@ After taking the jubilant egg:
 Chapter 3 - Neighborhood
 
 21stBayview is southwest of Front Yard. Printed name is "21st & Bayview".
-"You are at a nice traffic circle. An inviting sidewalk beckons to the south."
+"You are at a nice traffic circle. Inviting sidewalks lead southwest and northeast."
 
 A flower bed is a supporter in 21stBayview.
 
@@ -130,7 +130,7 @@ Instead of examining the flower bed:
 After taking the pink egg:
 	increase the score by 10;
 
-20thForest is south of 21stBayview. Printed name is "20th & Forest".
+20thForest is southwest of 21stBayview. Printed name is "20th & Forest".
 "You are at a traffic circle to the east of the library. A path also leads southeast."
 
 a traffic circle is a supporter in 20thForest.
@@ -159,7 +159,7 @@ After taking the perplexed egg:
 	increase the score by 10;
 
 The Bowl is south of 22ndStevens.
-"A dip in the street from all directions, looks like an interesting place to ride a bike."
+"A dip in the street, looks like an interesting place to ride a bike. From here you can go uphill north or west."
 
 Base of street sign is a supporter in The Bowl.
 
@@ -172,10 +172,10 @@ Instead of examining the base of street sign:
 After taking the turquoise egg:
 	increase the score by 10;
 
-Arrow Bench is west of The Bowl.
-"An attractive spot with a beautiful wooden bench in the shape of an arrow."
+Arrow is west of The Bowl. Printed name is "Arrow Bench".
+"An attractive spot shaded by a few short but dedicated trees. There is a wooden bench shaped like an arrow."
 
-under the bench is a supporter in Arrow Bench.
+under the bench is a supporter in Arrow.
 
 A spotted egg is on the under the bench.  The spotted egg is undescribed.
 
@@ -183,10 +183,10 @@ Instead of examining the under the bench:
 	say "You notice a spotted egg under the bench!";
 	now the spotted egg is described.
 
-After taking the spotted egg:
+After taking the spotted egg for the first time:
 	increase the score by 10;
 
-National Park is west of Arrow Bench.
+National Park is west of Arrow.
 "You look out toward the Cascades.  What a view! There is a low wall here."
 
 behind the wall is a supporter in National Park.
@@ -288,9 +288,10 @@ Test houseeggs with "gonear bedroom / open nightstand / get egg / open egg / rea
 
 Test safe with "gonear bedroom / d / open door / w / x safe / set safe to 19  / set safe to 15  / set safe to 12  / set safe to 15  / set safe to 14  / set safe to 7  / set safe to 1  / set safe to 14  / set safe to 4  / set safe to 20  / set safe to 8  / set safe to 1  / set safe to 14  / set safe to 11  / set safe to 19  / set safe to 6  / set safe to 15  / set safe to 18  / set safe to 1  / set safe to 12  / set safe to 12  / set safe to 20  / set safe to 8  / set safe to 5  / set safe to 6  / set safe to 9  / set safe to 19 / set safe to 8 / open safe / get paper / read paper"
 
-Test outsideeggs with "gonear front room / open door / w / open crate / get egg / w / sw / x bed / get egg / s / x circle / get egg / se / x plants / get egg / s / x sign / get egg / w / x bench / get egg / w / x wall / get egg / sw / x boxes / get egg / n / x poem / get egg"
+Test outsideeggs with "gonear front room / open door / w / open crate / get egg / w / sw / x bed / get egg / sw / x circle / get egg / se / x plants / get egg / s / x sign / get egg / w / x bench / get egg / w / x wall / get egg / sw / x boxes / get egg / n / x poem / get egg"
 
 Test backyard with "gonear kitchen / open door / e / open trampoline / bounce on trampoline / get out / x truck / get egg"
 
 Test all with "test houseeggs / test outsideeggs / test backyard / test safe"
+
 
