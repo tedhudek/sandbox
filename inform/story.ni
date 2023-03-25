@@ -331,7 +331,7 @@ Chapter 5 - Tests
 
 Test houseeggs with "gonear bedroom / open nightstand / get egg / open egg / read message / down / open footrest / get egg / nw / open cabinet / get egg / se /north/ open fridge / get egg/w/ open cupboard / get egg /w/ open bin/ get egg"
 
-Test safe with "gonear bedroom / d / open door / w / x kettlebell / x weight bench / x safe / set safe to 19  / set safe to 15  / set safe to 12  / set safe to 15  / set safe to 14  / set safe to 7  / set safe to 1  / set safe to 14  / set safe to 4  / set safe to 20  / set safe to 8  / set safe to 1  / set safe to 14  / set safe to 11  / set safe to 19  / set safe to 6  / set safe to 15  / set safe to 18  / set safe to 1  / set safe to 12  / set safe to 12  / set safe to 20  / set safe to 8  / set safe to 5  / set safe to 6  / set safe to 9  / set safe to 19 / set safe to 8 / open safe / get paper / read paper"
+Test safe with "gonear bedroom / d / open door / w / x safe / set safe to 19  / set safe to 15  / set safe to 12  / set safe to 15  / set safe to 14  / set safe to 7  / set safe to 1  / set safe to 14  / set safe to 4  / set safe to 20  / set safe to 8  / set safe to 1  / set safe to 14  / set safe to 11  / set safe to 19  / set safe to 6  / set safe to 15  / set safe to 18  / set safe to 1  / set safe to 12  / set safe to 12  / set safe to 20  / set safe to 8  / set safe to 5  / set safe to 6  / set safe to 9  / set safe to 19 / set safe to 8 / open safe / get paper / read paper"
 
 Test outsideeggs with "gonear front room / open door / w / open crate / get egg / w / x hydrant / sw / x bed / get egg / sw / x circle / get egg / se / x plants / get egg / s / x sign / get egg / w / x bench / get egg / w / x wall / get egg / sw / x boxes / get egg / n / x poem / get egg"
 
