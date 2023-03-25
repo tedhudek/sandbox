@@ -13,6 +13,8 @@ Instead of taking something undescribed:
 
 Chapter 1 - In the House
 
+Section 1 - Bedroom
+
 The Bedroom is up from the Living Room. "The master bedroom is tastefully furnished and has a vaulted ceiling. You can exit by going down."
 The Kitchen is north of the Living Room. The Bathroom is northwest of the Living Room. The Dining Room is west of the Kitchen. The Front Room is west of the Dining Room.
 
@@ -24,6 +26,8 @@ After taking the red egg:
 Instead of examining the message:
 	say "The message says 'Find us in the real world.'"
 
+Section 2 - Living Room
+
 The Living Room has description "There are big windows here and a comfy looking recliner.".
 
 A couch is a supporter in the Living Room. A footrest is a container in the Living Room. It is closed and openable. A green Easter egg is in the footrest.
@@ -31,21 +35,29 @@ A couch is a supporter in the Living Room. A footrest is a container in the Livi
 After taking the green egg:
 	increase the score by 10;
 
+Section 3 - Kitchen
+
 A stove is a supporter in the Kitchen. A pot is on the stove. A fridge is a container in the Kitchen. It is closed and openable. A blue Easter egg is in the fridge.
 
 After taking the blue egg:
 	increase the score by 10;
+
+Section 4 - Bathroom
 
 A sink is a supporter in the Bathroom. A bar of soap is on the sink. A cabinet is a container in the Bathroom.  It is closed and openable. A yellow Easter egg is in the cabinet.
 
 After taking the yellow egg:
 	increase the score by 10;
 
+Section 5 - Dining Room
+
 A table is a supporter in the Dining Room. A utensil holder is on the table.  A cupboard is a container in the Dining Room.  It is closed and openable.
 An orange Easter egg is in the cupboard.
 
 After taking the orange egg:
 	increase the score by 10;
+
+Section 6 - Front Room
 
 A rack is a supporter in the Front Room. A coat is on the rack. A bin is a container in the Front Room. It is closed and openable.
 A purple Easter egg is in the bin.
@@ -59,6 +71,8 @@ The front door has description "It leads outside."
 
 Chapter 2 - Yard
 
+Section 1 - Out Front
+
 Front Yard is west of Front Porch.
 "A nice front yard with a yellow fire hydrant."
 
@@ -70,6 +84,8 @@ Smith Brothers milk crate is a container in Front Porch. It is closed and openab
 
 After taking the joyful egg:
 	increase the score by 10;
+
+Section 2 - Out Back
 
 The back door is west of Back Yard and east of Kitchen.
 The back door is a closed openable door.
@@ -116,8 +132,10 @@ After taking the jubilant egg:
 
 Chapter 3 - Neighborhood
 
+Section 1 - 21stBayview
+
 21stBayview is southwest of Front Yard. Printed name is "21st & Bayview".
-"You are at a nice traffic circle. Inviting sidewalks lead southwest and northeast."
+"You are at a nice traffic circle at the base of a sledding hill. Inviting sidewalks lead southwest and northeast."
 
 A flower bed is a supporter in 21stBayview.
 
@@ -130,8 +148,10 @@ Instead of examining the flower bed:
 After taking the pink egg:
 	increase the score by 10;
 
+Section 2 - 20thForest
+
 20thForest is southwest of 21stBayview. Printed name is "20th & Forest".
-"You are at a traffic circle to the east of the library. A path also leads southeast."
+"You are at a traffic circle that has some lovely yellow daffodils. A path leads west, where you can see a dream ship.  You can also go southeast."
 
 a traffic circle is a supporter in 20thForest.
 
@@ -144,8 +164,10 @@ Instead of examining a traffic circle:
 After taking the happy egg:
 	increase the score by 10;
 
+Section 3 - 22ndStevens
+
 22ndStevens is southeast of 20thForest. Printed name is "22nd & Stevens".
-"Great looking traffic circle on 22nd. The road bends down to the south."
+"Great looking traffic circle on 22nd. The road bends down to the south.  There is also a path to the northwest."
 
 some scrubby plants is a supporter in 22ndStevens.
 
@@ -158,22 +180,26 @@ Instead of examining some scrubby plants:
 After taking the perplexed egg:
 	increase the score by 10;
 
+Section 4 - The Bowl
+
 The Bowl is south of 22ndStevens.
-"A dip in the street, looks like an interesting place to ride a bike. From here you can go uphill north or west."
+"A dip in the street, looks like an interesting place to ride a bike. From here it's uphill whichever way you go, north or west."
 
-Base of street sign is a supporter in The Bowl.
+A street sign is a supporter in The Bowl.
 
-A turquoise egg is on the base of street sign.  The turquoise egg is undescribed.
+A turquoise egg is on the street sign.  The turquoise egg is undescribed.
 
-Instead of examining the base of street sign:
+Instead of examining the street sign:
 	say "You notice a turquoise egg at the bottom of the pole!";
 	now the turquoise egg is described.
 
 After taking the turquoise egg:
 	increase the score by 10;
 
+Section 5 - Arrow
+
 Arrow is west of The Bowl. Printed name is "Arrow Bench".
-"An attractive spot shaded by a few short but dedicated trees. There is a wooden bench shaped like an arrow."
+"An attractive spot shaded by a few short but dedicated trees. There is a wooden bench shaped like an arrow.  Some steps leads up to the west, or you can go east."
 
 under the bench is a supporter in Arrow.
 
@@ -186,8 +212,10 @@ Instead of examining the under the bench:
 After taking the spotted egg for the first time:
 	increase the score by 10;
 
+Section 6 - National Park
+
 National Park is west of Arrow.
-"You look out toward the Cascades.  What a view! There is a low wall here."
+"You look out toward the Cascades.  What a view! There is a low wall here.  A path leads east down some steps, or you can go southwest."
 
 behind the wall is a supporter in National Park.
 
@@ -200,8 +228,10 @@ Instead of examining the behind the wall:
 After taking the fuchsia egg:
 	increase the score by 10;
 
+Section 7 - Firehouse
+
 Firehouse is southwest of National Park.
-"A lovely old firehouse from 1930 with a story illustrated on rocks out front."
+"A lovely old firehouse from 1930 with a story illustrated on rocks out front.  Paths lead north and northeast."
 
 three raised tree boxes is a supporter in Firehouse.
 
@@ -214,8 +244,10 @@ Instead of examining the three raised tree boxes:
 After taking the teal egg:
 	increase the score by 10;
 
+Section 8 - Library
+
 Library is north of Firehouse and west of 20thForest.
-"A beautiful library with a dream ship out front."
+"A beautiful library with a dream ship out front.  From here you can go east or south."
 
 a spring poem is a supporter in Library.
 
@@ -237,6 +269,7 @@ Instead of going through a closed door (called D):
 Chapter 4 - Garage
 
 Garage contains a closed lockable locked container called a safe.
+"You are in a two car garage with a really high ceiling.  There is a weight bench here and an extremely heavy looking kettlebell."
 
 The safe has a list of numbers called the current combination.
 
@@ -244,7 +277,6 @@ The safe has a list of numbers called the true combination. The true combination
 
 Understand "set [something] to [a number]" as setting it numerically to. Setting it numerically to is an action applying to one thing and one number.
 
-[verify that they have all eggs]
 Instead of examining the safe:
 	if the number of entries in the current combination of the safe is 0,
 		say "You haven't dialed the safe to any combination yet.";
@@ -271,7 +303,7 @@ Instead of examining some paper:
 	increase the score by 40;
 
 Every turn when the score is 200:
-	say "Congratulations! You have reached the maximum score and completed the game.";
+	say "Hurray! You did it!  You have reached the maximum score and completed the game.  Only one thing left to do now.  Have a very hoppy Easter and thanks for exploring the neighborhood with me.";
 	end the story finally.
 
 A mailbox is a container in the Front Yard. It is closed and openable.
@@ -288,7 +320,7 @@ Test houseeggs with "gonear bedroom / open nightstand / get egg / open egg / rea
 
 Test safe with "gonear bedroom / d / open door / w / x safe / set safe to 19  / set safe to 15  / set safe to 12  / set safe to 15  / set safe to 14  / set safe to 7  / set safe to 1  / set safe to 14  / set safe to 4  / set safe to 20  / set safe to 8  / set safe to 1  / set safe to 14  / set safe to 11  / set safe to 19  / set safe to 6  / set safe to 15  / set safe to 18  / set safe to 1  / set safe to 12  / set safe to 12  / set safe to 20  / set safe to 8  / set safe to 5  / set safe to 6  / set safe to 9  / set safe to 19 / set safe to 8 / open safe / get paper / read paper"
 
-Test outsideeggs with "gonear front room / open door / w / open crate / get egg / w / sw / x bed / get egg / sw / x circle / get egg / se / x plants / get egg / s / x sign / get egg / w / x bench / get egg / w / x wall / get egg / sw / x boxes / get egg / n / x poem / get egg"
+Test outsideeggs with "gonear front room / open door / w / open crate / get egg / w / x hydrant / sw / x bed / get egg / sw / x circle / get egg / se / x plants / get egg / s / x sign / get egg / w / x bench / get egg / w / x wall / get egg / sw / x boxes / get egg / n / x poem / get egg"
 
 Test backyard with "gonear kitchen / open door / e / open trampoline / bounce on trampoline / get out / x truck / get egg"
 
