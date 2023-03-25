@@ -16,6 +16,7 @@ Chapter 1 - In the House
 Section 1 - Bedroom
 
 The Bedroom is up from the Living Room. "The master bedroom is tastefully furnished and has a vaulted ceiling. You can exit by going down."
+
 The Kitchen is north of the Living Room. The Bathroom is northwest of the Living Room. The Dining Room is west of the Kitchen. The Front Room is west of the Dining Room.
 
 A bed is a supporter in the Bedroom. A pillow is on the bed. A nightstand is a container in the Bedroom. It is closed and openable. A red Easter egg is in the nightstand. The egg is a closed, openable container. A message is in the egg.
@@ -37,12 +38,16 @@ After taking the green egg:
 
 Section 3 - Kitchen
 
+The Kitchen has description "Granite countertops adorn this small kitchen. You can see the back yard out a small window".
+
 A stove is a supporter in the Kitchen. A pot is on the stove. A fridge is a container in the Kitchen. It is closed and openable. A blue Easter egg is in the fridge.
 
 After taking the blue egg:
 	increase the score by 10;
 
 Section 4 - Bathroom
+
+The Bathroom has description "You can see yourself in a big mirror here.".
 
 A sink is a supporter in the Bathroom. A bar of soap is on the sink. A cabinet is a container in the Bathroom.  It is closed and openable. A yellow Easter egg is in the cabinet.
 
@@ -51,6 +56,8 @@ After taking the yellow egg:
 
 Section 5 - Dining Room
 
+The Dining Room has description "A cozy eating nook with a chandelier hanging from the ceiling, it features a simple wood table and four chairs. A pantry stands in the corner.".
+
 A table is a supporter in the Dining Room. A utensil holder is on the table.  A cupboard is a container in the Dining Room.  It is closed and openable.
 An orange Easter egg is in the cupboard.
 
@@ -58,6 +65,8 @@ After taking the orange egg:
 	increase the score by 10;
 
 Section 6 - Front Room
+
+The Front Room has description "The front entry room of the house. An attractive blue rug adds to the warmth. Out the window is a beautiful city skyline.".
 
 A rack is a supporter in the Front Room. A coat is on the rack. A bin is a container in the Front Room. It is closed and openable.
 A purple Easter egg is in the bin.
@@ -271,6 +280,10 @@ Chapter 4 - Garage
 Garage contains a closed lockable locked container called a safe.
 "You are in a two car garage with a really high ceiling.  There is a weight bench here and an extremely heavy looking kettlebell."
 
+[The kettlebell is scenery in the Garage. "It's a massive cast iron ball with a handle."
+
+The weight bench is scenery in the Garage. "A padded black vinyl surface covers the bench. It has wheels on one end."]
+
 The safe has a list of numbers called the current combination.
 
 The safe has a list of numbers called the true combination. The true combination of the safe is {19, 15, 12, 15, 14, 7, 1, 14, 4, 20, 8, 1, 14, 11, 19, 6, 15, 18, 1, 12, 12, 20, 8, 5, 6, 9, 19, 8}.
@@ -318,7 +331,7 @@ Chapter 5 - Tests
 
 Test houseeggs with "gonear bedroom / open nightstand / get egg / open egg / read message / down / open footrest / get egg / nw / open cabinet / get egg / se /north/ open fridge / get egg/w/ open cupboard / get egg /w/ open bin/ get egg"
 
-Test safe with "gonear bedroom / d / open door / w / x safe / set safe to 19  / set safe to 15  / set safe to 12  / set safe to 15  / set safe to 14  / set safe to 7  / set safe to 1  / set safe to 14  / set safe to 4  / set safe to 20  / set safe to 8  / set safe to 1  / set safe to 14  / set safe to 11  / set safe to 19  / set safe to 6  / set safe to 15  / set safe to 18  / set safe to 1  / set safe to 12  / set safe to 12  / set safe to 20  / set safe to 8  / set safe to 5  / set safe to 6  / set safe to 9  / set safe to 19 / set safe to 8 / open safe / get paper / read paper"
+Test safe with "gonear bedroom / d / open door / w / x kettlebell / x weight bench / x safe / set safe to 19  / set safe to 15  / set safe to 12  / set safe to 15  / set safe to 14  / set safe to 7  / set safe to 1  / set safe to 14  / set safe to 4  / set safe to 20  / set safe to 8  / set safe to 1  / set safe to 14  / set safe to 11  / set safe to 19  / set safe to 6  / set safe to 15  / set safe to 18  / set safe to 1  / set safe to 12  / set safe to 12  / set safe to 20  / set safe to 8  / set safe to 5  / set safe to 6  / set safe to 9  / set safe to 19 / set safe to 8 / open safe / get paper / read paper"
 
 Test outsideeggs with "gonear front room / open door / w / open crate / get egg / w / x hydrant / sw / x bed / get egg / sw / x circle / get egg / se / x plants / get egg / s / x sign / get egg / w / x bench / get egg / w / x wall / get egg / sw / x boxes / get egg / n / x poem / get egg"
 
