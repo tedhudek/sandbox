@@ -19,7 +19,7 @@ The Bedroom is up from the Living Room. "The master bedroom is tastefully furnis
 
 The Kitchen is north of the Living Room. The Bathroom is northwest of the Living Room. The Dining Room is west of the Kitchen. The Front Room is west of the Dining Room.
 
-A bed is a supporter in the Bedroom. A pillow is on the bed. A nightstand is a container in the Bedroom. It is closed and openable. A red Easter egg is in the nightstand. The egg is a closed, openable container. A message is in the egg.
+A bed is a supporter in the Bedroom. A pillow is on the bed. A blue backpack is a container in the Bedroom. It is closed and openable. A red Easter egg is in the blue backpack. The egg is a closed, openable container. A message is in the egg.
 
 After taking the red egg:
 	increase the score by 10;
@@ -56,7 +56,7 @@ After taking the yellow egg:
 
 Section 5 - Dining Room
 
-The Dining Room has description "A cozy eating nook with a chandelier hanging from the ceiling, it features a simple wood table and four chairs. A pantry stands in the corner.".
+The Dining Room has description "A cozy eating nook with a chandelier hanging from the ceiling, it features a simple wooden table and four chairs.".
 
 A table is a supporter in the Dining Room. A utensil holder is on the table.  A cupboard is a container in the Dining Room.  It is closed and openable.
 An orange Easter egg is in the cupboard.
@@ -68,8 +68,8 @@ Section 6 - Front Room
 
 The Front Room has description "The front entry room of the house. An attractive blue rug adds to the warmth. Out the window is a beautiful city skyline.".
 
-A rack is a supporter in the Front Room. A coat is on the rack. A bin is a container in the Front Room. It is closed and openable.
-A purple Easter egg is in the bin.
+A rack is a supporter in the Front Room. A coat is on the rack. A black bin is a container in the Front Room. It is closed and openable.
+A purple Easter egg is in the black bin.
 
 After taking the purple egg:
 	increase the score by 10;
@@ -312,7 +312,7 @@ Instead of setting the safe numerically to the number understood:
 
 Inside the safe is some paper.
 Instead of examining some paper:
-	say "You read the message on the paper:  .. -. / - .-. .. ... - .- -. ... / -.-. .-.. --- ... . -";
+	say "You read the message on the paper:  .-.. --- --- -.- / .. -. / - .... . / .-.. .. -. . -. / -.-. .-.. --- ... . -";
 	increase the score by 40;
 
 Every turn when the score is 200:
@@ -329,7 +329,7 @@ Instead of examining the letter:
 
 Chapter 5 - Tests
 
-Test houseeggs with "gonear bedroom / open nightstand / get egg / open egg / read message / down / open footrest / get egg / nw / open cabinet / get egg / se /north/ open fridge / get egg/w/ open cupboard / get egg /w/ open bin/ get egg"
+Test houseeggs with "gonear bedroom / open blue backpack / get egg / open egg / read message / down / open footrest / get egg / nw / open cabinet / get egg / se /north/ open fridge / get egg/w/ open cupboard / get egg /w/ open black bin/ get egg"
 
 Test safe with "gonear bedroom / d / open door / w / x safe / set safe to 19  / set safe to 15  / set safe to 12  / set safe to 15  / set safe to 14  / set safe to 7  / set safe to 1  / set safe to 14  / set safe to 4  / set safe to 20  / set safe to 8  / set safe to 1  / set safe to 14  / set safe to 11  / set safe to 19  / set safe to 6  / set safe to 15  / set safe to 18  / set safe to 1  / set safe to 12  / set safe to 12  / set safe to 20  / set safe to 8  / set safe to 5  / set safe to 6  / set safe to 9  / set safe to 19 / set safe to 8 / open safe / get paper / read paper"
 
