@@ -29,7 +29,7 @@ Instead of examining the message:
 
 Section 2 - Living Room
 
-The Living Room has description "There are big windows here and a comfy looking recliner.".
+The Living Room has description "There are big windows here and a comfy looking recliner. You can go up, northwest, north, or west into the garage.".
 
 A couch is a supporter in the Living Room. A footrest is a container in the Living Room. It is closed and openable. A green Easter egg is in the footrest.
 
@@ -38,7 +38,7 @@ After taking the green egg:
 
 Section 3 - Kitchen
 
-The Kitchen has description "Granite countertops adorn this small kitchen. You can see the back yard out a small window".
+The Kitchen has description "Granite countertops adorn this small kitchen. You can see the back yard outside a door to the east and a dining room to the west. ".
 
 A stove is a supporter in the Kitchen. A pot is on the stove. A fridge is a container in the Kitchen. It is closed and openable. A blue Easter egg is in the fridge.
 
@@ -47,7 +47,7 @@ After taking the blue egg:
 
 Section 4 - Bathroom
 
-The Bathroom has description "You can see yourself in a big mirror here.".
+The Bathroom has description "You can see yourself in a big mirror here. There is an exit to the southeast.".
 
 A sink is a supporter in the Bathroom. A bar of soap is on the sink. A cabinet is a container in the Bathroom.  It is closed and openable. A yellow Easter egg is in the cabinet.
 
@@ -56,7 +56,7 @@ After taking the yellow egg:
 
 Section 5 - Dining Room
 
-The Dining Room has description "A cozy eating nook with a chandelier hanging from the ceiling, it features a simple wooden table and four chairs.".
+The Dining Room has description "A cozy eating nook with a chandelier hanging from the ceiling, it features a simple wooden table and four chairs. Exits lead east and west.".
 
 A table is a supporter in the Dining Room. A utensil holder is on the table.  A cupboard is a container in the Dining Room.  It is closed and openable.
 An orange Easter egg is in the cupboard.
@@ -99,7 +99,7 @@ Section 2 - Out Back
 The back door is west of Back Yard and east of Kitchen.
 The back door is a closed openable door.
 
-Back Yard has description "You are standing in the grass next to an inviting trampoline."
+Back Yard has description "You are standing in the grass next to an inviting trampoline. The house is to the west."
 
 A trampoline is a container in Back Yard. It is closed and openable. The description of the trampoline is "A big rectangular trampoline with a safety net around it. You can open it and bounce on it."
 
