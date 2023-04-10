@@ -82,7 +82,7 @@ Chapter 2 - Yard
 
 Section 1 - Out Front
 
-Front Yard is west of Front Porch.
+Front Yard is west of Front Porch and northeast of 21stBayview.
 "A nice front yard with a yellow fire hydrant."
 
 The hydrant is scenery in the Front Yard. “The diminutive yellow plug stands tall, ready to do its job.”
@@ -91,7 +91,7 @@ Front Porch has description "You are on a wooden front porch."
 
 Smith Brothers milk crate is a container in Front Porch. It is closed and openable. A joyful Easter egg is in the Smith Brothers milk crate.
 
-After taking the joyful egg:
+After taking the joyful egg for the first time:
 	increase the score by 10;
 
 Section 2 - Out Back
