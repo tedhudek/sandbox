@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-1">
+  <generator>Windows Inform 10.1.2</generator>
+  <item nodeId="node-1">
+    <command xml:space="preserve">The Great Beacon Hill Egg Hunt - Hints</command>
+    <result xml:space="preserve">The Great Beacon Hill Egg Hunt - Hints&#x000A;An Interactive Fiction&#x000A;Release 1 / Serial number 230402 / Inform 7 v10.1.2 / D&#x000A;&#x000A;Clue Emporium&#x000A;Type help for clues.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-2"/>
+      <child nodeId="node-25"/>
+    </children>
+  </item>
+  <item nodeId="node-2">
+    <command xml:space="preserve">help</command>
+    <result xml:space="preserve">&gt; Counting Eggs&#x000A;   Egg Contents&#x000A;   Contents are ready. What next?&#x000A;   Fun stuff</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-3"/>
+      <child nodeId="node-98"/>
+    </children>
+  </item>
+  <item nodeId="node-3">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Counting Eggs&#x000A; &gt; Egg Contents&#x000A;   Contents are ready. What next?&#x000A;   Fun stuff&#x000A;&#x000A;   Counting Eggs&#x000A; &gt; Egg Contents&#x000A;   Contents are ready. What next?&#x000A;   Fun stuff</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-4"/>
+      <child nodeId="node-99"/>
+      <child nodeId="node-20"/>
+    </children>
+  </item>
+  <item nodeId="node-4">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Counting Eggs&#x000A;   Egg Contents&#x000A; &gt; Contents are ready. What next?&#x000A;   Fun stuff&#x000A;&#x000A;   Counting Eggs&#x000A;   Egg Contents&#x000A; &gt; Contents are ready. What next?&#x000A;   Fun stuff</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-114"/>
+      <child nodeId="node-5"/>
+    </children>
+  </item>
+  <item nodeId="node-114">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Counting Eggs&#x000A;   Egg Contents&#x000A;   Contents are ready. What next?&#x000A; &gt; Fun stuff&#x000A;&#x000A;   Counting Eggs&#x000A;   Egg Contents&#x000A;   Contents are ready. What next?&#x000A; &gt; Fun stuff</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-115"/>
+    </children>
+  </item>
+  <item nodeId="node-115">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">&gt; Did you examine everything in the front yard?&#x000A;   Did you examine everything in the back yard?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-116"/>
+      <child nodeId="node-121"/>
+    </children>
+  </item>
+  <item nodeId="node-116">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Did you examine everything in the front yard?&#x000A; &gt; Did you examine everything in the back yard?&#x000A;&#x000A;   Did you examine everything in the front yard?&#x000A; &gt; Did you examine everything in the back yard?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-117"/>
+    </children>
+  </item>
+  <item nodeId="node-117">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">Try the trampoline?&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-118"/>
+    </children>
+  </item>
+  <item nodeId="node-118">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">Did you examine everything in the front yard?&#x000A; &gt; Did you examine everything in the back yard?&#x000A;&#x000A;   Did you examine everything in the front yard?&#x000A; &gt; Did you examine everything in the back yard?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-119"/>
+    </children>
+  </item>
+  <item nodeId="node-119">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve">Counting Eggs&#x000A;   Egg Contents&#x000A;   Contents are ready. What next?&#x000A; &gt; Fun stuff</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-120"/>
+    </children>
+  </item>
+  <item nodeId="node-120">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve">Clue Emporium&#x000A;Type help for clues.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-121">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">Try the fire hydrant.&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-122"/>
+    </children>
+  </item>
+  <item nodeId="node-122">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">&gt; Did you examine everything in the front yard?&#x000A;   Did you examine everything in the back yard?&#x000A;&#x000A; &gt; Did you examine everything in the front yard?&#x000A;   Did you examine everything in the back yard?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-123"/>
+    </children>
+  </item>
+  <item nodeId="node-123">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Did you examine everything in the front yard?&#x000A; &gt; Did you examine everything in the back yard?&#x000A;&#x000A;   Did you examine everything in the front yard?&#x000A; &gt; Did you examine everything in the back yard?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-124"/>
+    </children>
+  </item>
+  <item nodeId="node-124">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">Try the trampoline.&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-125"/>
+    </children>
+  </item>
+  <item nodeId="node-125">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">Did you examine everything in the front yard?&#x000A; &gt; Did you examine everything in the back yard?&#x000A;&#x000A;   Did you examine everything in the front yard?&#x000A; &gt; Did you examine everything in the back yard?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-126"/>
+    </children>
+  </item>
+  <item nodeId="node-126">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve">Counting Eggs&#x000A;   Egg Contents&#x000A;   Contents are ready. What next?&#x000A; &gt; Fun stuff</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-127"/>
+    </children>
+  </item>
+  <item nodeId="node-127">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve">Clue Emporium&#x000A;Type help for clues.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-5">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">&gt; What do I do with this message?&#x000A;   Ok but what do I do?&#x000A;   A code?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-87"/>
+      <child nodeId="node-6"/>
+      <child nodeId="node-96"/>
+    </children>
+  </item>
+  <item nodeId="node-87">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">What do I do with this message?&#x000A; &gt; Ok but what do I do?&#x000A;   A code?&#x000A;&#x000A;   What do I do with this message?&#x000A; &gt; Ok but what do I do?&#x000A;   A code?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-88"/>
+    </children>
+  </item>
+  <item nodeId="node-88">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">What do I do with this message?&#x000A;   Ok but what do I do?&#x000A; &gt; A code?&#x000A;&#x000A;   What do I do with this message?&#x000A;   Ok but what do I do?&#x000A; &gt; A code?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-110"/>
+      <child nodeId="node-89"/>
+    </children>
+  </item>
+  <item nodeId="node-110">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">For starters what if we say A=1?&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-111"/>
+    </children>
+  </item>
+  <item nodeId="node-111">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">What do I do with this message?&#x000A;   Ok but what do I do?&#x000A; &gt; A code?&#x000A;&#x000A;   What do I do with this message?&#x000A;   Ok but what do I do?&#x000A; &gt; A code?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-112"/>
+    </children>
+  </item>
+  <item nodeId="node-112">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve">Counting Eggs&#x000A;   Egg Contents&#x000A; &gt; Contents are ready. What next?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-113"/>
+    </children>
+  </item>
+  <item nodeId="node-113">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve">Clue Emporium&#x000A;Type help for clues.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-89">
+    <command xml:space="preserve">[up]</command>
+    <result xml:space="preserve">&gt; How many eggs are there approximately?&#x000A;   it's less than 32&#x000A;&#x000A; &gt; How many eggs are there approximately?&#x000A;   it's less than 32</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-90"/>
+    </children>
+  </item>
+  <item nodeId="node-90">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">It's a power of 2, that's for sure&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-91"/>
+    </children>
+  </item>
+  <item nodeId="node-91">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">&gt; How many eggs are there approximately?&#x000A;   it's less than 32&#x000A;&#x000A; &gt; How many eggs are there approximately?&#x000A;   it's less than 32</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-6">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">You have letters. The safe takes numbers.&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-7"/>
+      <child nodeId="node-76"/>
+    </children>
+  </item>
+  <item nodeId="node-7">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">&gt; How many eggs are there approximately?&#x000A;   What's the upper bound?&#x000A;&#x000A; &gt; How many eggs are there approximately?&#x000A;   What's the upper bound?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-92"/>
+      <child nodeId="node-75"/>
+      <child nodeId="node-8"/>
+    </children>
+  </item>
+  <item nodeId="node-92">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">How many eggs are there approximately?&#x000A; &gt; What's the upper bound?&#x000A;&#x000A;   How many eggs are there approximately?&#x000A; &gt; What's the upper bound?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-93"/>
+    </children>
+  </item>
+  <item nodeId="node-93">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">It's fewer than 32.&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-94"/>
+    </children>
+  </item>
+  <item nodeId="node-94">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve"></result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-95"/>
+    </children>
+  </item>
+  <item nodeId="node-95">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">How many eggs are there approximately?&#x000A; &gt; What's the upper bound?&#x000A;&#x000A;   How many eggs are there approximately?&#x000A; &gt; What's the upper bound?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-75">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">a lot&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-8">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve">Salmon Tartare&#x000A;   Pecan Brownies&#x000A;   next menu&#x000A;   next menu&#x000A; &gt; next menu</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-9"/>
+    </children>
+  </item>
+  <item nodeId="node-9">
+    <command xml:space="preserve">[up]</command>
+    <result xml:space="preserve">Salmon Tartare&#x000A;   Pecan Brownies&#x000A;   next menu&#x000A; &gt; next menu&#x000A;   next menu&#x000A;&#x000A;   Salmon Tartare&#x000A;   Pecan Brownies&#x000A;   next menu&#x000A; &gt; next menu&#x000A;   next menu</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-10"/>
+    </children>
+  </item>
+  <item nodeId="node-10">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">&gt; what about letters</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-11"/>
+    </children>
+  </item>
+  <item nodeId="node-11">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">order them&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-12"/>
+    </children>
+  </item>
+  <item nodeId="node-12">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">&gt; what about letters&#x000A;&#x000A; &gt; what about letters</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-13"/>
+    </children>
+  </item>
+  <item nodeId="node-13">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve">Salmon Tartare&#x000A;   Pecan Brownies&#x000A;   next menu&#x000A;   next menu&#x000A; &gt; next menu</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-14"/>
+    </children>
+  </item>
+  <item nodeId="node-14">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">&gt; dial code</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-15"/>
+    </children>
+  </item>
+  <item nodeId="node-15">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">conver to numbers&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-16"/>
+    </children>
+  </item>
+  <item nodeId="node-16">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve"></result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-17"/>
+    </children>
+  </item>
+  <item nodeId="node-17">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">&gt; dial code&#x000A;&#x000A; &gt; dial code</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-18"/>
+    </children>
+  </item>
+  <item nodeId="node-18">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve">Salmon Tartare&#x000A;   Pecan Brownies&#x000A;   next menu&#x000A;   next menu&#x000A; &gt; next menu</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-19"/>
+    </children>
+  </item>
+  <item nodeId="node-19">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve">Whole Foods&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-76">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve"></result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-77"/>
+    </children>
+  </item>
+  <item nodeId="node-77">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">&gt; how many&#x000A;   it's less than 32&#x000A;&#x000A; &gt; how many&#x000A;   it's less than 32</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-78"/>
+    </children>
+  </item>
+  <item nodeId="node-78">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">how many&#x000A; &gt; it's less than 32&#x000A;&#x000A;   how many&#x000A; &gt; it's less than 32</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-79"/>
+    </children>
+  </item>
+  <item nodeId="node-79">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-80"/>
+    </children>
+  </item>
+  <item nodeId="node-80">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">how many&#x000A; &gt; it's less than 32&#x000A;&#x000A;   how many&#x000A; &gt; it's less than 32</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-81"/>
+    </children>
+  </item>
+  <item nodeId="node-81">
+    <command xml:space="preserve">[up]</command>
+    <result xml:space="preserve">&gt; how many&#x000A;   it's less than 32&#x000A;&#x000A; &gt; how many&#x000A;   it's less than 32</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-82"/>
+    </children>
+  </item>
+  <item nodeId="node-82">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">a power of 2&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-83"/>
+    </children>
+  </item>
+  <item nodeId="node-83">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">&gt; how many&#x000A;   it's less than 32&#x000A;&#x000A; &gt; how many&#x000A;   it's less than 32</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-84"/>
+    </children>
+  </item>
+  <item nodeId="node-84">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">how many&#x000A; &gt; it's less than 32&#x000A;&#x000A;   how many&#x000A; &gt; it's less than 32</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-85"/>
+    </children>
+  </item>
+  <item nodeId="node-85">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-86"/>
+    </children>
+  </item>
+  <item nodeId="node-86">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">how many&#x000A; &gt; it's less than 32&#x000A;&#x000A;   how many&#x000A; &gt; it's less than 32</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-96">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve">Salmon Tartare&#x000A;   Pecan Brownies&#x000A; &gt; Counting Eggs&#x000A;   next menu&#x000A;   next menu</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-97"/>
+    </children>
+  </item>
+  <item nodeId="node-97">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve">Whole Foods&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-99">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">&gt; I found a bunch of random letters.&#x000A;   What should I do with them?&#x000A;   Not having any luck with that.&#x000A;   Can you give me another?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-100"/>
+    </children>
+  </item>
+  <item nodeId="node-100">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">They're not random.&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-101"/>
+    </children>
+  </item>
+  <item nodeId="node-101">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">&gt; I found a bunch of random letters.&#x000A;   What should I do with them?&#x000A;   Not having any luck with that.&#x000A;   Can you give me another?&#x000A;&#x000A; &gt; I found a bunch of random letters.&#x000A;   What should I do with them?&#x000A;   Not having any luck with that.&#x000A;   Can you give me another?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-102"/>
+    </children>
+  </item>
+  <item nodeId="node-102">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">I found a bunch of random letters.&#x000A; &gt; What should I do with them?&#x000A;   Not having any luck with that.&#x000A;   Can you give me another?&#x000A;&#x000A;   I found a bunch of random letters.&#x000A; &gt; What should I do with them?&#x000A;   Not having any luck with that.&#x000A;   Can you give me another?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-103"/>
+    </children>
+  </item>
+  <item nodeId="node-103">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">Try re-ordering them.&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-104"/>
+    </children>
+  </item>
+  <item nodeId="node-104">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">I found a bunch of random letters.&#x000A; &gt; What should I do with them?&#x000A;   Not having any luck with that.&#x000A;   Can you give me another?&#x000A;&#x000A;   I found a bunch of random letters.&#x000A; &gt; What should I do with them?&#x000A;   Not having any luck with that.&#x000A;   Can you give me another?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-105"/>
+    </children>
+  </item>
+  <item nodeId="node-105">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">I found a bunch of random letters.&#x000A;   What should I do with them?&#x000A; &gt; Not having any luck with that.&#x000A;   Can you give me another?&#x000A;&#x000A;   I found a bunch of random letters.&#x000A;   What should I do with them?&#x000A; &gt; Not having any luck with that.&#x000A;   Can you give me another?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-106"/>
+    </children>
+  </item>
+  <item nodeId="node-106">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">One word is LONG.&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-107"/>
+    </children>
+  </item>
+  <item nodeId="node-107">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">I found a bunch of random letters.&#x000A;   What should I do with them?&#x000A; &gt; Not having any luck with that.&#x000A;   Can you give me another?&#x000A;&#x000A;   I found a bunch of random letters.&#x000A;   What should I do with them?&#x000A; &gt; Not having any luck with that.&#x000A;   Can you give me another?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-108"/>
+    </children>
+  </item>
+  <item nodeId="node-108">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">I found a bunch of random letters.&#x000A;   What should I do with them?&#x000A;   Not having any luck with that.&#x000A; &gt; Can you give me another?&#x000A;&#x000A;   I found a bunch of random letters.&#x000A;   What should I do with them?&#x000A;   Not having any luck with that.&#x000A; &gt; Can you give me another?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-109"/>
+    </children>
+  </item>
+  <item nodeId="node-109">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">Another is FISH.&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-20">
+    <command xml:space="preserve">[up]</command>
+    <result xml:space="preserve">&gt; Salmon Tartare&#x000A;   Pecan Brownies&#x000A;&#x000A; &gt; Salmon Tartare&#x000A;   Pecan Brownies</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-21"/>
+    </children>
+  </item>
+  <item nodeId="node-21">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">First, be sure to buy extremely fresh salmon. Raw fish should be served on the day it was caught, if possible. To guarantee this, visit an Asian supermarket or specialty store, and buy salmon marked "sashimi grade"...&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-22"/>
+    </children>
+  </item>
+  <item nodeId="node-22">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">&gt; Salmon Tartare&#x000A;   Pecan Brownies&#x000A;&#x000A; &gt; Salmon Tartare&#x000A;   Pecan Brownies</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-23"/>
+    </children>
+  </item>
+  <item nodeId="node-23">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve">Whole Foods&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-24"/>
+    </children>
+  </item>
+  <item nodeId="node-24">
+    <command xml:space="preserve">help</command>
+    <result xml:space="preserve">&gt; Salmon Tartare&#x000A;   Pecan Brownies</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-98">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">&gt; How many eggs are there approximately?&#x000A;   What's the upper bound?&#x000A;   I give up. How many exactly?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-25">
+    <command xml:space="preserve">that was super fucking hard</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-26"/>
+    </children>
+  </item>
+  <item nodeId="node-26">
+    <command xml:space="preserve">help</command>
+    <result xml:space="preserve">&gt; Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-27"/>
+    </children>
+  </item>
+  <item nodeId="node-27">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Introduction to Food Network Interactive&#x000A; &gt; Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author&#x000A;&#x000A;   Introduction to Food Network Interactive&#x000A; &gt; Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-28"/>
+    </children>
+  </item>
+  <item nodeId="node-28">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A; &gt; Recipes in This Game&#x000A;   Contacting the Author&#x000A;&#x000A;   Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A; &gt; Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-29"/>
+    </children>
+  </item>
+  <item nodeId="node-29">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A; &gt; Contacting the Author&#x000A;&#x000A;   Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A; &gt; Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-30"/>
+    </children>
+  </item>
+  <item nodeId="node-30">
+    <command xml:space="preserve">[up]</command>
+    <result xml:space="preserve">Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A; &gt; Recipes in This Game&#x000A;   Contacting the Author&#x000A;&#x000A;   Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A; &gt; Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-31"/>
+    </children>
+  </item>
+  <item nodeId="node-31">
+    <command xml:space="preserve">[up]</command>
+    <result xml:space="preserve">Introduction to Food Network Interactive&#x000A; &gt; Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author&#x000A;&#x000A;   Introduction to Food Network Interactive&#x000A; &gt; Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-32"/>
+    </children>
+  </item>
+  <item nodeId="node-32">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">&gt; About Interactive Fiction&#x000A;   What to do with &gt;&#x000A;   Getting Started&#x000A;   Rooms and Travel&#x000A;   Objects&#x000A;   Controlling the Game&#x000A;   How the World is Assembled&#x000A;   If You Get Stuck</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-33"/>
+    </children>
+  </item>
+  <item nodeId="node-33">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">About Interactive Fiction&#x000A; &gt; What to do with &gt;&#x000A;   Getting Started&#x000A;   Rooms and Travel&#x000A;   Objects&#x000A;   Controlling the Game&#x000A;   How the World is Assembled&#x000A;   If You Get Stuck&#x000A;&#x000A;   About Interactive Fiction&#x000A; &gt; What to do with &gt;&#x000A;   Getting Started&#x000A;   Rooms and Travel&#x000A;   Objects&#x000A;   Controlling the Game&#x000A;   How the World is Assembled&#x000A;   If You Get Stuck</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-34"/>
+    </children>
+  </item>
+  <item nodeId="node-34">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">About Interactive Fiction&#x000A;   What to do with &gt;&#x000A; &gt; Getting Started&#x000A;   Rooms and Travel&#x000A;   Objects&#x000A;   Controlling the Game&#x000A;   How the World is Assembled&#x000A;   If You Get Stuck&#x000A;&#x000A;   About Interactive Fiction&#x000A;   What to do with &gt;&#x000A; &gt; Getting Started&#x000A;   Rooms and Travel&#x000A;   Objects&#x000A;   Controlling the Game&#x000A;   How the World is Assembled&#x000A;   If You Get Stuck</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-35"/>
+    </children>
+  </item>
+  <item nodeId="node-35">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">About Interactive Fiction&#x000A;   What to do with &gt;&#x000A;   Getting Started&#x000A; &gt; Rooms and Travel&#x000A;   Objects&#x000A;   Controlling the Game&#x000A;   How the World is Assembled&#x000A;   If You Get Stuck&#x000A;&#x000A;   About Interactive Fiction&#x000A;   What to do with &gt;&#x000A;   Getting Started&#x000A; &gt; Rooms and Travel&#x000A;   Objects&#x000A;   Controlling the Game&#x000A;   How the World is Assembled&#x000A;   If You Get Stuck</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-36"/>
+    </children>
+  </item>
+  <item nodeId="node-36">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">At any given time, you are in a specific location, or room. When you go into a room, the game will print a description of what you can see there. This description will contain two vital kinds of information: things in the room you can interact with or take, and a list of exits, or ways out. If you want to see the description again, you may just type LOOK. &#x000A;&#x000A;When you want to leave a location and go to another one, you may communicate this to the game using compass directions: eg, GO NORTH. For simplicity's sake, you are allowed to omit the word GO, and to abbreviate the compass directions. So you may use NORTH, SOUTH, EAST, WEST, NORTHEAST, SOUTHEAST, NORTHWEST, SOUTHWEST, UP, and DOWN, or in short form N, S, E, W, NE, SE, NW, SW, U, and D.&#x000A;&#x000A;In some locations, IN and OUT will also be useful.&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-37"/>
+    </children>
+  </item>
+  <item nodeId="node-37">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">About Interactive Fiction&#x000A;   What to do with &gt;&#x000A;   Getting Started&#x000A; &gt; Rooms and Travel&#x000A;   Objects&#x000A;   Controlling the Game&#x000A;   How the World is Assembled&#x000A;   If You Get Stuck&#x000A;&#x000A;   About Interactive Fiction&#x000A;   What to do with &gt;&#x000A;   Getting Started&#x000A; &gt; Rooms and Travel&#x000A;   Objects&#x000A;   Controlling the Game&#x000A;   How the World is Assembled&#x000A;   If You Get Stuck</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-38"/>
+    </children>
+  </item>
+  <item nodeId="node-38">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">About Interactive Fiction&#x000A;   What to do with &gt;&#x000A;   Getting Started&#x000A;   Rooms and Travel&#x000A; &gt; Objects&#x000A;   Controlling the Game&#x000A;   How the World is Assembled&#x000A;   If You Get Stuck&#x000A;&#x000A;   About Interactive Fiction&#x000A;   What to do with &gt;&#x000A;   Getting Started&#x000A;   Rooms and Travel&#x000A; &gt; Objects&#x000A;   Controlling the Game&#x000A;   How the World is Assembled&#x000A;   If You Get Stuck</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-39"/>
+    </children>
+  </item>
+  <item nodeId="node-39">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">About Interactive Fiction&#x000A;   What to do with &gt;&#x000A;   Getting Started&#x000A;   Rooms and Travel&#x000A;   Objects&#x000A; &gt; Controlling the Game&#x000A;   How the World is Assembled&#x000A;   If You Get Stuck&#x000A;&#x000A;   About Interactive Fiction&#x000A;   What to do with &gt;&#x000A;   Getting Started&#x000A;   Rooms and Travel&#x000A;   Objects&#x000A; &gt; Controlling the Game&#x000A;   How the World is Assembled&#x000A;   If You Get Stuck</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-40"/>
+    </children>
+  </item>
+  <item nodeId="node-40">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">About Interactive Fiction&#x000A;   What to do with &gt;&#x000A;   Getting Started&#x000A;   Rooms and Travel&#x000A;   Objects&#x000A;   Controlling the Game&#x000A; &gt; How the World is Assembled&#x000A;   If You Get Stuck&#x000A;&#x000A;   About Interactive Fiction&#x000A;   What to do with &gt;&#x000A;   Getting Started&#x000A;   Rooms and Travel&#x000A;   Objects&#x000A;   Controlling the Game&#x000A; &gt; How the World is Assembled&#x000A;   If You Get Stuck</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-41"/>
+    </children>
+  </item>
+  <item nodeId="node-41">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">&gt; Space&#x000A;   Containment&#x000A;   Types of Action&#x000A;   Other Characters</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-42"/>
+    </children>
+  </item>
+  <item nodeId="node-42">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Space&#x000A; &gt; Containment&#x000A;   Types of Action&#x000A;   Other Characters&#x000A;&#x000A;   Space&#x000A; &gt; Containment&#x000A;   Types of Action&#x000A;   Other Characters</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-43"/>
+    </children>
+  </item>
+  <item nodeId="node-43">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">One thing that IF does tend to model thoroughly is containment. Is something in or on something else? The game keeps track of this, and many puzzles have to do with where things are -- in the player's possession, lying on the floor of the room, on a table, in a box, etc.&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-44"/>
+    </children>
+  </item>
+  <item nodeId="node-44">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">Space&#x000A; &gt; Containment&#x000A;   Types of Action&#x000A;   Other Characters&#x000A;&#x000A;   Space&#x000A; &gt; Containment&#x000A;   Types of Action&#x000A;   Other Characters</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-45"/>
+    </children>
+  </item>
+  <item nodeId="node-45">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve">About Interactive Fiction&#x000A;   What to do with &gt;&#x000A;   Getting Started&#x000A;   Rooms and Travel&#x000A;   Objects&#x000A;   Controlling the Game&#x000A; &gt; How the World is Assembled&#x000A;   If You Get Stuck</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-46"/>
+    </children>
+  </item>
+  <item nodeId="node-46">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve">Introduction to Food Network Interactive&#x000A; &gt; Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-47"/>
+    </children>
+  </item>
+  <item nodeId="node-47">
+    <command xml:space="preserve">[up]</command>
+    <result xml:space="preserve">&gt; Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author&#x000A;&#x000A; &gt; Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-48"/>
+    </children>
+  </item>
+  <item nodeId="node-48">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Introduction to Food Network Interactive&#x000A; &gt; Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author&#x000A;&#x000A;   Introduction to Food Network Interactive&#x000A; &gt; Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-49"/>
+    </children>
+  </item>
+  <item nodeId="node-49">
+    <command xml:space="preserve">[up]</command>
+    <result xml:space="preserve">&gt; Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author&#x000A;&#x000A; &gt; Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-50"/>
+    </children>
+  </item>
+  <item nodeId="node-50">
+    <command xml:space="preserve">[up]</command>
+    <result xml:space="preserve">&gt; Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author&#x000A;&#x000A; &gt; Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-51"/>
+    </children>
+  </item>
+  <item nodeId="node-51">
+    <command xml:space="preserve">[up]</command>
+    <result xml:space="preserve">&gt; Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author&#x000A;&#x000A; &gt; Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-52"/>
+    </children>
+  </item>
+  <item nodeId="node-52">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Introduction to Food Network Interactive&#x000A; &gt; Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author&#x000A;&#x000A;   Introduction to Food Network Interactive&#x000A; &gt; Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-53"/>
+    </children>
+  </item>
+  <item nodeId="node-53">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A; &gt; Recipes in This Game&#x000A;   Contacting the Author&#x000A;&#x000A;   Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A; &gt; Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-54"/>
+    </children>
+  </item>
+  <item nodeId="node-54">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A; &gt; Contacting the Author&#x000A;&#x000A;   Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A; &gt; Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-55"/>
+    </children>
+  </item>
+  <item nodeId="node-55">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">If you have any difficulties with Food Network Interactive, please contact me at fakeaddress@gmail.com.&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-56"/>
+    </children>
+  </item>
+  <item nodeId="node-56">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A; &gt; Contacting the Author&#x000A;&#x000A;   Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A; &gt; Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-57"/>
+    </children>
+  </item>
+  <item nodeId="node-57">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve">Whole Foods&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-58"/>
+    </children>
+  </item>
+  <item nodeId="node-58">
+    <command xml:space="preserve">barf</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-59"/>
+    </children>
+  </item>
+  <item nodeId="node-59">
+    <command xml:space="preserve">help</command>
+    <result xml:space="preserve">&gt; Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-60"/>
+    </children>
+  </item>
+  <item nodeId="node-60">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Introduction to Food Network Interactive&#x000A; &gt; Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author&#x000A;&#x000A;   Introduction to Food Network Interactive&#x000A; &gt; Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-61"/>
+    </children>
+  </item>
+  <item nodeId="node-61">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A; &gt; Recipes in This Game&#x000A;   Contacting the Author&#x000A;&#x000A;   Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A; &gt; Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-62"/>
+    </children>
+  </item>
+  <item nodeId="node-62">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">&gt; Salmon Tartare&#x000A;   Pecan Brownies</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-63"/>
+    </children>
+  </item>
+  <item nodeId="node-63">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">First, be sure to buy extremely fresh salmon. Raw fish should be served on the day it was caught, if possible. To guarantee this, visit an Asian supermarket or specialty store, and buy salmon marked "sashimi grade"...&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-64"/>
+    </children>
+  </item>
+  <item nodeId="node-64">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">&gt; Salmon Tartare&#x000A;   Pecan Brownies&#x000A;&#x000A; &gt; Salmon Tartare&#x000A;   Pecan Brownies</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-65"/>
+    </children>
+  </item>
+  <item nodeId="node-65">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Salmon Tartare&#x000A; &gt; Pecan Brownies&#x000A;&#x000A;   Salmon Tartare&#x000A; &gt; Pecan Brownies</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-66"/>
+    </children>
+  </item>
+  <item nodeId="node-66">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">Begin by shelling half a pound of pecans...&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-67"/>
+    </children>
+  </item>
+  <item nodeId="node-67">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">Salmon Tartare&#x000A; &gt; Pecan Brownies&#x000A;&#x000A;   Salmon Tartare&#x000A; &gt; Pecan Brownies</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-68"/>
+    </children>
+  </item>
+  <item nodeId="node-68">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve">Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A; &gt; Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-69"/>
+    </children>
+  </item>
+  <item nodeId="node-69">
+    <command xml:space="preserve">q</command>
+    <result xml:space="preserve">Whole Foods&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-70"/>
+    </children>
+  </item>
+  <item nodeId="node-70">
+    <command xml:space="preserve">help</command>
+    <result xml:space="preserve">&gt; Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-71"/>
+    </children>
+  </item>
+  <item nodeId="node-71">
+    <command xml:space="preserve">[down]</command>
+    <result xml:space="preserve">Introduction to Food Network Interactive&#x000A; &gt; Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author&#x000A;&#x000A;   Introduction to Food Network Interactive&#x000A; &gt; Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-72"/>
+    </children>
+  </item>
+  <item nodeId="node-72">
+    <command xml:space="preserve">[up]</command>
+    <result xml:space="preserve">&gt; Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author&#x000A;&#x000A; &gt; Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-73"/>
+    </children>
+  </item>
+  <item nodeId="node-73">
+    <command xml:space="preserve">[enter]</command>
+    <result xml:space="preserve">This is a simple demonstration Fiction game.&#x000A;&#x000A;&#x000A;&#x000A;Please press SPACE to continue.</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-74"/>
+    </children>
+  </item>
+  <item nodeId="node-74">
+    <command xml:space="preserve"> </command>
+    <result xml:space="preserve">&gt; Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author&#x000A;&#x000A; &gt; Introduction to Food Network Interactive&#x000A;   Instructions for Play&#x000A;   Recipes in This Game&#x000A;   Contacting the Author</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+</Skein>

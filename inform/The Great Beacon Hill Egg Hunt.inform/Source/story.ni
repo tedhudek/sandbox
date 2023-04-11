@@ -21,7 +21,7 @@ The Kitchen is north of the Living Room. The Bathroom is northwest of the Living
 
 A bed is a supporter in the Bedroom. A pillow is on the bed. A blue backpack is a container in the Bedroom. It is closed and openable. A red Easter egg is in the blue backpack. The egg is a closed, openable container. A message is in the egg.
 
-After taking the red egg:
+After taking the red egg for the first time:
 	increase the score by 10;
 
 Instead of examining the message:
@@ -160,7 +160,7 @@ After taking the pink egg:
 Section 2 - 20thForest
 
 20thForest is southwest of 21stBayview. Printed name is "20th & Forest".
-"You are at a traffic circle that has some lovely yellow daffodils. A path leads west, where you can see a dream ship.  You can also go southeast."
+"You are at a traffic circle that has some lovely yellow daffodils. A path leads west, where you can see a dream ship.  You can also go southeast and northeast."
 
 a traffic circle is a supporter in 20thForest.
 
@@ -280,9 +280,9 @@ Chapter 4 - Garage
 Garage contains a closed lockable locked container called a safe.
 "You are in a two car garage with a really high ceiling.  There is a weight bench here and an extremely heavy looking kettlebell."
 
-[The kettlebell is scenery in the Garage. "It's a massive cast iron ball with a handle."
+The kettlebell is scenery in the Garage. "It's a massive cast iron ball with a handle."
 
-The weight bench is scenery in the Garage. "A padded black vinyl surface covers the bench. It has wheels on one end."]
+The weight bench is scenery in the Garage. "A padded black vinyl surface covers the bench. It has wheels on one end."
 
 The safe has a list of numbers called the current combination.
 

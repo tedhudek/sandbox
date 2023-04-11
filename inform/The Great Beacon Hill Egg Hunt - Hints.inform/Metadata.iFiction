@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ifindex version="1.0" xmlns="http://babel.ifarchive.org/protocol/iFiction/">
+    <story>
+        <identification>
+            <ifid>B35EBCEE-4E1D-4AA0-9FBB-2396A63A51DD</ifid>
+            <format>zcode</format>
+        </identification>
+        <bibliographic>
+            <title>The Great Beacon Hill Egg Hunt - Hints</title>
+            <author>Anonymous</author>
+            <headline>An Interactive Fiction</headline>
+            <genre>Fiction</genre>
+            <firstpublished>2023</firstpublished>
+            <language>en</language>
+            <group>Inform</group>
+        </bibliographic>
+        <releases>
+            <attached>
+                <release>
+                    <releasedate>2023-04-08</releasedate>
+                    <version>1</version>
+                    <compiler>Inform 7</compiler>
+                    <compilerversion>Inform 10.1.2 (build )</compilerversion>
+                </release>
+            </attached>
+        </releases>
+        <colophon>
+            <generator>Inform 7</generator>
+            <generatorversion>Inform 10.1.2 (build )</generatorversion>
+            <originated>2023-04-08</originated>
+        </colophon>
+        <zcode>
+            <serial>230408</serial>
+            <release>1</release>
+            <compiler>Inform Inform 10.1.2 (build )</compiler>
+        </zcode>
+    </story>
+</ifindex>
