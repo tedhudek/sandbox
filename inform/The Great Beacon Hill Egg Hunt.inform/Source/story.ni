@@ -83,7 +83,7 @@ Chapter 2 - Yard
 Section 1 - Out Front
 
 Front Yard is west of Front Porch.
-"A nice front yard with a yellow fire hydrant."
+"A nice front yard with a yellow fire hydrant. You can go east or southwest."
 
 The hydrant is scenery in the Front Yard. “The diminutive yellow plug stands tall, ready to do its job.”
 
