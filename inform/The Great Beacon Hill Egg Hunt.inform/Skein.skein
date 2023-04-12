@@ -3,7 +3,7 @@
   <generator>Windows Inform 10.1.2</generator>
   <item nodeId="node-1">
     <command xml:space="preserve">The Great Beacon Hill Egg Hunt</command>
-    <result xml:space="preserve">The Great Beacon Hill Egg Hunt&#x000A;An Egg-stravagant Fiction by E. Bunny&#x000A;Release 1 / Serial number 230411 / Inform 7 v10.1.2 / D&#x000A;&#x000A;Bedroom&#x000A;The master bedroom is tastefully furnished and has a vaulted ceiling. You can exit by going down or west.&#x000A;&#x000A;You can see a bed (on which is a pillow) and a blue backpack (closed) here.&#x000A;&#x000A;&gt;</result>
+    <result xml:space="preserve">The Great Beacon Hill Egg Hunt&#x000A;An Egg-stravagant Fiction by E. Bunny&#x000A;Release 1 / Serial number 230412 / Inform 7 v10.1.2 / D&#x000A;&#x000A;Bedroom&#x000A;The master bedroom is tastefully furnished and has a vaulted ceiling. You can exit by going down, west, or east.&#x000A;&#x000A;You can see a bed (on which is a pillow) and a blue backpack (closed) here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
@@ -5376,21 +5376,23 @@
   </item>
   <item nodeId="node-612">
     <command xml:space="preserve">w</command>
-    <result xml:space="preserve">Hallway&#x000A;A hallway that you thought you'd seen many times before, but something seems to be different about it this time.&#x000A;&#x000A;You can see a washing machine (on which is a dryer) and a hamper (closed) here.&#x000A;&#x000A;&gt;</result>
+    <result xml:space="preserve">What, you want to break the window!? Nice try.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
       <child nodeId="node-613"/>
+      <child nodeId="node-633"/>
       <child nodeId="node-621"/>
     </children>
   </item>
   <item nodeId="node-613">
     <command xml:space="preserve">e</command>
-    <result xml:space="preserve">Bedroom&#x000A;The master bedroom is tastefully furnished and has a vaulted ceiling. You can exit by going down or west.&#x000A;&#x000A;You can see a bed (on which is a pillow) and a blue backpack (closed) here.&#x000A;&#x000A;&gt;</result>
+    <result xml:space="preserve">Hallway&#x000A;A hallway that you thought you'd seen many times before, but something seems to be different about it this time. You might be able to go (a mystery direction-- hahahaha I'm not telling) through the portal.&#x000A;&#x000A;You can see a portal, a washing machine (on which is a dryer) and a hamper (closed) here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
     <children>
       <child nodeId="node-614"/>
+      <child nodeId="node-636"/>
     </children>
   </item>
   <item nodeId="node-614">
@@ -5450,6 +5452,81 @@
   <item nodeId="node-620">
     <command xml:space="preserve">get clothes</command>
     <result xml:space="preserve">[Your score has just gone down by ten points.]&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-636">
+    <command xml:space="preserve">open portal</command>
+    <result xml:space="preserve">You open the portal.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-637"/>
+    </children>
+  </item>
+  <item nodeId="node-637">
+    <command xml:space="preserve">go through portal</command>
+    <result xml:space="preserve">Ohio&#x000A;The portal needed somewhere to go but I don't feel like making another room right now&#x000A;&#x000A;You can see a portal here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-638"/>
+    </children>
+  </item>
+  <item nodeId="node-638">
+    <command xml:space="preserve">s</command>
+    <result xml:space="preserve">Hallway&#x000A;A hallway that you thought you'd seen many times before, but something seems to be different about it this time. You might be able to go (a mystery direction-- hahahaha I'm not telling) through the portal.&#x000A;&#x000A;You can see a portal, a washing machine (on which is a dryer) and a hamper (closed) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-639"/>
+    </children>
+  </item>
+  <item nodeId="node-639">
+    <command xml:space="preserve">l</command>
+    <result xml:space="preserve">Hallway&#x000A;A hallway that you thought you'd seen many times before, but something seems to be different about it this time. You might be able to go (a mystery direction-- hahahaha I'm not telling) through the portal.&#x000A;&#x000A;You can see a portal, a washing machine (on which is a dryer) and a hamper (closed) here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-640"/>
+    </children>
+  </item>
+  <item nodeId="node-640">
+    <command xml:space="preserve">w</command>
+    <result xml:space="preserve">What, you want to break the window!? Nice try.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-641"/>
+    </children>
+  </item>
+  <item nodeId="node-641">
+    <command xml:space="preserve">break the window</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-633">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Bonk! The portal is closed. &#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-634"/>
+    </children>
+  </item>
+  <item nodeId="node-634">
+    <command xml:space="preserve">open portal</command>
+    <result xml:space="preserve">You open the portal.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-635"/>
+    </children>
+  </item>
+  <item nodeId="node-635">
+    <command xml:space="preserve">n</command>
+    <result xml:space="preserve">Ohio&#x000A;The portal needed somewhere to go but I don't feel like making another room right now&#x000A;&#x000A;You can see a portal here.&#x000A;&#x000A;&gt;</result>
     <commentary xml:space="preserve"></commentary>
     <changed>NO</changed>
   </item>
