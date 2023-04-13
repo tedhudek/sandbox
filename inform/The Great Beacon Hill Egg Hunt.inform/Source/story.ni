@@ -15,7 +15,10 @@ Chapter 1 - In the House
 
 Section 1 - Bedroom
 
-The Bedroom is up from the Living Room. "The master bedroom is tastefully furnished and has a vaulted ceiling. You can exit by going down or west."
+The Bedroom is up from the Living Room. "The master bedroom is tastefully furnished and has a vaulted ceiling. You can exit by going down, west, or east."
+
+Instead of going west in the Bedroom:
+	say "What, you want to break the window!? Nice try.";
 
 The Kitchen is north of the Living Room. The Bathroom is northwest of the Living Room. The Dining Room is west of the Kitchen. The Front Room is west of the Dining Room.
 
@@ -80,9 +83,9 @@ The front door has description "It leads outside."
 
 Section 7 - Hallway
 
-The Hallway is west of the Bedroom.
+The Hallway is east of the Bedroom.
 
-The Hallway has description "A hallway that you thought you'd seen many times before, but something seems to be different about it this time.".
+The Hallway has description "A hallway that you thought you'd seen many times before, but something seems to be different about it this time. You might be able to go (a mystery direction-- hahahaha I'm not telling) through the portal.".
 
 A washing machine is a supporter in the Hallway. A dryer is on the washing machine. A hamper is a container in the Hallway. It is closed and openable.
 A stack of dirty clothes is in the hamper.
@@ -93,14 +96,16 @@ After taking the dirty clothes:
 After dropping the dirty clothes:
 	increase the score by 10;
 	say "Oh, good to see you still have some common sense.";
-[The portal is south of Ohio.
+	
+The portal is north of the Hallway.
+The portal is south of Ohio.
 The portal is a closed openable door.
 The portal has description "It's a magic portal!"
 
 Section 8 - Ohio
 
 Ohio is north of the portal.
-Ohio has description "The portal needed somewhere to go but I don't feel like making another room right now"]
+Ohio has description "The portal needed somewhere to go but I don't feel like making another room right now"
 
 Chapter 2 - Yard
 
