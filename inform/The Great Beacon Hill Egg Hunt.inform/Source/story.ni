@@ -105,7 +105,43 @@ The portal has description "It's a magic portal!"
 Section 8 - Ohio
 
 Ohio is north of the portal.
-Ohio has description "The portal needed somewhere to go but I don't feel like making another room right now"
+Ohio has description "There's something that you need to do here. You've done it before, so just do it again. You'll know when you have.".
+Instead of going to Ohio when the player carries the dryer:
+	increase the score by 5;
+	say "Yay! Ohio really did need a dryer.";
+	move the player to Ohio;
+	now the dryer is in Ohio.
+
+The truck is north of Ohio.
+The truck is a closed openable door.
+The truck has description "It's actually a door. Hahaha almost fooled you there didn't I?"
+
+Section 9 - San Diego
+
+San Diego is north of the truck.
+San Diego has description "You are now in San Diego. Huh, almost seems like you've heard about this very place before...".
+Mike is a supporter in San Diego.
+The cactus is on Mike. 
+The cactus has description "HAHAHAHA it's not actually a cactus, almost fooled you again didn't I?"
+After taking the cactus:
+	increase the score by 100;
+	say "Good kitty!";
+	now the cactus is in Outsider Pizza;
+	
+The painting is north of San Diego.
+The painting is a closed openable door.
+The painting has description "Think Super Mario 64. Except you have to open it, like a door.".
+
+
+Section 10 - Outsider Pizza
+
+Outsider Pizza is north of the painting.
+The pizza counter is a supporter in Outsider Pizza.
+There is a box of pizza on the pizza counter.
+
+Instead of taking the pizza box:
+	say "You haven't got any money! Unless you got some Zorkmids but didn't tell me about them.".
+
 
 Chapter 2 - Yard
 
