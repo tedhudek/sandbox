@@ -16,3 +16,9 @@
 *Inform\ Map.eps
 Icon*
 *.vscode/launch.json
+*GameInfo.txt
+TADS/Scripts/*
+*.t3m
+*.tdbconfig
+TADS/debug/*
+TADS/obj/*
