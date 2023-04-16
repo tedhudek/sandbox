@@ -112,36 +112,46 @@ Instead of going to Ohio when the player carries the dryer:
 	move the player to Ohio;
 	now the dryer is in Ohio.
 
-In Ohio there is a vehicle called the truck.
-The truck has description "Whee! Now it's an actual truck!"
+Include Rideable Vehicles by Graham Nelson.
+The red truck is a rideable vehicle in Ohio.
+
+Instead of going to San Diego from Ohio when the player is not on the red truck:
+	say "It's a long journey; you'll never make it on foot."
+
+After going to San Diego:
+	say "Don't you just love that it's a real truck now?";
+	continue the action.
+
+Ohio is south of San Diego.
+
 
 Section 9 - San Diego
 
 San Diego is north of Ohio.
 San Diego has description "You are now in San Diego. Huh, almost seems like you've heard about this very place before...".
-In San Diego there is a man called Mike.
+Mike is a man in San Diego.
 The cactus is an object. The cactus is in San Diego.
+The note is an object. The note is in San Diego.
 
-Topic is a kind of value. A topic has some text called description. The topics are the dryer, the cactus and the weather.
+[i cant figure out how to "ask about" so this is temporary, but it doesnt work for the dryer and truck]
+		
+Instead of asking Mike for the cactus:
+		say "Mike tells you all about what he believes is actually a cactus, and asks for your help moving it.";
 
-Table of Mike
-topic	response
-the dryer	"I saw something strange in the dryer."
-the cactus	"Ah, my lovely cactus! Will you help me move it?"
-the weather	"It's too hot for me. I wish I could go to Alaska."
-
-Instead of asking Mike about something:
-	if the noun is a topic listed in the Table of Mike:
-		say "[response entry][paragraph break]";
-	otherwise:
-		say "Mike doesn't seem interested in that topic."
-	
+Instead of asking Mike for the red truck:
+		say "Mike talks about his truck for a while.";
+		
+Instead of taking the note:
+	say "Why don't you ask Mike for it?";
+Instead of asking Mike for the note:
+	say "Mike gives you the note. It says, There was something strange in the dryer...";
+	increase the score by 5;
+			
 After taking the cactus:
 	increase the score by 100;
 	say "Good kitty!";
-	now the cactus is in Outsider Pizza;
 
-Instead of going to Outsider Pizza by the truck:	
+Instead of going to Outsider Pizza by the red truck:	
 	say "Nope, the truck stays in San Diego.";
 	
 The painting is north of San Diego.
@@ -153,11 +163,21 @@ Section 10 - Outsider Pizza
 
 Outsider Pizza is north of the painting.
 The pizza counter is a supporter in Outsider Pizza.
-There is a box of pizza on the pizza counter.
+There is a box of pizza on the pizza counter. The box of pizza is a container. The box of pizza is closed and openable. The box of pizza contains a slice of pizza. The slice of pizza is edible.
 
-Instead of taking the pizza box:
+Instead of opening the box of pizza when the player does not have the box of pizza:
+	say "You'll need to take it first."
+
+Instead of taking the pizza box when the player does not have the zorkmid:
 	say "You haven't got any money! Unless you got some Zorkmids but didn't tell me about them.".
-
+After taking the pizza box:
+	say "You pay for the pizza with the zorkmid.";
+	increase the score by 20;
+	move the zorkmid to the library;
+	continue the action;
+After eating the slice of pizza:
+	say "You eat the slice of pizza. Yum!";
+	increase the score by 10 points;
 
 Chapter 2 - Yard
 
