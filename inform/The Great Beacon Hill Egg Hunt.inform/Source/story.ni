@@ -87,7 +87,7 @@ The Hallway is east of the Bedroom.
 
 The Hallway has description "A hallway that you thought you'd seen many times before, but something seems to be different about it this time. You might be able to go (a mystery direction-- hahahaha I'm not telling) through the portal.".
 
-A washing machine is a supporter in the Hallway. A dryer is on the washing machine. A hamper is a container in the Hallway. It is closed and openable.
+A washing machine is a supporter in the Hallway. A dryer is on the washing machine. The dryer is a container. It is closed and openable. There is a zorkmid in the dryer. A hamper is a container in the Hallway. It is closed and openable.
 A stack of dirty clothes is in the hamper.
 
 After taking the dirty clothes:
@@ -112,21 +112,37 @@ Instead of going to Ohio when the player carries the dryer:
 	move the player to Ohio;
 	now the dryer is in Ohio.
 
-The truck is north of Ohio.
-The truck is a closed openable door.
-The truck has description "It's actually a door. Hahaha almost fooled you there didn't I?"
+In Ohio there is a vehicle called the truck.
+The truck has description "Whee! Now it's an actual truck!"
 
 Section 9 - San Diego
 
-San Diego is north of the truck.
+San Diego is north of Ohio.
 San Diego has description "You are now in San Diego. Huh, almost seems like you've heard about this very place before...".
-Mike is a supporter in San Diego.
-The cactus is on Mike. 
-The cactus has description "HAHAHAHA it's not actually a cactus, almost fooled you again didn't I?"
+In San Diego there is a man called Mike.
+The cactus is an object. The cactus is in San Diego.
+
+Topic is a kind of value. A topic has some text called description. The topics are the dryer, the cactus and the weather.
+
+Table of Mike
+topic	response
+the dryer	"I saw something strange in the dryer."
+the cactus	"Ah, my lovely cactus! Will you help me move it?"
+the weather	"It's too hot for me. I wish I could go to Alaska."
+
+Instead of asking Mike about something:
+	if the noun is a topic listed in the Table of Mike:
+		say "[response entry][paragraph break]";
+	otherwise:
+		say "Mike doesn't seem interested in that topic."
+	
 After taking the cactus:
 	increase the score by 100;
 	say "Good kitty!";
 	now the cactus is in Outsider Pizza;
+
+Instead of going to Outsider Pizza by the truck:	
+	say "Nope, the truck stays in San Diego.";
 	
 The painting is north of San Diego.
 The painting is a closed openable door.
