@@ -129,14 +129,16 @@ Section 9 - San Diego
 
 San Diego is north of Ohio.
 San Diego has description "You are now in San Diego. Huh, almost seems like you've heard about this very place before...".
-Mike is a man in San Diego.
-The cactus is an object. The cactus is in San Diego.
+
+Mike is a person in San Diego.
+The cactus is a thing in San Diego.
 The note is an object. The note is in San Diego.
 
 [i cant figure out how to "ask about" so this is temporary, but it doesnt work for the dryer and truck]
-		
-Instead of asking Mike for the cactus:
-		say "Mike tells you all about what he believes is actually a cactus, and asks for your help moving it.";
+
+
+Instead of asking Mike about cactus: [This defines what happens when the player asks Mike about cactus.]
+	say "Mike says it is really tall."
 
 Instead of asking Mike for the red truck:
 		say "Mike talks about his truck for a while.";
@@ -176,8 +178,8 @@ After taking the pizza box:
 	move the zorkmid to the library;
 	continue the action;
 After eating the slice of pizza:
-	say "You eat the slice of pizza. Yum!";
-	increase the score by 10 points;
+	say "You eat the slice of pizza. Yum! +10";
+[	increase the score by 10 points;]
 
 Chapter 2 - Yard
 
