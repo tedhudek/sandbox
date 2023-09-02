@@ -8,7 +8,7 @@
             "name": "Python",
             "type": "python",
             "request": "launch",
-            "stopOnEntry": true,
+            "stopOnEntry": false,
             "python": "${command:python.interpreterPath}",
             "program": "${file}",
             "cwd": "${workspaceFolder}",
