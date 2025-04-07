@@ -22,4 +22,4 @@ TADS/Scripts/*
 *.tdbconfig
 TADS/debug/*
 TADS/obj/*
-target/*
+target

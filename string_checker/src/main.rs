@@ -23,7 +23,7 @@ fn main() {
         println!("Success! Here's a binary tree with 7 nodes:");
         println!("       1       ");
         println!("      / \\     ");
-        println!("     2   3     ");
+        println!("     22   3     ");
         println!("    / \\ / \\  ");
         println!("   4  5 6  7   ");
     } else {
