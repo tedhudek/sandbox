@@ -2,13 +2,14 @@ use std::io;
 
 fn main() {
     // Hard-coded string to compare against
-    let secret = "hello";
+    let secret: &str = "1111000101101011000101110";
+    //let secret: &str = "55";
 
     // Prompt user for input
-    println!("Please enter a string:");
+    println!("Enter bit sequence:");
 
     // Create a mutable string to store user input
-    let mut user_input = String::new();
+    let mut user_input: String = String::new();
 
     // Read input from the user
     io::stdin()
@@ -16,17 +17,20 @@ fn main() {
         .expect("Failed to read line");
 
     // Trim the input to remove newline characters
-    let user_input = user_input.trim();
+    let user_input: &str = user_input.trim();
 
     // Compare strings and output result
     if user_input == secret {
-        println!("Success! Here's a binary tree with 7 nodes:");
-        println!("       1       ");
-        println!("      / \\     ");
-        println!("     22   3     ");
-        println!("    / \\ / \\  ");
-        println!("   4  5 6  7   ");
+        println!("You have entered the correct sequence. Look, a Huffman tree!");
+        println!("      /   \\     ");
+        println!("     E     D     ");
+        println!("          /  \\  ");
+        println!("         K    S   ");
+        println!("        / \\  / \\");
+        println!("       H   T R  U");
+        println!("      /     ");
+        println!("     N       ");
     } else {
-        println!("Sorry, the strings don't match.");
+        println!("Incorrect sequence, please try again.");
     }
 }
