@@ -33,4 +33,12 @@ fn main() {
     } else {
         println!("Incorrect sequence, please try again.");
     }
+
+    println!("Press any key to exit..."); 
+    let mut exit_key: String = String::new();
+
+    io::stdin()
+    .read_line(&mut exit_key)
+    .expect("Failed to read line");
+
 }
